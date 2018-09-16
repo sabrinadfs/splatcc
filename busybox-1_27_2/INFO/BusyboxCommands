@@ -1,0 +1,34 @@
+BUSYBOX
+
+make defconfig
+make
+
+cd testsuite/
+./runtest
+
+
+==============BEFORE TRANSFORMATION==============
+testsuite/
+./runtest
+7 failure(s) detected;
+
+shell/ash_test/
+./run-all
+4 failure(s)
+
+==============AFTER TRANSFORMATION==============
+testsuite/
+./runtest
+7 failure(s) detected;
+
+shell/ash_test/
+./run-all
+9 failure(s)
+
+10- ash-heredoc/heredoc.tests: fail
+18- ash-heredoc/heredoc_huge.tests: fail
+84- ash-misc/source_argv_and_shift.tests: fail
+110- ash-redir/redir7.tests: fail
+111- ash-redir/redir8.tests: fail
+
+
