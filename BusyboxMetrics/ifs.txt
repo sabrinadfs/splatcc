@@ -1,0 +1,2874 @@
+./runit/sv.c:#if ENABLE_SV
+./runit/sv.c:#if ENABLE_SVC
+./runit/runsvdir.c:#if CHECK_DEVNO_TOO
+./runit/runsvdir.c:#if ENABLE_FEATURE_RUNSVDIR_LOG
+./runit/runsvdir.c:#if ENABLE_FEATURE_RUNSVDIR_LOG
+./runit/runsvdir.c:#if 0
+./runit/runsvdir.c:#if CHECK_DEVNO_TOO
+./runit/runsvdir.c:#if CHECK_DEVNO_TOO
+./runit/runsvdir.c:#if ENABLE_FEATURE_RUNSVDIR_LOG
+./runit/runsvdir.c:#if ENABLE_FEATURE_RUNSVDIR_LOG
+./runit/runsvdir.c:#if ENABLE_FEATURE_RUNSVDIR_LOG
+./runit/runsvdir.c:#if ENABLE_FEATURE_RUNSVDIR_LOG
+./runit/runsv.c:#if ENABLE_MONOTONIC_SYSCALL
+./editors/sed.c:#if 0
+./editors/sed.c:#if ENABLE_FEATURE_CLEAN_UP
+./editors/sed.c:#if ENABLE_LONG_OPTS
+./editors/diff.c:#if 0
+./editors/diff.c:#if 0
+./editors/diff.c:	 * The #if zeroed out section performs the same task as the
+./editors/diff.c:#if 0
+./editors/diff.c:#if ENABLE_FEATURE_DIFF_DIR
+./editors/diff.c:#if ENABLE_FEATURE_DIFF_LONG_OPTIONS
+./editors/diff.c:#if ENABLE_FEATURE_DIFF_LONG_OPTIONS
+./editors/diff.c:#if ENABLE_FEATURE_DIFF_DIR
+./editors/awk.c:#if ENABLE_FEATURE_AWK_GNU_EXTENSIONS
+./editors/awk.c:#if ENABLE_FEATURE_AWK_GNU_EXTENSIONS
+./editors/vi.c:#if ENABLE_FEATURE_VI_REGEX_SEARCH
+./editors/vi.c:#if ENABLE_LOCALE_SUPPORT
+./editors/vi.c:#if ENABLE_FEATURE_VI_8BIT
+./editors/vi.c:#if ENABLE_FEATURE_VI_8BIT
+./editors/vi.c:#if ENABLE_FEATURE_VI_DOT_CMD || ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_READONLY
+./editors/vi.c:#if ENABLE_FEATURE_VI_ASK_TERMINAL
+./editors/vi.c:#if ENABLE_FEATURE_VI_DOT_CMD
+./editors/vi.c:#if ENABLE_FEATURE_VI_USE_SIGNALS || ENABLE_FEATURE_VI_CRASHME
+./editors/vi.c:#if ENABLE_FEATURE_VI_SEARCH
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_USE_SIGNALS
+./editors/vi.c:#if ENABLE_FEATURE_VI_COLON
+./editors/vi.c:#if ENABLE_FEATURE_VI_CRASHME
+./editors/vi.c:#if ENABLE_FEATURE_VI_DOT_CMD
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO
+./editors/vi.c:#if ENABLE_FEATURE_VI_READONLY
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO
+./editors/vi.c:#if !ENABLE_FEATURE_VI_UNDO
+./editors/vi.c:#if !ENABLE_FEATURE_VI_UNDO
+./editors/vi.c:#if !ENABLE_FEATURE_VI_UNDO
+./editors/vi.c:#if ENABLE_FEATURE_VI_SEARCH
+./editors/vi.c:#if ENABLE_FEATURE_VI_COLON
+./editors/vi.c:#if ENABLE_FEATURE_VI_USE_SIGNALS
+./editors/vi.c:#if ENABLE_FEATURE_VI_DOT_CMD
+./editors/vi.c:#if ENABLE_FEATURE_VI_SETOPTS
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK || (ENABLE_FEATURE_VI_COLON && ENABLE_FEATURE_VI_SEARCH) || ENABLE_FEATURE_VI_CRASHME
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO
+./editors/vi.c:#if ENABLE_FEATURE_VI_CRASHME
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO_QUEUE
+./editors/vi.c:#if ENABLE_FEATURE_VI_USE_SIGNALS || ENABLE_FEATURE_VI_CRASHME
+./editors/vi.c:#if ENABLE_FEATURE_VI_CRASHME
+./editors/vi.c:#if ENABLE_FEATURE_VI_COLON
+./editors/vi.c:#if ENABLE_FEATURE_VI_CRASHME
+./editors/vi.c:#if ENABLE_FEATURE_VI_READONLY
+./editors/vi.c:#if ENABLE_FEATURE_VI_COLON
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_WIN_RESIZE
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_USE_SIGNALS
+./editors/vi.c:#if ENABLE_FEATURE_VI_ASK_TERMINAL
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_USE_SIGNALS
+./editors/vi.c:#if ENABLE_FEATURE_VI_DOT_CMD
+./editors/vi.c:#if ENABLE_FEATURE_VI_COLON
+./editors/vi.c:#if ENABLE_FEATURE_VI_CRASHME
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_DOT_CMD
+./editors/vi.c:#if ENABLE_FEATURE_VI_CRASHME
+./editors/vi.c:#if ENABLE_FEATURE_VI_COLON
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_SEARCH
+./editors/vi.c:#if ENABLE_FEATURE_VI_SET && ENABLE_FEATURE_VI_SETOPTS
+./editors/vi.c:#if !ENABLE_FEATURE_VI_COLON
+./editors/vi.c:#if ENABLE_FEATURE_ALLOW_EXEC
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_SET
+./editors/vi.c:#if ENABLE_FEATURE_VI_SETOPTS
+./editors/vi.c:#if ENABLE_FEATURE_VI_SETOPTS
+./editors/vi.c:#if ENABLE_FEATURE_VI_SETOPTS
+./editors/vi.c:#if ENABLE_FEATURE_VI_SEARCH
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO
+./editors/vi.c:#if ENABLE_FEATURE_VI_READONLY
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_SEARCH
+./editors/vi.c:#if ENABLE_FEATURE_VI_SEARCH
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO
+./editors/vi.c:#if ENABLE_FEATURE_VI_SETOPTS
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO
+./editors/vi.c:#if ENABLE_FEATURE_VI_SETOPTS
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO_QUEUE
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO_QUEUE
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO_QUEUE
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_SEARCH
+./editors/vi.c:#if ENABLE_FEATURE_VI_DOT_CMD
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_READONLY
+./editors/vi.c:#if ENABLE_FEATURE_VI_SET
+./editors/vi.c:#if ENABLE_FEATURE_VI_SETOPTS
+./editors/vi.c:#if ENABLE_FEATURE_VI_USE_SIGNALS
+./editors/vi.c:#if ENABLE_FEATURE_VI_WIN_RESIZE
+./editors/vi.c:#if ENABLE_FEATURE_VI_DOT_CMD
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK \
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_USE_SIGNALS
+./editors/vi.c:#if ENABLE_FEATURE_VI_DOT_CMD
+./editors/vi.c:#if ENABLE_FEATURE_VI_READONLY
+./editors/vi.c:#if ENABLE_FEATURE_VI_CRASHME
+./editors/vi.c:#if ENABLE_FEATURE_VI_READONLY
+./editors/vi.c:#if ENABLE_FEATURE_VI_READONLY
+./editors/vi.c:#if ENABLE_FEATURE_VI_CRASHME
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO
+./editors/vi.c:#if ENABLE_FEATURE_VI_DOT_CMD
+./editors/vi.c:#if ENABLE_FEATURE_VI_SEARCH
+./editors/vi.c:#if ENABLE_FEATURE_VI_DOT_CMD
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO
+./editors/vi.c:#if ENABLE_FEATURE_VI_UNDO
+./editors/vi.c:#if 0
+./editors/vi.c:#if ENABLE_FEATURE_VI_YANKMARK
+./editors/vi.c:#if ENABLE_FEATURE_VI_CRASHME
+./editors/patch_bbox.c:#if ENABLE_LONG_OPTS
+./mailutils/popmaildir.c:#if ENABLE_FEATURE_POPMAILDIR_DELIVERY
+./mailutils/popmaildir.c:#if ENABLE_FEATURE_POPMAILDIR_DELIVERY
+./mailutils/popmaildir.c:#if ENABLE_FEATURE_POPMAILDIR_DELIVERY
+./mailutils/popmaildir.c:#if ENABLE_FEATURE_POPMAILDIR_DELIVERY
+./mailutils/popmaildir.c:#if ENABLE_FEATURE_POPMAILDIR_DELIVERY
+./mailutils/makemime.c:#if 0
+./mailutils/reformime.c:#if 0
+./mailutils/reformime.c:#if ENABLE_FEATURE_REFORMIME_COMPAT
+./networking/hostname.c:#if ENABLE_LONG_OPTS
+./networking/libiproute/iplink.c:#if 0
+./networking/libiproute/iplink.c:#if 0
+./networking/libiproute/utils.c:#if 0 /* Doesn't handle e.g. "10.10", for example, "ip r l root 10.10/16" */
+./networking/libiproute/rt_names.c:#if 0 /* UNUSED */
+./networking/libiproute/rt_names.c:#if ENABLE_FEATURE_IP_RULE
+./networking/libiproute/rt_names.c:#if ENABLE_FEATURE_IP_RULE
+./networking/libiproute/ipaddress.c:#if 0
+./networking/libiproute/iptunnel.c:#if ENABLE_IOCTL_HEX2STR_ERROR
+./networking/libiproute/iproute.c:#if ENABLE_FEATURE_IP_RULE
+./networking/libiproute/iproute.c:#if ENABLE_FEATURE_IP_RULE
+./networking/libiproute/iproute.c:#if 0
+./networking/libiproute/iproute.c:#if ENABLE_FEATURE_IP_RULE
+./networking/libiproute/ll_types.c:#if ENABLE_FEATURE_IP_RARE_PROTOCOLS
+./networking/libiproute/ll_types.c:#if ENABLE_FEATURE_IP_RARE_PROTOCOLS
+./networking/tcpudp.c:#if 0
+./networking/ssl_helper/ssl_helper.c:#if 0
+./networking/ssl_helper/ssl_helper.c:#if 0
+./networking/traceroute.c:#if ENABLE_FEATURE_IPV6
+./networking/traceroute.c:#if ENABLE_TRACEROUTE6
+./networking/traceroute.c:#if ENABLE_TRACEROUTE6
+./networking/traceroute.c:#if 0 //ENABLE_FEATURE_TRACEROUTE_VERBOSE
+./networking/traceroute.c:#if ENABLE_TRACEROUTE6
+./networking/traceroute.c:#if defined IP_TTL
+./networking/traceroute.c:#if ENABLE_FEATURE_TRACEROUTE_VERBOSE
+./networking/traceroute.c:#if !ENABLE_FEATURE_TRACEROUTE_VERBOSE
+./networking/traceroute.c:#if ENABLE_FEATURE_TRACEROUTE_VERBOSE
+./networking/traceroute.c:#if ENABLE_FEATURE_TRACEROUTE_VERBOSE
+./networking/traceroute.c:#if ENABLE_TRACEROUTE6
+./networking/traceroute.c:#if ENABLE_TRACEROUTE6
+./networking/traceroute.c:#if ENABLE_TRACEROUTE6
+./networking/traceroute.c:#if 0 /* IGNORED */
+./networking/traceroute.c:#if ENABLE_TRACEROUTE6
+./networking/traceroute.c:#if ENABLE_TRACEROUTE6
+./networking/traceroute.c:#if TRACEROUTE_SO_DEBUG
+./networking/traceroute.c:#if ENABLE_TRACEROUTE6
+./networking/traceroute.c:#if TRACEROUTE_SO_DEBUG
+./networking/traceroute.c:#if ENABLE_TRACEROUTE6
+./networking/traceroute.c:#if ENABLE_TRACEROUTE6
+./networking/traceroute.c:#if ENABLE_TRACEROUTE6
+./networking/traceroute.c:#if ENABLE_TRACEROUTE6
+./networking/traceroute.c:#if ENABLE_TRACEROUTE6 && (ICMP6_DST_UNREACH_NOROUTE != ICMP_UNREACH_NET)
+./networking/traceroute.c:#if ENABLE_TRACEROUTE6
+./networking/traceroute.c:#if ENABLE_TRACEROUTE6
+./networking/traceroute.c:#if ENABLE_TRACEROUTE
+./networking/traceroute.c:#if ENABLE_TRACEROUTE6
+./networking/nameif.c:#if ENABLE_FEATURE_NAMEIF_EXTENDED
+./networking/nameif.c:#if ENABLE_FEATURE_NAMEIF_EXTENDED
+./networking/nameif.c:#if ENABLE_FEATURE_NAMEIF_EXTENDED
+./networking/nameif.c:#if ENABLE_FEATURE_NAMEIF_EXTENDED
+./networking/nameif.c:#if  ENABLE_FEATURE_NAMEIF_EXTENDED
+./networking/nameif.c:#if ENABLE_FEATURE_CLEAN_UP
+./networking/nameif.c:#if ENABLE_FEATURE_NAMEIF_EXTENDED
+./networking/nameif.c:#if  ENABLE_FEATURE_NAMEIF_EXTENDED
+./networking/nameif.c:#if ENABLE_FEATURE_NAMEIF_EXTENDED
+./networking/nameif.c:#if ENABLE_FEATURE_NAMEIF_EXTENDED
+./networking/dnsd.c:#if DEBUG
+./networking/dnsd.c:#if DEBUG
+./networking/dnsd.c:#if DEBUG
+./networking/dnsd.c:#if DEBUG
+./networking/tls_aes.c:#if 0 // UNUSED
+./networking/tls_aes.c:#if 0 //UNUSED
+./networking/nc_bloaty.c://usage:#if ENABLE_NC_110_COMPAT
+./networking/nc_bloaty.c:#if ENABLE_NC_EXTRA
+./networking/nc_bloaty.c:#if ENABLE_LFS
+./networking/nc_bloaty.c:#if ENABLE_NC_EXTRA
+./networking/nc_bloaty.c:#if ENABLE_NC_EXTRA
+./networking/nc_bloaty.c:#if 0
+./networking/nc_bloaty.c:#if ENABLE_NC_EXTRA && defined(IP_OPTIONS)
+./networking/nc_bloaty.c:#if ENABLE_NC_EXTRA
+./networking/nc_bloaty.c:#if ENABLE_NC_EXTRA
+./networking/nc_bloaty.c:#if ENABLE_NC_EXTRA
+./networking/nc_bloaty.c:#if ENABLE_NC_SERVER
+./networking/nc_bloaty.c:#if 0
+./networking/nc_bloaty.c:#if ENABLE_NC_EXTRA
+./networking/tls_pstm.c:#if (defined(ENDIAN_LITTLE) || defined(ENDIAN_BIG)) && !defined(PSTM_64BIT)
+./networking/tls_pstm.c:#if defined(ENDIAN_LITTLE) && defined(ENDIAN_BIG)
+./networking/tls_pstm.c:#if defined(USE_MATRIX_DIV64) && defined(PSTM_32BIT)
+./networking/tls_pstm.c:#if defined(USE_MATRIX_DIV128) && defined(PSTM_64BIT)
+./networking/tls_pstm.c:#if defined(USE_MATRIX_DIV64) && defined(PSTM_32BIT)
+./networking/zcip.c:#if !BB_MMU
+./networking/zcip.c:#if BB_MMU
+./networking/ifupdown.c:#if ENABLE_FEATURE_IFUPDOWN_MAPPING
+./networking/ifupdown.c:#if ENABLE_FEATURE_IFUPDOWN_IPV4 || ENABLE_FEATURE_IFUPDOWN_IPV6
+./networking/ifupdown.c:#if ENABLE_FEATURE_IFUPDOWN_IPV6
+./networking/ifupdown.c:#if ENABLE_FEATURE_IFUPDOWN_IPV4
+./networking/ifupdown.c:#if ENABLE_FEATURE_IFUPDOWN_MAPPING
+./networking/ifupdown.c:#if ENABLE_DESKTOP
+./networking/ifupdown.c:#if ENABLE_FEATURE_IFUPDOWN_MAPPING
+./networking/ifupdown.c:#if ENABLE_FEATURE_IFUPDOWN_IPV4
+./networking/ifupdown.c:#if ENABLE_FEATURE_IFUPDOWN_IPV6
+./networking/ifupdown.c:#if 0
+./networking/ifupdown.c:#if ENABLE_FEATURE_IFUPDOWN_MAPPING
+./networking/ifupdown.c:#if ENABLE_FEATURE_IFUPDOWN_MAPPING
+./networking/ifupdown.c:#if ENABLE_FEATURE_IFUPDOWN_MAPPING
+./networking/ifplugd.c:#if ENABLE_FEATURE_PIDFILE
+./networking/ifplugd.c:#if ENABLE_FEATURE_PIDFILE
+./networking/ifplugd.c:#if 0 /* why do we mess with IP addr? It's not our business */
+./networking/ifplugd.c:#if 0 /* bloat */
+./networking/ifplugd.c:#if ENABLE_FEATURE_PIDFILE
+./networking/ifplugd.c:#if ENABLE_FEATURE_PIDFILE
+./networking/ifplugd.c:#if ENABLE_FEATURE_PIDFILE
+./networking/ifplugd.c:#if 0  /* if you are back in 1970... */
+./networking/wget.c:#if 0
+./networking/wget.c:#if SSL_SUPPORTED
+./networking/wget.c:#if ENABLE_FEATURE_WGET_LONG_OPTIONS
+./networking/wget.c:#if ENABLE_FEATURE_WGET_STATUSBAR
+./networking/wget.c:#if ENABLE_FEATURE_WGET_LONG_OPTIONS
+./networking/wget.c:#if ENABLE_FEATURE_WGET_TIMEOUT
+./networking/wget.c:#if ENABLE_FEATURE_WGET_STATUSBAR
+./networking/wget.c:#if ENABLE_FEATURE_WGET_AUTHENTICATION
+./networking/wget.c:#if ENABLE_FEATURE_WGET_TIMEOUT
+./networking/wget.c:#if ENABLE_FEATURE_WGET_OPENSSL
+./networking/wget.c:#if SSL_SUPPORTED
+./networking/wget.c:#if ENABLE_FEATURE_WGET_OPENSSL
+./networking/wget.c:#if ENABLE_FEATURE_WGET_HTTPS
+./networking/wget.c:#if ENABLE_FEATURE_WGET_STATUSBAR || ENABLE_FEATURE_WGET_TIMEOUT
+./networking/wget.c:#if ENABLE_FEATURE_WGET_STATUSBAR || ENABLE_FEATURE_WGET_TIMEOUT
+./networking/wget.c:#if ENABLE_FEATURE_WGET_STATUSBAR || ENABLE_FEATURE_WGET_TIMEOUT
+./networking/wget.c:#if ENABLE_FEATURE_WGET_STATUSBAR
+./networking/wget.c:#if ENABLE_FEATURE_WGET_TIMEOUT
+./networking/wget.c:#if ENABLE_FEATURE_WGET_STATUSBAR || ENABLE_FEATURE_WGET_TIMEOUT
+./networking/wget.c:#if ENABLE_FEATURE_WGET_STATUSBAR || ENABLE_FEATURE_WGET_TIMEOUT
+./networking/wget.c:#if ENABLE_FEATURE_WGET_STATUSBAR
+./networking/wget.c:#if ENABLE_FEATURE_WGET_OPENSSL
+./networking/wget.c:#if ENABLE_FEATURE_WGET_AUTHENTICATION
+./networking/wget.c:#if ENABLE_FEATURE_WGET_LONG_OPTIONS
+./networking/wget.c:#if SSL_SUPPORTED
+./networking/wget.c:#if ENABLE_FEATURE_WGET_LONG_OPTIONS
+./networking/wget.c:#if ENABLE_FEATURE_WGET_LONG_OPTIONS
+./networking/wget.c:#if ENABLE_FEATURE_WGET_TIMEOUT
+./networking/wget.c:#if ENABLE_FEATURE_WGET_LONG_OPTIONS
+./networking/wget.c:#if 0 /* option bits debug */
+./networking/wget.c:#if ENABLE_FEATURE_WGET_LONG_OPTIONS
+./networking/wget.c:#if ENABLE_FEATURE_CLEAN_UP && ENABLE_FEATURE_WGET_LONG_OPTIONS
+./networking/ssl_helper-wolfssl/ssl_helper.c:#if 0
+./networking/ssl_helper-wolfssl/ssl_helper.c:#if 0
+./networking/ssl_helper-wolfssl/ssl_helper.c://#if defined(HAVE_AESGCM) && !defined(NO_DH)
+./networking/ssl_helper-wolfssl/ssl_helper.c://#if defined(OPENSSL_EXTRA) || defined(HAVE_WEBSERVER)
+./networking/ssl_helper-wolfssl/ssl_helper.c://#if !defined(NO_FILESYSTEM) && !defined(NO_CERTS)
+./networking/ssl_helper-wolfssl/ssl_helper.c://#if !defined(NO_CERTS)
+./networking/ssl_helper-wolfssl/ssl_helper.c://#if defined(WOLFSSL_MDK_ARM)
+./networking/tftp.c://applet:#if ENABLE_FEATURE_TFTP_GET || ENABLE_FEATURE_TFTP_PUT
+./networking/tftp.c:#if ENABLE_FEATURE_TFTP_GET || ENABLE_FEATURE_TFTP_PUT
+./networking/tftp.c:#if ENABLE_FEATURE_TFTP_GET && !ENABLE_FEATURE_TFTP_PUT
+./networking/tftp.c:#if ENABLE_FEATURE_TFTP_PROGRESS_BAR
+./networking/tftp.c:#if ENABLE_FEATURE_TFTP_PROGRESS_BAR
+./networking/tftp.c:#if ENABLE_FEATURE_TFTP_BLOCKSIZE
+./networking/tftp.c:#if !ENABLE_TFTP
+./networking/tftp.c:#if !ENABLE_FEATURE_TFTP_BLOCKSIZE
+./networking/tftp.c:#if ENABLE_TFTPD
+./networking/tftp.c:#if ENABLE_FEATURE_TFTP_BLOCKSIZE
+./networking/tftp.c:/* Removing #if, or using if() statement instead of #if may lead to
+./networking/tftp.c:#if ENABLE_TFTP
+./networking/tftp.c:#if ENABLE_FEATURE_TFTP_BLOCKSIZE
+./networking/tftp.c:#if ENABLE_TFTP_DEBUG
+./networking/tftp.c:#if ENABLE_FEATURE_TFTP_PROGRESS_BAR
+./networking/tftp.c:#if ENABLE_TFTP_DEBUG
+./networking/tftp.c:#if ENABLE_FEATURE_TFTP_BLOCKSIZE
+./networking/tftp.c:#if 0
+./networking/tftp.c:#if ENABLE_TFTP
+./networking/tftp.c:#if ENABLE_TFTPD
+./networking/tc.c:#if 0 /* IMPOSSIBLE */
+./networking/ifenslave.c:#if (SIOCGIFADDR | SIOCSIFADDR \
+./networking/ifenslave.c:#if ENABLE_LONG_OPTS
+./networking/ifconfig.c:#if ENABLE_FEATURE_IFCONFIG_SLIP
+./networking/ifconfig.c:#if ENABLE_FEATURE_IPV6
+./networking/ifconfig.c:#if ENABLE_FEATURE_IFCONFIG_BROADCAST_PLUS
+./networking/ifconfig.c:#if ENABLE_FEATURE_IFCONFIG_BROADCAST_PLUS
+./networking/ifconfig.c:#if ENABLE_FEATURE_IFCONFIG_HW
+./networking/ifconfig.c:#if ENABLE_FEATURE_IFCONFIG_MEMSTART_IOADDR_IRQ
+./networking/ifconfig.c:#if ENABLE_FEATURE_IPV6
+./networking/ifconfig.c:#if ENABLE_FEATURE_IFCONFIG_HW
+./networking/ifconfig.c:#if ENABLE_FEATURE_IFCONFIG_MEMSTART_IOADDR_IRQ
+./networking/ifconfig.c:#if ENABLE_FEATURE_IPV6
+./networking/ifconfig.c:#if ENABLE_FEATURE_IFCONFIG_HW
+./networking/ifconfig.c:#if ENABLE_FEATURE_IFCONFIG_BROADCAST_PLUS
+./networking/ifconfig.c:#if ENABLE_FEATURE_IFCONFIG_BROADCAST_PLUS
+./networking/ifconfig.c:#if ENABLE_FEATURE_IFCONFIG_STATUS
+./networking/ifconfig.c:#if ENABLE_FEATURE_IFCONFIG_STATUS
+./networking/ifconfig.c:#if ENABLE_FEATURE_IFCONFIG_HW
+./networking/ifconfig.c:#if ENABLE_FEATURE_IFCONFIG_BROADCAST_PLUS
+./networking/ifconfig.c:#if ENABLE_FEATURE_IPV6
+./networking/ifconfig.c:#if ENABLE_FEATURE_IPV6
+./networking/ifconfig.c:#if ENABLE_FEATURE_IFCONFIG_BROADCAST_PLUS
+./networking/ifconfig.c:#if ENABLE_FEATURE_IFCONFIG_HW
+./networking/ifconfig.c:#if ENABLE_FEATURE_IFCONFIG_MEMSTART_IOADDR_IRQ
+./networking/route.c:#if defined(SIOCADDRTOLD) || defined(RTF_IRTT)	/* route */
+./networking/route.c:#if HAVE_NEW_ADDRT
+./networking/route.c:#if HAVE_NEW_ADDRT
+./networking/route.c:#if HAVE_NEW_ADDRT
+./networking/route.c:#if HAVE_NEW_ADDRT
+./networking/route.c:#if 0					/* FIXME: do we need to check anything of this? */
+./networking/route.c:#if ENABLE_FEATURE_IPV6
+./networking/route.c:#if ENABLE_FEATURE_IPV6
+./networking/route.c:#if ENABLE_FEATURE_IPV6
+./networking/route.c:#if ENABLE_FEATURE_IPV6
+./networking/route.c:#if ENABLE_FEATURE_IPV6
+./networking/route.c:#if ENABLE_FEATURE_IPV6
+./networking/route.c:#if ENABLE_FEATURE_IPV6
+./networking/ping.c://usage:#if !ENABLE_FEATURE_FANCY_PING
+./networking/ping.c:#if ENABLE_PING6
+./networking/ping.c:#if ENABLE_PING6
+./networking/ping.c:#if ENABLE_PING6
+./networking/ping.c:#if !ENABLE_FEATURE_FANCY_PING
+./networking/ping.c:#if 0
+./networking/ping.c:#if ENABLE_PING6
+./networking/ping.c:#if 0
+./networking/ping.c:#if !ENABLE_PING6
+./networking/ping.c:#if ENABLE_PING6
+./networking/ping.c:#if ENABLE_PING6
+./networking/ping.c:#if ENABLE_PING6
+./networking/ping.c:#if ENABLE_PING6
+./networking/ping.c:#if ENABLE_PING6
+./networking/ping.c:#if ENABLE_PING6
+./networking/ping.c:#if ENABLE_PING6
+./networking/ping.c:#if ENABLE_PING6
+./networking/ping.c:#if ENABLE_PING6
+./networking/ping.c:#if ENABLE_PING6
+./networking/ping.c:#if ENABLE_PING
+./networking/ping.c:#if ENABLE_PING6
+./networking/tls_pstm_mul_comba.c:#if defined(PSTM_X86)
+./networking/tls_pstm_mul_comba.c:#if !defined(__GNUC__) || !defined(__i386__) || !defined(PSTM_32BIT)
+./networking/tls_pstm_mul_comba.c:#if !defined(__GNUC__) || !defined(__x86_64__) || !defined(PSTM_64BIT)
+./networking/interface.c:#if ENABLE_FEATURE_HWIB
+./networking/interface.c:#if ENABLE_FEATURE_IPV6
+./networking/interface.c:#if 0
+./networking/interface.c:#if INT_MAX == LONG_MAX
+./networking/interface.c:#if ENABLE_FEATURE_IPV6
+./networking/interface.c:#if ENABLE_FEATURE_HWIB
+./networking/interface.c:#if ENABLE_FEATURE_IPV6
+./networking/interface.c:#if ENABLE_FEATURE_HWIB
+./networking/interface.c:#if ENABLE_FEATURE_HWIB
+./networking/ftpgetput.c:#if !ENABLE_FTPGET
+./networking/ftpgetput.c:#if !ENABLE_FTPPUT
+./networking/ftpgetput.c:#if ENABLE_FEATURE_FTPGETPUT_LONG_OPTIONS
+./networking/ftpgetput.c:#if ENABLE_FTPPUT && !ENABLE_FTPGET
+./networking/ftpgetput.c:#if ENABLE_FEATURE_FTPGETPUT_LONG_OPTIONS
+./networking/ipcalc.c:#if ENABLE_FEATURE_IPCALC_FANCY
+./networking/ipcalc.c:#if ENABLE_FEATURE_IPCALC_LONG_OPTIONS
+./networking/ipcalc.c:#if ENABLE_FEATURE_IPCALC_LONG_OPTIONS
+./networking/ftpd.c:#if !BB_MMU
+./networking/ftpd.c:#if ENABLE_FEATURE_FTPD_WRITE
+./networking/ftpd.c:#if !BB_MMU
+./networking/ftpd.c:#if BB_MMU
+./networking/ftpd.c:#if ENABLE_FEATURE_FTPD_WRITE
+./networking/ftpd.c:#if !BB_MMU
+./networking/ftpd.c:#if ENABLE_FEATURE_FTPD_AUTHENTICATION
+./networking/ftpd.c:#if BB_MMU
+./networking/ftpd.c:#if ENABLE_FEATURE_FTPD_AUTHENTICATION
+./networking/ftpd.c:#if !BB_MMU
+./networking/ftpd.c:#if !BB_MMU
+./networking/ftpd.c:#if !BB_MMU
+./networking/ftpd.c:#if ENABLE_FEATURE_FTPD_AUTHENTICATION
+./networking/ftpd.c:#if ENABLE_FEATURE_FTPD_WRITE
+./networking/ftpd.c:#if 0
+./networking/ftpd.c:#if ENABLE_FEATURE_FTPD_WRITE
+./networking/tls_pstm_sqr_comba.c:#if defined(PSTM_X86)
+./networking/tls_pstm_sqr_comba.c:#if !defined(__GNUC__) || !defined(__i386__)
+./networking/tls_pstm_sqr_comba.c:#if !defined(__GNUC__) || !defined(__x86_64__) || !defined(PSTM_64BIT)
+./networking/tunctl.c:#if 1
+./networking/tunctl.c:#if ENABLE_FEATURE_TUNCTL_UG
+./networking/tunctl.c:#if ENABLE_FEATURE_TUNCTL_UG
+./networking/tunctl.c:#if ENABLE_FEATURE_TUNCTL_UG
+./networking/tunctl.c:#if ENABLE_FEATURE_TUNCTL_UG
+./networking/netstat.c:#if ENABLE_FEATURE_NETSTAT_WIDE
+./networking/netstat.c:#if ENABLE_FEATURE_NETSTAT_PRG
+./networking/netstat.c:#if ENABLE_FEATURE_NETSTAT_PRG
+./networking/netstat.c:#if ENABLE_FEATURE_NETSTAT_WIDE
+./networking/netstat.c:#if ENABLE_FEATURE_NETSTAT_PRG
+./networking/netstat.c:#if ENABLE_FEATURE_NETSTAT_PRG
+./networking/netstat.c:#if ENABLE_FEATURE_CLEAN_UP
+./networking/netstat.c:#if 0 /* bb_strtol returns all-ones bit pattern on ERANGE anyway */
+./networking/netstat.c:#if ENABLE_FEATURE_IPV6
+./networking/netstat.c:#if ENABLE_FEATURE_IPV6
+./networking/netstat.c:#if ENABLE_FEATURE_IPV6
+./networking/netstat.c:#if ENABLE_FEATURE_NETSTAT_PRG
+./networking/netstat.c:#if ENABLE_FEATURE_IPV6
+./networking/netstat.c:#if ENABLE_FEATURE_NETSTAT_PRG
+./networking/netstat.c:#if ENABLE_ROUTE
+./networking/netstat.c:#if ENABLE_FEATURE_NETSTAT_WIDE
+./networking/netstat.c:#if ENABLE_FEATURE_NETSTAT_PRG
+./networking/netstat.c:#if ENABLE_FEATURE_IPV6
+./networking/netstat.c:#if ENABLE_FEATURE_IPV6
+./networking/netstat.c:#if ENABLE_FEATURE_IPV6
+./networking/httpd.c:#if ENABLE_PAM
+./networking/httpd.c:#if ENABLE_FEATURE_USE_SENDFILE
+./networking/httpd.c:#if PIPE_BUF >= IOBUF_SIZE
+./networking/httpd.c:#if 0   /* future use */
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_RANGES
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH
+./networking/httpd.c:#if 0   /* not implemented */
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_RANGES
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH
+./networking/httpd.c:#if 0   /* not implemented */
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_RANGES
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_CONFIG_WITH_SCRIPT_INTERPR
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_ERROR_PAGES
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_PROXY
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_GZIP
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_RANGES
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_GZIP
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_CONFIG_WITH_SCRIPT_INTERPR
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_ERROR_PAGES
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_PROXY
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_CONFIG_WITH_SCRIPT_INTERPR
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_CONFIG_WITH_SCRIPT_INTERPR
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_ENCODE_URL_STR
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_ERROR_PAGES
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_ERROR_PAGES
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_ERROR_PAGES
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_RANGES
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_RANGES
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_CGI || ENABLE_FEATURE_HTTPD_PROXY
+./networking/httpd.c:#if 0
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_CGI
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_SET_REMOTE_PORT_TO_ENV
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_CONFIG_WITH_SCRIPT_INTERPR
+./networking/httpd.c:#if 0  /* unpopular */
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_RANGES
+./networking/httpd.c:#if ENABLE_FEATURE_USE_SENDFILE
+./networking/httpd.c:#if DEBUG
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_PROXY
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_CGI
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_PROXY
+./networking/httpd.c:#if ENABLE_FEATURE_IPV6
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_CGI
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_PROXY
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_PROXY
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_CGI || ENABLE_FEATURE_HTTPD_PROXY
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_CGI
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_RANGES
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_GZIP
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_PROXY
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_CGI
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_CONFIG_WITH_SCRIPT_INTERPR
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_CGI
+./networking/httpd.c:#if BB_MMU
+./networking/httpd.c:#if ENABLE_LOCALE_SUPPORT
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_ENCODE_URL_STR
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_AUTH_MD5
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_SETUID
+./networking/httpd.c:#if !BB_MMU
+./networking/httpd.c:#if ENABLE_FEATURE_HTTPD_SETUID
+./networking/httpd.c:#if 0
+./networking/httpd.c:#if BB_MMU
+./networking/nslookup.c:#if ENABLE_VERBOSE_RESOLUTION_ERRORS
+./networking/nslookup.c:#if ENABLE_FEATURE_IPV6
+./networking/nslookup.c:#if ENABLE_FEATURE_IPV6
+./networking/ether-wake.c:#if !defined(__UCLIBC__) || UCLIBC_VERSION >= KERNEL_VERSION(0, 9, 30)
+./networking/ether-wake.c:#if defined(PF_PACKET)
+./networking/nbd-client.c:#if BB_MMU
+./networking/nbd-client.c:#if !BB_MMU
+./networking/nbd-client.c:#if BB_MMU
+./networking/ip.c://usage:#if ENABLE_FEATURE_IP_ADDRESS || ENABLE_FEATURE_IP_ROUTE
+./networking/ip.c://usage:#if ENABLE_FEATURE_IP_ADDRESS || ENABLE_FEATURE_IP_ROUTE || ENABLE_FEATURE_IP_LINK
+./networking/ip.c://usage:#if ENABLE_FEATURE_IP_ADDRESS || ENABLE_FEATURE_IP_ROUTE || ENABLE_FEATURE_IP_LINK || ENABLE_FEATURE_IP_TUNNEL
+./networking/ip.c://usage:#if ENABLE_FEATURE_IP_ADDRESS || ENABLE_FEATURE_IP_ROUTE || ENABLE_FEATURE_IP_LINK || ENABLE_FEATURE_IP_TUNNEL || ENABLE_FEATURE_IP_NEIGH
+./networking/ip.c:#if ENABLE_IPADDR \
+./networking/ip.c:#if ENABLE_IPADDR
+./networking/ip.c:#if ENABLE_IPLINK
+./networking/ip.c:#if ENABLE_IPROUTE
+./networking/ip.c:#if ENABLE_IPRULE
+./networking/ip.c:#if ENABLE_IPTUNNEL
+./networking/ip.c:#if ENABLE_IPNEIGH
+./networking/ip.c:#if ENABLE_IP
+./networking/udhcp/dhcpd.c:#if defined CONFIG_UDHCP_DEBUG && CONFIG_UDHCP_DEBUG >= 2
+./networking/udhcp/dhcpd.c:#if ENABLE_FEATURE_UDHCPD_BASE_IP_ON_MAC
+./networking/udhcp/dhcpd.c:#if ENABLE_FEATURE_UDHCPD_BASE_IP_ON_MAC
+./networking/udhcp/dhcpd.c:#if defined CONFIG_UDHCP_DEBUG && CONFIG_UDHCP_DEBUG >= 1
+./networking/udhcp/dhcpd.c:#if defined CONFIG_UDHCP_DEBUG && CONFIG_UDHCP_DEBUG >= 1
+./networking/udhcp/dhcpd.c:#if defined CONFIG_UDHCP_DEBUG && CONFIG_UDHCP_DEBUG >= 1
+./networking/udhcp/dhcpd.c:#if ENABLE_FEATURE_UDHCP_PORT
+./networking/udhcp/d6_socket.c:#if 0
+./networking/udhcp/d6_packet.c:#if defined CONFIG_UDHCP_DEBUG && CONFIG_UDHCP_DEBUG >= 2
+./networking/udhcp/dumpleases.c:#if ENABLE_LONG_OPTS
+./networking/udhcp/dumpleases.c:#if ENABLE_UNICODE_SUPPORT
+./networking/udhcp/d6_dhcpc.c:#if ENABLE_FEATURE_UDHCPC6_RFC3646
+./networking/udhcp/d6_dhcpc.c:#if ENABLE_FEATURE_UDHCPC6_RFC4704
+./networking/udhcp/d6_dhcpc.c:#if ENABLE_FEATURE_UDHCPC6_RFC4833
+./networking/udhcp/d6_dhcpc.c:#if ENABLE_FEATURE_UDHCPC6_RFC3646
+./networking/udhcp/d6_dhcpc.c:#if ENABLE_FEATURE_UDHCPC6_RFC4704
+./networking/udhcp/d6_dhcpc.c:#if ENABLE_FEATURE_UDHCPC6_RFC4833
+./networking/udhcp/d6_dhcpc.c:#if ENABLE_LONG_OPTS
+./networking/udhcp/d6_dhcpc.c:#if ENABLE_FEATURE_UDHCPC6_RFC4704
+./networking/udhcp/d6_dhcpc.c:#if ENABLE_FEATURE_UDHCPC6_RFC3646
+./networking/udhcp/d6_dhcpc.c:#if ENABLE_FEATURE_UDHCPC6_RFC3646
+./networking/udhcp/d6_dhcpc.c:#if ENABLE_FEATURE_UDHCPC6_RFC4704
+./networking/udhcp/d6_dhcpc.c:#if ENABLE_FEATURE_UDHCPC6_RFC4833
+./networking/udhcp/d6_dhcpc.c:#if ENABLE_FEATURE_UDHCPC6_RFC4704
+./networking/udhcp/d6_dhcpc.c:#if 0
+./networking/udhcp/d6_dhcpc.c:#if 0
+./networking/udhcp/d6_dhcpc.c:#if BB_MMU
+./networking/udhcp/d6_dhcpc.c://usage:#if defined CONFIG_UDHCP_DEBUG && CONFIG_UDHCP_DEBUG >= 1
+./networking/udhcp/d6_dhcpc.c:#if ENABLE_FEATURE_UDHCP_PORT
+./networking/udhcp/d6_dhcpc.c:#if !BB_MMU
+./networking/udhcp/d6_dhcpc.c:#if BB_MMU /* -b is not supported on NOMMU */
+./networking/udhcp/d6_dhcpc.c:#if BB_MMU /* NOMMU case backgrounded earlier */
+./networking/udhcp/dhcpc.c:#if ENABLE_LONG_OPTS
+./networking/udhcp/dhcpc.c:#if ENABLE_FEATURE_UDHCP_RFC3397
+./networking/udhcp/dhcpc.c:#if ENABLE_FEATURE_UDHCPC_SANITIZEOPT
+./networking/udhcp/dhcpc.c:#if ENABLE_FEATURE_UDHCP_RFC3397
+./networking/udhcp/dhcpc.c:#if ENABLE_FEATURE_UDHCPC_ARPING
+./networking/udhcp/dhcpc.c:#if 0
+./networking/udhcp/dhcpc.c:#if 0 /* Several users reported breakage when BPF filter is used */
+./networking/udhcp/dhcpc.c:#if BB_MMU
+./networking/udhcp/dhcpc.c://usage:#if defined CONFIG_UDHCP_DEBUG && CONFIG_UDHCP_DEBUG >= 1
+./networking/udhcp/dhcpc.c:#if ENABLE_FEATURE_UDHCP_PORT
+./networking/udhcp/dhcpc.c:#if !BB_MMU
+./networking/udhcp/dhcpc.c:#if BB_MMU /* -b is not supported on NOMMU */
+./networking/udhcp/dhcpc.c:#if ENABLE_FEATURE_UDHCPC_ARPING
+./networking/udhcp/dhcpc.c:#if BB_MMU /* NOMMU case backgrounded earlier */
+./networking/udhcp/packet.c:#if ENABLE_UDHCPC || ENABLE_UDHCPD
+./networking/udhcp/packet.c:#if defined CONFIG_UDHCP_DEBUG && CONFIG_UDHCP_DEBUG >= 2
+./networking/udhcp/common.c:#if defined CONFIG_UDHCP_DEBUG && CONFIG_UDHCP_DEBUG >= 1
+./networking/udhcp/common.c:#if ENABLE_UDHCPC || ENABLE_UDHCPD
+./networking/udhcp/common.c:#if ENABLE_FEATURE_UDHCP_RFC3397
+./networking/udhcp/common.c:#if ENABLE_FEATURE_UDHCP_8021Q
+./networking/udhcp/common.c:#if ENABLE_FEATURE_UDHCP_RFC3397
+./networking/udhcp/common.c:#if ENABLE_FEATURE_UDHCP_8021Q
+./networking/udhcp/common.c:#if ENABLE_FEATURE_UDHCP_RFC3397
+./networking/udhcp/common.c:#if defined CONFIG_UDHCP_DEBUG && CONFIG_UDHCP_DEBUG >= 2
+./networking/udhcp/common.c:#if ENABLE_UDHCPC || ENABLE_UDHCPD
+./networking/udhcp/common.c:#if ENABLE_FEATURE_UDHCP_RFC3397
+./networking/udhcp/common.c:#if ENABLE_FEATURE_UDHCP_RFC3397
+./networking/isrv.c:#if DEBUG
+./networking/nc.c:#if ENABLE_NC_110_COMPAT
+./networking/nc.c://usage:#if !ENABLE_NC_110_COMPAT
+./networking/nc.c://usage:#if ENABLE_NC_SERVER || ENABLE_NC_EXTRA
+./networking/nc.c:#if 0  /* nc-1.10 does not do this (without -v) */
+./networking/tls.c:#if 0
+./networking/tls.c:#if 0
+./networking/tls.c:#if TLS_DEBUG
+./networking/tls.c:#if TLS_DEBUG_DER
+./networking/tls.c:#if TLS_DEBUG
+./networking/tls.c:#if !TLS_DEBUG_HASH
+./networking/tls.c:#if TLS_DEBUG_HASH
+./networking/tls.c:#if 0 //UNUSED
+./networking/tls.c:#if CIPHER_ID2
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_RPC
+./networking/inetd.c:#if !BB_MMU
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_SUPPORT_BUILTIN_DISCARD \
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_RPC
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_SUPPORT_BUILTIN_ECHO
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_SUPPORT_BUILTIN_DISCARD
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_SUPPORT_BUILTIN_TIME
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_SUPPORT_BUILTIN_DAYTIME
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_SUPPORT_BUILTIN_CHARGEN
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_SUPPORT_BUILTIN_ECHO
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_SUPPORT_BUILTIN_DISCARD
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_SUPPORT_BUILTIN_CHARGEN
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_SUPPORT_BUILTIN_TIME
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_SUPPORT_BUILTIN_DAYTIME
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_SUPPORT_BUILTIN_CHARGEN
+./networking/inetd.c:#if 1
+./networking/inetd.c:#if ENABLE_FEATURE_IPV6
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_RPC
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_RPC
+./networking/inetd.c:#if ENABLE_FEATURE_IPV6
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_RPC
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_RPC
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_RPC
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_RPC
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_RPC
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_RPC
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_RPC
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_SUPPORT_BUILTIN_ECHO \
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_SUPPORT_BUILTIN_ECHO
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_SUPPORT_BUILTIN_DISCARD
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_SUPPORT_BUILTIN_CHARGEN
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_SUPPORT_BUILTIN_TIME
+./networking/inetd.c:#if ENABLE_FEATURE_INETD_SUPPORT_BUILTIN_DAYTIME
+./networking/telnet.c://usage:#if ENABLE_FEATURE_TELNET_AUTOLOGIN
+./networking/telnet.c:#if ENABLE_FEATURE_TELNET_TTYPE
+./networking/telnet.c:#if ENABLE_FEATURE_TELNET_AUTOLOGIN
+./networking/telnet.c:#if ENABLE_FEATURE_TELNET_WIDTH
+./networking/telnet.c:#if ENABLE_FEATURE_TELNET_TTYPE
+./networking/telnet.c:#if ENABLE_FEATURE_TELNET_AUTOLOGIN
+./networking/telnet.c:#if ENABLE_FEATURE_TELNET_WIDTH
+./networking/telnet.c:#if ENABLE_FEATURE_TELNET_TTYPE
+./networking/telnet.c:#if ENABLE_FEATURE_TELNET_AUTOLOGIN
+./networking/telnet.c:#if ENABLE_FEATURE_TELNET_WIDTH
+./networking/telnet.c:#if ENABLE_FEATURE_TELNET_TTYPE
+./networking/telnet.c:#if ENABLE_FEATURE_TELNET_AUTOLOGIN
+./networking/telnet.c:#if ENABLE_FEATURE_TELNET_WIDTH
+./networking/telnet.c:#if ENABLE_FEATURE_TELNET_TTYPE
+./networking/telnet.c:#if ENABLE_FEATURE_TELNET_AUTOLOGIN
+./networking/telnet.c:#if ENABLE_FEATURE_TELNET_WIDTH
+./networking/telnet.c:#if ENABLE_FEATURE_TELNET_TTYPE
+./networking/telnet.c:#if ENABLE_FEATURE_TELNET_AUTOLOGIN
+./networking/telnetd.c:#if DEBUG
+./networking/telnetd.c:#if 0
+./networking/telnetd.c:#if DEBUG
+./networking/telnetd.c:#if !ENABLE_FEATURE_TELNETD_STANDALONE
+./networking/telnetd.c:#if ENABLE_FEATURE_TELNETD_STANDALONE
+./networking/telnetd.c:#if ENABLE_FEATURE_TELNETD_STANDALONE
+./networking/telnetd.c:#if ENABLE_FEATURE_TELNETD_STANDALONE
+./networking/telnetd.c:#if 0
+./networking/telnetd.c:#if 0
+./networking/telnetd.c:#if ENABLE_FEATURE_TELNETD_STANDALONE
+./networking/telnetd.c:#if ENABLE_FEATURE_TELNETD_STANDALONE
+./networking/telnetd.c:#if ENABLE_FEATURE_TELNETD_INETD_WAIT
+./networking/telnetd.c:#if ENABLE_FEATURE_TELNETD_STANDALONE
+./networking/ntpd.c:#if ENABLE_FEATURE_NTPD_SERVER
+./networking/ntpd.c:#if !USING_KERNEL_PLL_LOOP
+./networking/ntpd.c:#if ENABLE_FEATURE_NTPD_SERVER
+./networking/ntpd.c:#if 0
+./networking/ntpd.c:#if ENABLE_FEATURE_IPV6
+./networking/ntpd.c:#if 0 /* we filter out such packets earlier */
+./networking/ntpd.c:#if !USING_KERNEL_PLL_LOOP
+./networking/ntpd.c:#if !USING_KERNEL_PLL_LOOP || USING_INITIAL_FREQ_ESTIMATION
+./networking/ntpd.c:#if 0
+./networking/ntpd.c:#if !USING_KERNEL_PLL_LOOP || USING_INITIAL_FREQ_ESTIMATION
+./networking/ntpd.c:#if !USING_KERNEL_PLL_LOOP
+./networking/ntpd.c:#if USING_INITIAL_FREQ_ESTIMATION
+./networking/ntpd.c:#if 0
+./networking/ntpd.c:#if USING_INITIAL_FREQ_ESTIMATION
+./networking/ntpd.c:#if USING_INITIAL_FREQ_ESTIMATION
+./networking/ntpd.c:#if 0 /* this is dead code for now */
+./networking/ntpd.c:#if USING_INITIAL_FREQ_ESTIMATION
+./networking/ntpd.c:#if !USING_KERNEL_PLL_LOOP
+./networking/ntpd.c:#if !USING_KERNEL_PLL_LOOP
+./networking/ntpd.c:#if 0
+./networking/ntpd.c:#if 0
+./networking/ntpd.c:#if ENABLE_FEATURE_NTPD_SERVER
+./networking/ntpd.c:#if ENABLE_FEATURE_NTPD_SERVER
+./networking/ntpd.c:#if ENABLE_FEATURE_NTPD_SERVER
+./networking/ntpd.c:#if ENABLE_FEATURE_NTPD_CONF
+./networking/ntpd.c:#if ENABLE_FEATURE_NTPD_SERVER
+./networking/ntpd.c:#if ENABLE_FEATURE_NTPD_SERVER
+./networking/ntpd.c:#if 0
+./networking/ntpd.c:#if defined(STA_NANO) && NTP_API == 4
+./networking/tls_pstm_montgomery_reduce.c:#if defined(PSTM_X86)
+./networking/tls_pstm_montgomery_reduce.c:#if !defined(__GNUC__) || !defined(__i386__) || !defined(PSTM_32BIT)
+./networking/tls_pstm_montgomery_reduce.c:#if !defined(__GNUC__) || !defined(__x86_64__) || !defined(PSTM_64BIT)
+./networking/brctl.c:#if ENABLE_FEATURE_BRCTL_FANCY
+./networking/brctl.c:#if ENABLE_FEATURE_BRCTL_FANCY
+./networking/brctl.c:#if ENABLE_FEATURE_BRCTL_SHOW
+./networking/brctl.c:#if ENABLE_FEATURE_BRCTL_FANCY
+./sysklogd/klogd.c:#if ENABLE_FEATURE_KLOGD_KLOGCTL
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_REMOTE_LOG
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_IPC_SYSLOG
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_REMOTE_LOG
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_ROTATE_LOGFILE
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_SYSLOGD_CFG
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_REMOTE_LOG
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_IPC_SYSLOG
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_ROTATE_LOGFILE
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_IPC_SYSLOG
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_SYSLOGD_CFG
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_SYSLOGD_CFG
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_IPC_SYSLOG
+./sysklogd/syslogd.c:#if CONFIG_FEATURE_IPC_SYSLOG_BUFFER_SIZE < 4
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_KMSG_SYSLOG
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_ROTATE_LOGFILE
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_ROTATE_LOGFILE
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_SYSLOGD_CFG
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_IPC_SYSLOG
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_REMOTE_LOG
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_REMOTE_LOG
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_SYSLOGD_DUP
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_SYSLOGD_DUP
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_SYSLOGD_DUP
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_REMOTE_LOG
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_REMOTE_LOG
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_REMOTE_LOG
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_ROTATE_LOGFILE
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_IPC_SYSLOG
+./sysklogd/syslogd.c:#if ENABLE_FEATURE_SYSLOGD_CFG
+./sysklogd/syslogd_and_logger.c:#if 0
+./sysklogd/syslogd_and_logger.c:#if ENABLE_SYSLOGD
+./sysklogd/syslogd_and_logger.c:#if ENABLE_LOGGER
+./sysklogd/logread.c:#if 0
+./sysklogd/logread.c:#if ENABLE_FEATURE_LOGREAD_REDUCED_LOCKING
+./sysklogd/logread.c:#if ENABLE_FEATURE_LOGREAD_REDUCED_LOCKING
+./sysklogd/logread.c:#if ENABLE_FEATURE_LOGREAD_REDUCED_LOCKING
+./init/bootchartd.c:#if !ENABLE_TAR && !ENABLE_WERROR
+./init/init.c:#if DEBUG_SEGV_HANDLER
+./init/init.c:#if !ENABLE_FEATURE_INIT_SYSLOG
+./init/init.c:#if ENABLE_FEATURE_INIT_SYSLOG
+./init/init.c:#if defined(__FreeBSD__) || defined(__FreeBSD_kernel__)
+./init/init.c:#if ENABLE_FEATURE_USE_INITTAB
+./init/init.c:#if ENABLE_FEATURE_USE_INITTAB
+./init/init.c:#if ENABLE_FEATURE_USE_INITTAB
+./init/init.c:#if ENABLE_FEATURE_KILL_REMOVED
+./init/init.c:#if ENABLE_FEATURE_USE_INITTAB
+./init/init.c:#if DEBUG_SEGV_HANDLER
+./init/init.c:#if DEBUG_SEGV_HANDLER
+./init/init.c:#if !ENABLE_FEATURE_INIT_QUIET
+./init/init.c:#if 0
+./init/init.c:#if ENABLE_SELINUX
+./init/init.c:#if ENABLE_FEATURE_USE_INITTAB
+./init/halt.c:#if ENABLE_FEATURE_WTMP
+./e2fsprogs/fsck.c:#if DO_PROGRESS_INDICATOR
+./e2fsprogs/fsck.c:#if 0
+./e2fsprogs/fsck.c:#if DO_PROGRESS_INDICATOR
+./e2fsprogs/fsck.c:#if ENABLE_FEATURE_DEVFS
+./e2fsprogs/fsck.c:#if ENABLE_FEATURE_DEVFS
+./e2fsprogs/fsck.c:#if ENABLE_FEATURE_DEVFS
+./e2fsprogs/fsck.c:#if DO_PROGRESS_INDICATOR
+./e2fsprogs/fsck.c:#if DO_PROGRESS_INDICATOR
+./e2fsprogs/fsck.c:#if DO_PROGRESS_INDICATOR
+./e2fsprogs/fsck.c:#if DO_PROGRESS_INDICATOR
+./e2fsprogs/fsck.c:#if DO_PROGRESS_INDICATOR
+./e2fsprogs/fsck.c:#if DO_PROGRESS_INDICATOR
+./e2fsprogs/e2fs_lib.c:#if INT_MAX == LONG_MAX
+./e2fsprogs/e2fs_lib.c:#if HAVE_EXT2_IOCTLS
+./e2fsprogs/e2fs_lib.c:#if HAVE_EXT2_IOCTLS
+./findutils/grep.c:#if !ENABLE_EXTRA_COMPAT
+./findutils/grep.c:#if ENABLE_FEATURE_GREP_CONTEXT
+./findutils/grep.c:#if !ENABLE_EXTRA_COMPAT
+./findutils/grep.c:#if !ENABLE_EXTRA_COMPAT
+./findutils/grep.c:#if !ENABLE_EXTRA_COMPAT
+./findutils/grep.c:#if ENABLE_FEATURE_GREP_CONTEXT
+./findutils/grep.c:#if !ENABLE_EXTRA_COMPAT
+./findutils/grep.c:#if ENABLE_EXTRA_COMPAT
+./findutils/grep.c:#if !ENABLE_EXTRA_COMPAT
+./findutils/grep.c:#if ENABLE_FEATURE_GREP_CONTEXT
+./findutils/grep.c:#if !ENABLE_EXTRA_COMPAT
+./findutils/grep.c:#if ENABLE_EXTRA_COMPAT
+./findutils/grep.c:#if !ENABLE_EXTRA_COMPAT
+./findutils/grep.c:#if !ENABLE_EXTRA_COMPAT
+./findutils/grep.c:#if !ENABLE_EXTRA_COMPAT
+./findutils/grep.c:#if !ENABLE_EXTRA_COMPAT
+./findutils/grep.c:#if ENABLE_FEATURE_GREP_CONTEXT
+./findutils/grep.c:#if ENABLE_FEATURE_GREP_CONTEXT
+./findutils/grep.c:#if !ENABLE_EXTRA_COMPAT
+./findutils/grep.c:#if ENABLE_FEATURE_GREP_CONTEXT
+./findutils/grep.c:#if !ENABLE_EXTRA_COMPAT
+./findutils/grep.c:#if ENABLE_FEATURE_CLEAN_UP
+./findutils/grep.c:#if ENABLE_FEATURE_CLEAN_UP
+./findutils/grep.c:#if ENABLE_FEATURE_GREP_CONTEXT
+./findutils/grep.c:#if ENABLE_FEATURE_GREP_CONTEXT
+./findutils/grep.c:#if !ENABLE_EXTRA_COMPAT
+./findutils/grep.c:#if ENABLE_EXTRA_COMPAT
+./findutils/grep.c:#if !ENABLE_EXTRA_COMPAT
+./findutils/xargs.c:#if ENABLE_FEATURE_XARGS_SUPPORT_REPL_STR
+./findutils/xargs.c:#if ENABLE_FEATURE_XARGS_SUPPORT_QUOTES
+./findutils/xargs.c:#if ENABLE_FEATURE_XARGS_SUPPORT_ZERO_TERM
+./findutils/xargs.c:#if ENABLE_FEATURE_XARGS_SUPPORT_REPL_STR
+./findutils/xargs.c:#if ENABLE_FEATURE_XARGS_SUPPORT_CONFIRMATION
+./findutils/xargs.c:#if ENABLE_FEATURE_XARGS_SUPPORT_ZERO_TERM \
+./findutils/xargs.c:#if ENABLE_DESKTOP && ENABLE_LONG_OPTS
+./findutils/xargs.c:#if ENABLE_FEATURE_XARGS_SUPPORT_REPL_STR
+./findutils/find.c:#if ENABLE_FEATURE_FIND_REGEX
+./findutils/find.c:#if 1
+./findutils/find.c:#if ENABLE_FEATURE_FIND_NOT
+./findutils/find.c:#if ENABLE_FEATURE_FIND_MAXDEPTH
+./findutils/find.c:#if ENABLE_FEATURE_FIND_NOT
+./findutils/find.c:#if !FNM_CASEFOLD
+./findutils/find.c:#if FNM_CASEFOLD
+./findutils/find.c:#if ENABLE_FEATURE_FIND_PATH
+./findutils/find.c:#if ENABLE_FEATURE_FIND_REGEX
+./findutils/find.c:#if ENABLE_FEATURE_FIND_TYPE
+./findutils/find.c:#if ENABLE_FEATURE_FIND_PERM
+./findutils/find.c:#if ENABLE_FEATURE_FIND_MTIME
+./findutils/find.c:#if ENABLE_FEATURE_FIND_MMIN
+./findutils/find.c:#if ENABLE_FEATURE_FIND_NEWER
+./findutils/find.c:#if ENABLE_FEATURE_FIND_INUM
+./findutils/find.c:#if ENABLE_FEATURE_FIND_EXEC
+./findutils/find.c:#if ENABLE_FEATURE_FIND_USER
+./findutils/find.c:#if ENABLE_FEATURE_FIND_GROUP
+./findutils/find.c:#if ENABLE_FEATURE_FIND_PRINT0
+./findutils/find.c:#if ENABLE_FEATURE_FIND_PAREN
+./findutils/find.c:#if ENABLE_FEATURE_FIND_SIZE
+./findutils/find.c:#if ENABLE_FEATURE_FIND_PRUNE
+./findutils/find.c:#if ENABLE_FEATURE_FIND_DELETE
+./findutils/find.c:#if ENABLE_FEATURE_FIND_CONTEXT
+./findutils/find.c:#if ENABLE_FEATURE_FIND_LINKS
+./findutils/find.c:#if ENABLE_FEATURE_FIND_XDEV
+./findutils/find.c:#if ENABLE_FEATURE_FIND_MAXDEPTH
+./findutils/find.c:#if ENABLE_FEATURE_FIND_MAXDEPTH
+./findutils/find.c:#if ENABLE_FEATURE_FIND_TYPE
+./findutils/find.c:#if ENABLE_FEATURE_FIND_PERM \
+./findutils/find.c:#if !USE_NESTED_FUNCTION
+./findutils/find.c:#if ENABLE_DESKTOP
+./findutils/find.c:#if ENABLE_DESKTOP
+./findutils/find.c:#if ENABLE_DESKTOP
+./findutils/find.c:#if ENABLE_DESKTOP
+./findutils/find.c:#if !USE_NESTED_FUNCTION
+./findutils/find.c:#if ENABLE_FEATURE_FIND_XDEV
+./findutils/find.c:#if ENABLE_FEATURE_FIND_MAXDEPTH
+./findutils/find.c:#if ENABLE_FEATURE_FIND_DEPTH
+./findutils/find.c:#if ENABLE_FEATURE_FIND_NOT
+./findutils/find.c:#if ENABLE_FEATURE_FIND_PRINT0
+./findutils/find.c:#if ENABLE_FEATURE_FIND_PRUNE
+./findutils/find.c:#if ENABLE_FEATURE_FIND_DELETE
+./findutils/find.c:#if ENABLE_FEATURE_FIND_EXEC
+./findutils/find.c:#if ENABLE_FEATURE_FIND_PAREN
+./findutils/find.c:#if ENABLE_FEATURE_FIND_PATH
+./findutils/find.c:#if ENABLE_FEATURE_FIND_REGEX
+./findutils/find.c:#if ENABLE_FEATURE_FIND_TYPE
+./findutils/find.c:#if ENABLE_FEATURE_FIND_PERM
+./findutils/find.c:#if ENABLE_FEATURE_FIND_MTIME
+./findutils/find.c:#if ENABLE_FEATURE_FIND_MMIN
+./findutils/find.c:#if ENABLE_FEATURE_FIND_NEWER
+./findutils/find.c:#if ENABLE_FEATURE_FIND_INUM
+./findutils/find.c:#if ENABLE_FEATURE_FIND_USER
+./findutils/find.c:#if ENABLE_FEATURE_FIND_GROUP
+./findutils/find.c:#if ENABLE_FEATURE_FIND_SIZE
+./findutils/find.c:#if ENABLE_LFS
+./findutils/find.c:#if ENABLE_FEATURE_FIND_CONTEXT
+./findutils/find.c:#if ENABLE_FEATURE_FIND_LINKS
+./findutils/find.c:#if ENABLE_FEATURE_FIND_XDEV
+./scripts/kconfig/lxdialog/textbox.c:#if OLD_NCURSES
+./scripts/kconfig/lxdialog/menubox.c:#if OLD_NCURSES
+./scripts/kconfig/lex.zconf.c:#if YY_FLEX_SUBMINOR_VERSION > 0
+./scripts/kconfig/lex.zconf.c:#if defined __STDC_VERSION__ && __STDC_VERSION__ >= 199901L
+./scripts/kconfig/lex.zconf.c:#if __STDC__
+./scripts/kconfig/zconf.hash.c:#if !((' ' == 32) && ('!' == 33) && ('"' == 34) && ('#' == 35) \
+./scripts/kconfig/zconf.tab.c:#if YYDEBUG
+./scripts/kconfig/zconf.tab.c:#if ! defined (YYSTYPE) && ! defined (YYSTYPE_IS_DECLARED)
+./scripts/kconfig/zconf.tab.c:#if ! defined (yyoverflow) || YYERROR_VERBOSE
+./scripts/kconfig/zconf.tab.c:#if (! defined (yyoverflow) \
+./scripts/kconfig/zconf.tab.c:#if defined (__STDC__) || defined (__cplusplus)
+./scripts/kconfig/zconf.tab.c:#if YYDEBUG
+./scripts/kconfig/zconf.tab.c:#if YYDEBUG || YYERROR_VERBOSE
+./scripts/kconfig/zconf.tab.c:#if ! defined (YYSIZE_T) && defined (__SIZE_TYPE__)
+./scripts/kconfig/zconf.tab.c:#if ! defined (YYSIZE_T) && defined (size_t)
+./scripts/kconfig/zconf.tab.c:#if ! defined (YYSIZE_T)
+./scripts/kconfig/zconf.tab.c:#if ! defined (YYSIZE_T)
+./scripts/kconfig/zconf.tab.c:#if YYDEBUG
+./scripts/kconfig/zconf.tab.c:#if defined (__STDC__) || defined (__cplusplus)
+./scripts/kconfig/zconf.tab.c:#if defined (__STDC__) || defined (__cplusplus)
+./scripts/kconfig/zconf.tab.c:#if YYERROR_VERBOSE
+./scripts/kconfig/zconf.tab.c:#if YYDEBUG
+./scripts/kconfig/zconf.tab.c:#if defined (__STDC__) || defined (__cplusplus)
+./scripts/kconfig/zconf.tab.c:#if defined (__STDC__) || defined (__cplusplus)
+./scripts/kconfig/zconf.tab.c:#if defined (__STDC__) || defined (__cplusplus)
+./scripts/kconfig/zconf.tab.c:#if defined (__STDC__) || defined (__cplusplus)
+./scripts/kconfig/zconf.tab.c:#if YYERROR_VERBOSE
+./scripts/kconfig/zconf.tab.c:#if YYDEBUG
+./scripts/kconfig/zconf.tab.c:#if YYDEBUG
+./scripts/kconfig/mconf.c:#if 0
+./scripts/kconfig/gconf.c:#if 0	/* Use stock Gtk icons instead */
+./scripts/kconfig/gconf.c:#if 0
+./scripts/kconfig/gconf.c:#if GTK_CHECK_VERSION(2,1,4) // bug in ctree with earlier version of GTK
+./scripts/kconfig/expr.c:#if 0
+./util-linux/mkfs_minix.c:#if 1
+./util-linux/mkfs_minix.c:#if !ENABLE_FEATURE_MINIX2
+./util-linux/mkfs_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/mkfs_minix.c:#if !ENABLE_FEATURE_MINIX2
+./util-linux/mkfs_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/mkfs_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/mkfs_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/mkfs_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/mkfs_minix.c:#if 0
+./util-linux/mkfs_minix.c:#if 0
+./util-linux/mesg.c:#if ENABLE_FEATURE_MESG_ENABLE_ONLY_GROUP
+./util-linux/fdisk_aix.c:#if ENABLE_FEATURE_AIX_LABEL
+./util-linux/fdisk_osf.c:#if ENABLE_FEATURE_OSF_LABEL
+./util-linux/fdisk_osf.c:#if defined(__alpha__) \
+./util-linux/fdisk_osf.c:#if defined(__alpha__)
+./util-linux/fdisk_osf.c:#if !defined(__alpha__)
+./util-linux/fdisk_osf.c:#if !defined(__alpha__)
+./util-linux/fdisk_osf.c:#if !defined(__alpha__)
+./util-linux/fdisk_osf.c:#if !defined(__alpha__)
+./util-linux/fdisk_osf.c:#if !defined(__alpha__)
+./util-linux/fdisk_osf.c:#if !defined(__alpha__) && !defined(__powerpc__) && !defined(__hppa__)
+./util-linux/fdisk_osf.c:#if defined(__alpha__)
+./util-linux/fdisk_osf.c:#if defined(__alpha__)
+./util-linux/fdisk_osf.c:#if defined(__alpha__)
+./util-linux/fdisk_osf.c:#if defined(__alpha__) || defined(__powerpc__) || defined(__hppa__) || \
+./util-linux/fdisk_osf.c:#if defined(__alpha__) || defined(__ia64__)
+./util-linux/fdisk_osf.c:#if defined(__powerpc__) || defined(__hppa__)
+./util-linux/fdisk_osf.c:#if defined(__alpha__)
+./util-linux/fdisk_osf.c:#if !defined(__alpha__)
+./util-linux/fdisk_osf.c:#if !defined(__alpha__)
+./util-linux/fdisk_osf.c:#if !defined(__alpha__)
+./util-linux/fdisk_osf.c:#if !defined(__alpha__) && !defined(__powerpc__) && !defined(__hppa__)
+./util-linux/fdisk_osf.c:#if defined(__alpha__) && BSD_LABELSECTOR == 0
+./util-linux/fdisk_osf.c:#if !defined(__alpha__)
+./util-linux/fdisk_osf.c:#if defined(__alpha__)
+./util-linux/rtcwake.c:#if ENABLE_LONG_OPTS
+./util-linux/rtcwake.c:#if 0 /*debug*/
+./util-linux/renice.c:	/* Yes, they are not #defines in glibc 2.4! #if won't work */
+./util-linux/mkfs_vfat.c:#if !defined(BLKSSZGET)
+./util-linux/mkfs_vfat.c:#if 0
+./util-linux/mkfs_vfat.c:#if 0
+./util-linux/mkfs_vfat.c:#if 0
+./util-linux/mkfs_vfat.c:#if 0
+./util-linux/mkfs_vfat.c:#if 0
+./util-linux/fstrim.c:#if ENABLE_LONG_OPTS
+./util-linux/ipcrm.c:#if defined(__GNU_LIBRARY__) && !defined(_SEM_SEMUN_UNDEFINED)
+./util-linux/ipcrm.c:#if IPCRM_LEGACY
+./util-linux/ipcrm.c:#if IPCRM_LEGACY
+./util-linux/fbset.c:#if ENABLE_FEATURE_FBSET_FANCY
+./util-linux/fbset.c:#if ENABLE_FEATURE_FBSET_FANCY
+./util-linux/fbset.c:#if ENABLE_FEATURE_FBSET_READMODE
+./util-linux/fbset.c:#if ENABLE_FEATURE_FBSET_READMODE
+./util-linux/fbset.c:#if ENABLE_FEATURE_FBSET_FANCY
+./util-linux/fbset.c:#if ENABLE_FEATURE_FBSET_FANCY
+./util-linux/fbset.c:#if ENABLE_FEATURE_FBSET_FANCY
+./util-linux/fbset.c:#if ENABLE_FEATURE_FBSET_READMODE
+./util-linux/volume_id/get_devname.c:#if !defined(BLKGETSIZE64)
+./util-linux/volume_id/get_devname.c:#if !ENABLE_FEATURE_BLKID_TYPE
+./util-linux/volume_id/get_devname.c:#if ENABLE_FEATURE_BLKID_TYPE
+./util-linux/volume_id/get_devname.c:#if ENABLE_FEATURE_BLKID_TYPE
+./util-linux/volume_id/get_devname.c:#if ENABLE_FEATURE_VOLUMEID_UBIFS
+./util-linux/volume_id/get_devname.c:#if ENABLE_FEATURE_BLKID_TYPE
+./util-linux/volume_id/get_devname.c:#if ENABLE_FEATURE_BLKID_TYPE
+./util-linux/volume_id/ext.c:#if ENABLE_FEATURE_BLKID_TYPE
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_LINUXRAID
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_ISWRAID
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_LSIRAID
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_VIARAID
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_SILICONRAID
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_NVIDIARAID
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_PROMISERAID
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_HIGHPOINTRAID
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_LVM
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_HIGHPOINTRAID
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_LUKS
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_FAT
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_EXFAT
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_MAC
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_SQUASHFS
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_XFS
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_BCACHE
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_LINUXSWAP
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_EXT
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_BTRFS
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_REISERFS
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_JFS
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_UDF
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_ISO9660
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_HFS
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_UFS
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_F2FS
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_NILFS
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_NTFS
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_CRAMFS
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_ROMFS
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_HPFS
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_SYSV
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_MINIX
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_OCFS2
+./util-linux/volume_id/volume_id.c:#if ENABLE_FEATURE_VOLUMEID_UBIFS
+./util-linux/acpid.c:#if ENABLE_FEATURE_PIDFILE
+./util-linux/taskset.c:#if ENABLE_FEATURE_TASKSET_FANCY
+./util-linux/hwclock.c:#if !SHOW_HWCLOCK_DIFF
+./util-linux/hwclock.c:#if SHOW_HWCLOCK_DIFF
+./util-linux/hwclock.c:#if SHOW_HWCLOCK_DIFF
+./util-linux/hwclock.c:#if ENABLE_LOCALE_SUPPORT
+./util-linux/hwclock.c:#if !SHOW_HWCLOCK_DIFF
+./util-linux/hwclock.c:#if 1
+./util-linux/hwclock.c:#if ENABLE_FEATURE_HWCLOCK_LONG_OPTIONS
+./util-linux/getopt.c:#if ENABLE_FEATURE_GETOPT_LONG
+./util-linux/getopt.c:#if ENABLE_FEATURE_GETOPT_LONG
+./util-linux/getopt.c:#if ENABLE_FEATURE_GETOPT_LONG
+./util-linux/getopt.c:#if ENABLE_FEATURE_CLEAN_UP
+./util-linux/getopt.c:#if !ENABLE_FEATURE_GETOPT_LONG
+./util-linux/getopt.c:#if ENABLE_FEATURE_GETOPT_LONG
+./util-linux/getopt.c:#if ENABLE_FEATURE_GETOPT_LONG
+./util-linux/getopt.c:#if ENABLE_FEATURE_GETOPT_LONG
+./util-linux/getopt.c:#if ENABLE_FEATURE_GETOPT_LONG
+./util-linux/getopt.c:#if ENABLE_FEATURE_GETOPT_LONG
+./util-linux/getopt.c:#if !ENABLE_FEATURE_GETOPT_LONG
+./util-linux/last_fancy.c:#if !defined __UT_LINESIZE && defined UT_LINESIZE
+./util-linux/mdev.c:#if DEBUG_LVL >= 1
+./util-linux/mdev.c:#if DEBUG_LVL >= 2
+./util-linux/mdev.c:#if DEBUG_LVL >= 3
+./util-linux/mdev.c:#if ENABLE_FEATURE_MDEV_CONF
+./util-linux/mdev.c:#if ENABLE_FEATURE_MDEV_CONF
+./util-linux/mdev.c:#if ENABLE_FEATURE_MDEV_CONF
+./util-linux/mdev.c:#if ENABLE_FEATURE_MDEV_CONF
+./util-linux/mdev.c:#if ENABLE_FEATURE_MDEV_CONF
+./util-linux/mdev.c:#if ENABLE_FEATURE_MDEV_CONF
+./util-linux/fdisk_sgi.c:#if ENABLE_FEATURE_SGI_LABEL
+./util-linux/fdisk_sgi.c:#if ENABLE_FEATURE_FDISK_ADVANCED
+./util-linux/script.c:#if ENABLE_LONG_OPTS
+./util-linux/fsck_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/fsck_minix.c:#if !ENABLE_FEATURE_MINIX2
+./util-linux/fsck_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/fsck_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/fsck_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/fsck_minix.c:#if !ENABLE_FEATURE_MINIX2
+./util-linux/fsck_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/fsck_minix.c:#if ENABLE_FEATURE_MTAB_SUPPORT
+./util-linux/fsck_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/fsck_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/fsck_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/fsck_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/fsck_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/fsck_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/fsck_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/fsck_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/fsck_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/fsck_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/fsck_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/fsck_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/fsck_minix.c:#if ENABLE_FEATURE_MINIX2
+./util-linux/mount.c:#if ENABLE_FEATURE_MOUNT_LABEL
+./util-linux/mount.c:#if ENABLE_FEATURE_MOUNT_NFS
+./util-linux/mount.c:#if defined(__dietlibc__)
+./util-linux/mount.c:#if ENABLE_FEATURE_MTAB_SUPPORT
+./util-linux/mount.c:#if ENABLE_FEATURE_MOUNT_FAKE
+./util-linux/mount.c:#if ENABLE_FEATURE_MOUNT_HELPERS
+./util-linux/mount.c:#if ENABLE_FEATURE_MOUNT_NFS
+./util-linux/mount.c:#if ENABLE_FEATURE_MOUNT_VERBOSE
+./util-linux/mount.c:#if ENABLE_FEATURE_MOUNT_VERBOSE
+./util-linux/mount.c:#if ENABLE_FEATURE_MTAB_SUPPORT
+./util-linux/mount.c:#if ENABLE_FEATURE_MOUNT_VERBOSE
+./util-linux/mount.c:#if ENABLE_FEATURE_CLEAN_UP
+./util-linux/mount.c:#if ENABLE_FEATURE_MTAB_SUPPORT
+./util-linux/mount.c:#if ENABLE_FEATURE_MOUNT_NFS
+./util-linux/mount.c:#if ( \
+./util-linux/mount.c:#if BB_MMU
+./util-linux/mount.c:#if BB_MMU
+./util-linux/mount.c:#if BB_MMU
+./util-linux/mount.c:#if BB_MMU
+./util-linux/mount.c:#if 0
+./util-linux/blockdev.c:#if BB_BIG_ENDIAN
+./util-linux/umount.c:#if defined(__dietlibc__)
+./util-linux/umount.c:#if 0
+./util-linux/ipcs.c:#if defined(__GNU_LIBRARY__) && !defined(_SEM_SEMUN_UNDEFINED)
+./util-linux/ipcs.c:#if defined(__GNU_LIBRARY__) && __GNU_LIBRARY__ > 1
+./util-linux/swaponoff.c:#if ENABLE_FEATURE_MOUNT_LABEL
+./util-linux/swaponoff.c:#if ENABLE_FEATURE_SWAPON_DISCARD
+./util-linux/swaponoff.c:#if ENABLE_FEATURE_SWAPON_DISCARD || ENABLE_FEATURE_SWAPON_PRI
+./util-linux/swaponoff.c:#if ENABLE_SWAPOFF
+./util-linux/swaponoff.c:#if ENABLE_FEATURE_SWAPON_DISCARD
+./util-linux/swaponoff.c:#if ENABLE_FEATURE_SWAPON_PRI
+./util-linux/fdisk_sun.c:#if ENABLE_FEATURE_SUN_LABEL
+./util-linux/fdisk_sun.c:#if ENABLE_FEATURE_FDISK_ADVANCED
+./util-linux/hexdump.c:#if ENABLE_FEATURE_HEXDUMP_REVERSE
+./util-linux/hexdump.c:#if ENABLE_FEATURE_HEXDUMP_REVERSE
+./util-linux/hexdump.c:#if !ENABLE_FEATURE_HEXDUMP_REVERSE
+./util-linux/flock.c:#if ENABLE_LONG_OPTS
+./util-linux/last.c:#if defined UT_LINESIZE \
+./util-linux/last.c:#if EMPTY != 0 || RUN_LVL != 1 || BOOT_TIME != 2 || NEW_TIME != 3 || \
+./util-linux/last.c:#if 1
+./util-linux/eject.c:#if ENABLE_FEATURE_EJECT_SCSI
+./util-linux/eject.c:#if ENABLE_FEATURE_EJECT_SCSI
+./util-linux/cal.c:#if ENABLE_UNICODE_SUPPORT
+./util-linux/mkswap.c:#if ENABLE_SELINUX
+./util-linux/fdisk_gpt.c:#if ENABLE_FEATURE_GPT_LABEL
+./util-linux/fdisk_gpt.c:#if ENABLE_UNICODE_SUPPORT
+./util-linux/nsenter.c://usage:#if ENABLE_FEATURE_NSENTER_LONG_OPTS
+./util-linux/nsenter.c:#if ENABLE_FEATURE_NSENTER_LONG_OPTS
+./util-linux/rev.c:#if ENABLE_UNICODE_SUPPORT
+./util-linux/rev.c:#if ENABLE_UNICODE_SUPPORT
+./util-linux/fdisk.c:#if !defined(BLKSSZGET)
+./util-linux/fdisk.c:#if !defined(BLKGETSIZE64)
+./util-linux/fdisk.c:#if BB_LITTLE_ENDIAN
+./util-linux/fdisk.c:#if UINT_MAX == 4294967295
+./util-linux/fdisk.c:/* TODO: #if ENABLE_FEATURE_FDISK_WRITABLE */
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_SUN_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_SGI_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_AIX_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_OSF_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_GPT_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_SUN_LABEL || ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if 0 /* ENABLE_WEIRD_PARTITION_TYPES */
+./util-linux/fdisk.c:#if ENABLE_FEATURE_OSF_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FDISK_SUPPORT_LARGE_DISKS
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_SGI_LABEL || ENABLE_FEATURE_SUN_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_ADVANCED
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_ADVANCED
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_ADVANCED
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_ADVANCED
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_ADVANCED
+./util-linux/fdisk.c:#if ENABLE_FEATURE_SGI_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_OSF_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_SUN_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_SUN_LABEL || ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_SUN_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_SGI_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_AIX_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_GPT_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_OSF_LABEL
+./util-linux/fdisk.c:#if !ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_SUN_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_SGI_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_ADVANCED
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_ADVANCED
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if 0
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_ADVANCED
+./util-linux/fdisk.c:#if ENABLE_FEATURE_SGI_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_OSF_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_CLEAN_UP
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_BLKSIZE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_WRITABLE
+./util-linux/fdisk.c:#if ENABLE_FEATURE_OSF_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_SUN_LABEL
+./util-linux/fdisk.c:#if ENABLE_FEATURE_FDISK_ADVANCED
+./loginutils/chpasswd.c:#if ENABLE_LONG_OPTS
+./loginutils/chpasswd.c:#if ENABLE_FEATURE_SHADOWPASSWDS
+./loginutils/passwd.c:#if ENABLE_FEATURE_SHADOWPASSWDS
+./loginutils/passwd.c:#if ENABLE_FEATURE_SHADOWPASSWDS
+./loginutils/passwd.c:#if ENABLE_FEATURE_SHADOWPASSWDS
+./loginutils/su.c:#if ENABLE_FEATURE_SU_CHECKS_SHELLS
+./loginutils/su.c:#if ENABLE_FEATURE_UTMP
+./loginutils/su.c:#if ENABLE_FEATURE_UTMP
+./loginutils/su.c:#if ENABLE_FEATURE_SU_CHECKS_SHELLS
+./loginutils/cryptpw.c:#if ENABLE_LONG_OPTS
+./loginutils/deluser.c:#if !ENABLE_LONG_OPTS
+./loginutils/addgroup.c:#if CONFIG_LAST_SYSTEM_ID < CONFIG_FIRST_SYSTEM_ID
+./loginutils/addgroup.c:#if CONFIG_LAST_ID < CONFIG_LAST_SYSTEM_ID
+./loginutils/addgroup.c:#if ENABLE_FEATURE_SHADOWPASSWDS
+./loginutils/addgroup.c:#if ENABLE_FEATURE_ADDGROUP_LONG_OPTIONS
+./loginutils/addgroup.c:#if ENABLE_FEATURE_ADDGROUP_LONG_OPTIONS
+./loginutils/addgroup.c:#if ENABLE_FEATURE_ADDUSER_TO_GROUP
+./loginutils/adduser.c:#if CONFIG_LAST_SYSTEM_ID < CONFIG_FIRST_SYSTEM_ID
+./loginutils/adduser.c:#if CONFIG_LAST_ID < CONFIG_LAST_SYSTEM_ID
+./loginutils/adduser.c:#if ENABLE_FEATURE_ADDGROUP_LONG_OPTIONS || !ENABLE_ADDGROUP
+./loginutils/adduser.c:#if ENABLE_FEATURE_ADDUSER_LONG_OPTIONS
+./loginutils/adduser.c:#if ENABLE_FEATURE_ADDUSER_LONG_OPTIONS
+./loginutils/adduser.c:#if ENABLE_FEATURE_SHADOWPASSWDS
+./loginutils/login.c:#if ENABLE_SELINUX
+./loginutils/login.c:#if ENABLE_PAM
+./loginutils/login.c:#if ENABLE_FEATURE_NOLOGIN
+./loginutils/login.c:#if ENABLE_SELINUX
+./loginutils/login.c:#if ENABLE_LOGIN_SCRIPTS
+./loginutils/login.c:#if ENABLE_LOGIN_SESSION_AS_CHILD && ENABLE_PAM
+./loginutils/login.c:#if ENABLE_PAM
+./loginutils/login.c:#if ENABLE_LOGIN_SESSION_AS_CHILD
+./loginutils/login.c:#if ENABLE_PAM
+./loginutils/login.c:#if ENABLE_LOGIN_SESSION_AS_CHILD
+./loginutils/login.c:#if ENABLE_PAM
+./shell/shell_common.c:#if 0 /* even bash has no -t N.NNN support */
+./shell/hush.c:#if !(defined(__FreeBSD__) || defined(__OpenBSD__) || defined(__NetBSD__) \
+./shell/hush.c:#if ENABLE_HUSH_CASE
+./shell/hush.c:#if ENABLE_HUSH_RANDOM_SUPPORT
+./shell/hush.c:#if BUILD_AS_NOMMU
+./shell/hush.c:#if NUM_APPLETS == 1
+./shell/hush.c:#if !ENABLE_HUSH_INTERACTIVE
+./shell/hush.c:#if ENABLE_HUSH_IF || ENABLE_HUSH_LOOPS || ENABLE_HUSH_CASE
+./shell/hush.c:#if BASH_PATTERN_SUBST
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_IF
+./shell/hush.c:#if ENABLE_HUSH_LOOPS
+./shell/hush.c:#if ENABLE_HUSH_LOOPS || ENABLE_HUSH_CASE
+./shell/hush.c:#if ENABLE_HUSH_CASE
+./shell/hush.c:#if ENABLE_HUSH_INTERACTIVE
+./shell/hush.c:#if BASH_TEST2
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if HAS_KEYWORDS
+./shell/hush.c:#if ENABLE_HUSH_CASE
+./shell/hush.c:#if ENABLE_HUSH_LOCAL
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if ENABLE_HUSH_MODE_X
+./shell/hush.c:#if ENABLE_HUSH_MODE_X
+./shell/hush.c:#if ENABLE_HUSH_INTERACTIVE
+./shell/hush.c:#if ENABLE_FEATURE_EDITING
+./shell/hush.c:#if ENABLE_HUSH_RANDOM_SUPPORT
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_MODE_X
+./shell/hush.c:#if ENABLE_HUSH_LOOPS
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if ENABLE_HUSH_SET
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_LOOPS
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if ENABLE_HUSH_FAST
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_TRAP
+./shell/hush.c:#if ENABLE_HUSH_MEMLEAK
+./shell/hush.c:#if HUSH_DEBUG
+./shell/hush.c:#if ENABLE_FEATURE_EDITING
+./shell/hush.c:#if ENABLE_HUSH_ECHO
+./shell/hush.c:#if ENABLE_HUSH_EXPORT
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_HELP
+./shell/hush.c:#if MAX_HISTORY && ENABLE_FEATURE_EDITING
+./shell/hush.c:#if ENABLE_HUSH_LOCAL
+./shell/hush.c:#if ENABLE_HUSH_MEMLEAK
+./shell/hush.c:#if ENABLE_HUSH_PRINTF
+./shell/hush.c:#if ENABLE_HUSH_READ
+./shell/hush.c:#if ENABLE_HUSH_SET
+./shell/hush.c:#if ENABLE_HUSH_TEST || BASH_TEST2
+./shell/hush.c:#if ENABLE_HUSH_TRAP
+./shell/hush.c:#if ENABLE_HUSH_TYPE
+./shell/hush.c:#if ENABLE_HUSH_UMASK
+./shell/hush.c:#if ENABLE_HUSH_UNSET
+./shell/hush.c:#if ENABLE_HUSH_KILL
+./shell/hush.c:#if ENABLE_HUSH_WAIT
+./shell/hush.c:#if ENABLE_HUSH_LOOPS
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if ENABLE_HUSH_HELP
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_LOOPS
+./shell/hush.c:#if ENABLE_HUSH_LOOPS
+./shell/hush.c:#if ENABLE_HUSH_EXPORT
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_HELP
+./shell/hush.c:#if MAX_HISTORY && ENABLE_FEATURE_EDITING
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_KILL
+./shell/hush.c:#if ENABLE_HUSH_LOCAL
+./shell/hush.c:#if ENABLE_HUSH_MEMLEAK
+./shell/hush.c:#if ENABLE_HUSH_READ
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if ENABLE_HUSH_SET
+./shell/hush.c:#if BASH_SOURCE
+./shell/hush.c:#if ENABLE_HUSH_TRAP
+./shell/hush.c:#if ENABLE_HUSH_TYPE
+./shell/hush.c:#if ENABLE_HUSH_ULIMIT
+./shell/hush.c:#if ENABLE_HUSH_UMASK
+./shell/hush.c:#if ENABLE_HUSH_UNSET
+./shell/hush.c:#if ENABLE_HUSH_WAIT
+./shell/hush.c:#if ENABLE_HUSH_TEST
+./shell/hush.c:#if BASH_TEST2
+./shell/hush.c:#if ENABLE_HUSH_ECHO
+./shell/hush.c:#if ENABLE_HUSH_PRINTF
+./shell/hush.c:#if ENABLE_HUSH_TEST
+./shell/hush.c:#if HUSH_DEBUG
+./shell/hush.c:#if DEBUG_EXPAND
+./shell/hush.c:#if LEAK_HUNTING
+./shell/hush.c:#if HUSH_DEBUG < 2
+./shell/hush.c:#if HUSH_DEBUG >= 2
+./shell/hush.c:#if HUSH_DEBUG >= 2
+./shell/hush.c:#if HUSH_DEBUG < 2
+./shell/hush.c:#if ENABLE_HUSH_INTERACTIVE
+./shell/hush.c:#if LEAK_HUNTING
+./shell/hush.c:#if LEAK_HUNTING
+./shell/hush.c:#if ENABLE_FEATURE_SH_STANDALONE && BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_SET
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_FAST
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_FEATURE_EDITING_SAVE_ON_EXIT
+./shell/hush.c:#if ENABLE_FEATURE_CLEAN_UP
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_FAST
+./shell/hush.c:#if ENABLE_HUSH_RANDOM_SUPPORT
+./shell/hush.c:#if !BB_MMU && ENABLE_HUSH_LOCAL
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_LOCAL
+./shell/hush.c:#if ENABLE_HUSH_LOCAL
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_UNSET
+./shell/hush.c:#if BASH_HOSTNAME_VAR || ENABLE_FEATURE_SH_MATH || ENABLE_HUSH_READ
+./shell/hush.c:#if ENABLE_HUSH_INTERACTIVE
+./shell/hush.c:#if ENABLE_FEATURE_EDITING
+./shell/hush.c:#if ENABLE_FEATURE_EDITING && ENABLE_HUSH_INTERACTIVE
+./shell/hush.c:#if ENABLE_FEATURE_EDITING && ENABLE_HUSH_INTERACTIVE
+./shell/hush.c:#if 0
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_BRACE_EXPANSION
+./shell/hush.c:#if DEBUG_EXPAND || DEBUG_GLOB
+./shell/hush.c:#if ENABLE_HUSH_BRACE_EXPANSION
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if HAS_KEYWORDS
+./shell/hush.c:#if 0	/* Instead we emit error message at run time */
+./shell/hush.c:#if HAS_KEYWORDS
+./shell/hush.c:#if ENABLE_HUSH_IF
+./shell/hush.c:#if ENABLE_HUSH_LOOPS
+./shell/hush.c:#if ENABLE_HUSH_CASE
+./shell/hush.c:#if ENABLE_HUSH_LOOPS
+./shell/hush.c:#if ENABLE_HUSH_CASE
+./shell/hush.c:#if HAS_KEYWORDS
+./shell/hush.c:#if HAS_KEYWORDS
+./shell/hush.c:#if ENABLE_HUSH_LOOPS
+./shell/hush.c:#if ENABLE_HUSH_CASE
+./shell/hush.c:#if BB_MMU
+./shell/hush.c:#if 0		/* Instead we emit error message at run time */
+./shell/hush.c:#if BB_MMU
+./shell/hush.c:#if 0
+./shell/hush.c:#if BB_MMU
+./shell/hush.c:#if !ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if 0 /* Prevented by caller */
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if BB_MMU
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_TICK || ENABLE_FEATURE_SH_MATH || ENABLE_HUSH_DOLLAR_OPS
+./shell/hush.c:#if 0
+./shell/hush.c:#if BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_DOLLAR_OPS
+./shell/hush.c:#if ENABLE_FEATURE_SH_MATH || ENABLE_HUSH_TICK
+./shell/hush.c:#if BB_MMU
+./shell/hush.c:#if !BASH_PATTERN_SUBST
+./shell/hush.c:#if ENABLE_HUSH_TICK
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_CASE
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if 0
+./shell/hush.c:#if 0
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_TICK
+./shell/hush.c:#if ENABLE_HUSH_CASE
+./shell/hush.c:#if ENABLE_HUSH_CASE
+./shell/hush.c:#if ENABLE_HUSH_CASE
+./shell/hush.c:#if ENABLE_HUSH_CASE
+./shell/hush.c:#if ENABLE_HUSH_CASE
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if !BASH_PATTERN_SUBST
+./shell/hush.c:#if ENABLE_HUSH_TICK
+./shell/hush.c:#if ENABLE_HUSH_BRACE_EXPANSION
+./shell/hush.c:#if !BASH_PATTERN_SUBST
+./shell/hush.c:#if ENABLE_HUSH_TICK
+./shell/hush.c:#if ENABLE_FEATURE_SH_MATH
+./shell/hush.c:#if BASH_PATTERN_SUBST
+./shell/hush.c:#if BASH_PATTERN_SUBST
+./shell/hush.c:#if BASH_SUBSTR && ENABLE_FEATURE_SH_MATH
+./shell/hush.c:#if ENABLE_HUSH_TICK
+./shell/hush.c:#if ENABLE_FEATURE_SH_MATH
+./shell/hush.c:#if ENABLE_HUSH_TICK
+./shell/hush.c:#if ENABLE_FEATURE_SH_MATH
+./shell/hush.c:#if ENABLE_HUSH_TICK
+./shell/hush.c:#if BASH_TEST2
+./shell/hush.c:#if !BASH_PATTERN_SUBST
+./shell/hush.c:#if ENABLE_HUSH_TRAP
+./shell/hush.c:#if BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_INTERACTIVE
+./shell/hush.c:#if ENABLE_HUSH_TICK
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_FAST
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_INTERACTIVE
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if BB_MMU
+./shell/hush.c:#if BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_MODE_X
+./shell/hush.c:#if BB_MMU
+./shell/hush.c:#if BB_MMU
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if ENABLE_FEATURE_SH_STANDALONE || BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if ENABLE_FEATURE_SH_STANDALONE
+./shell/hush.c:#if ENABLE_FEATURE_SH_STANDALONE || BB_MMU
+./shell/hush.c:#if BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if DEBUG_JOBS
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_FAST
+./shell/hush.c:#if ENABLE_HUSH_FAST
+./shell/hush.c:#if ENABLE_HUSH_FAST
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if !ENABLE_HUSH_MODE_X
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if 0 /* A few cases in testsuite fail with this code. FIXME */
+./shell/hush.c:#if BASH_TEST2
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_FAST
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_CASE
+./shell/hush.c:#if ENABLE_HUSH_LOOPS
+./shell/hush.c:#if ENABLE_HUSH_IF || ENABLE_HUSH_CASE
+./shell/hush.c:#if HAS_KEYWORDS
+./shell/hush.c:#if ENABLE_HUSH_LOOPS
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if HAS_KEYWORDS
+./shell/hush.c:#if ENABLE_HUSH_LOOPS
+./shell/hush.c:#if ENABLE_HUSH_IF
+./shell/hush.c:#if ENABLE_HUSH_LOOPS
+./shell/hush.c:#if ENABLE_HUSH_CASE
+./shell/hush.c:#if ENABLE_HUSH_LOOPS
+./shell/hush.c:#if ENABLE_HUSH_LOOPS
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_IF
+./shell/hush.c:#if ENABLE_HUSH_LOOPS
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_LOOPS
+./shell/hush.c:#if ENABLE_HUSH_CASE
+./shell/hush.c:#if ENABLE_HUSH_TRAP
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_FAST
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if BASH_HOSTNAME_VAR
+./shell/hush.c:#if ENABLE_FEATURE_EDITING
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if !BB_MMU
+./shell/hush.c:#if ENABLE_FEATURE_CLEAN_UP
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_MSH
+./shell/hush.c:#if ENABLE_HUSH_TEST || ENABLE_HUSH_ECHO || ENABLE_HUSH_PRINTF || ENABLE_HUSH_KILL
+./shell/hush.c:#if ENABLE_HUSH_TEST || BASH_TEST2
+./shell/hush.c:#if ENABLE_HUSH_ECHO
+./shell/hush.c:#if ENABLE_HUSH_PRINTF
+./shell/hush.c:#if ENABLE_HUSH_HELP
+./shell/hush.c:#if MAX_HISTORY && ENABLE_FEATURE_EDITING
+./shell/hush.c:#if ENABLE_HUSH_TYPE
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if ENABLE_HUSH_READ
+./shell/hush.c:#if ENABLE_HUSH_UMASK
+./shell/hush.c:#if ENABLE_HUSH_EXPORT || ENABLE_HUSH_TRAP
+./shell/hush.c:#if ENABLE_HUSH_EXPORT || ENABLE_HUSH_LOCAL
+./shell/hush.c:#if ENABLE_HUSH_EXPORT
+./shell/hush.c:#if ENABLE_HUSH_EXPORT_N
+./shell/hush.c:#if 0
+./shell/hush.c:#if ENABLE_HUSH_LOCAL
+./shell/hush.c:#if ENABLE_HUSH_UNSET
+./shell/hush.c:#if ENABLE_HUSH_SET
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if ENABLE_HUSH_TRAP
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_KILL
+./shell/hush.c:#if ENABLE_HUSH_WAIT
+./shell/hush.c:#if !ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_JOB
+./shell/hush.c:#if ENABLE_HUSH_LOOPS || ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if ENABLE_HUSH_LOOPS
+./shell/hush.c:#if ENABLE_HUSH_FUNCTIONS
+./shell/hush.c:#if ENABLE_HUSH_MEMLEAK
+./shell/cttyhack.c:#if !defined(__linux__) && !defined(TIOCGSERIAL) && !ENABLE_WERROR
+./shell/ash.c:#if defined(__ANDROID_API__) && __ANDROID_API__ <= 24
+./shell/ash.c:#if !ENABLE_ASH_INTERNAL_GLOB && defined(__UCLIBC__)
+./shell/ash.c:#if !ENABLE_ASH_INTERNAL_GLOB
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if ENABLE_ASH_RANDOM_SUPPORT
+./shell/ash.c:#if NUM_APPLETS == 1
+./shell/ash.c:#if !BB_MMU
+./shell/ash.c:#if BASH_PIPEFAIL
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if BASH_PIPEFAIL
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if ENABLE_ASH_RANDOM_SUPPORT
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if DEBUG_INTONOFF
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if DEBUG_INTONOFF
+./shell/ash.c:#if BASH_SUBSTR
+./shell/ash.c:#if BASH_PATTERN_SUBST
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if 0
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_RANDOM_SUPPORT
+./shell/ash.c:#if ENABLE_LOCALE_SUPPORT
+./shell/ash.c:#if ENABLE_ASH_MAIL
+./shell/ash.c:#if ENABLE_ASH_RANDOM_SUPPORT
+./shell/ash.c:#if ENABLE_ASH_MAIL
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_RANDOM_SUPPORT
+./shell/ash.c:#if ENABLE_LOCALE_SUPPORT
+./shell/ash.c:#if ENABLE_FEATURE_EDITING_SAVEHISTORY
+./shell/ash.c:#if ENABLE_ASH_MAIL
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_MAIL
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_FEATURE_EDITING && ENABLE_FEATURE_EDITING_FANCY_PROMPT
+./shell/ash.c:#if ENABLE_ASH_RANDOM_SUPPORT
+./shell/ash.c:#if ENABLE_UNICODE_SUPPORT
+./shell/ash.c:#if ENABLE_ASH_RANDOM_SUPPORT
+./shell/ash.c:#if ENABLE_FEATURE_EDITING
+./shell/ash.c:#if ENABLE_ASH_EXPAND_PRMT
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if !USE_SIT_FUNCTION
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if USE_SIT_FUNCTION
+./shell/ash.c:#if 1
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if !JOBS
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if 0
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS || DEBUG
+./shell/ash.c:#if !JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if 1
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if !JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if defined(F_DUPFD_CLOEXEC)
+./shell/ash.c:#if !defined(F_DUPFD_CLOEXEC)
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if !ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if BASH_PATTERN_SUBST
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if !ENABLE_ASH_OPTIMIZE_FOR_SIZE
+./shell/ash.c:#if !ENABLE_ASH_OPTIMIZE_FOR_SIZE
+./shell/ash.c:#if BASH_SUBSTR
+./shell/ash.c:#if BASH_PATTERN_SUBST
+./shell/ash.c:#if BASH_PATTERN_SUBST
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if 0
+./shell/ash.c:#if ENABLE_UNICODE_SUPPORT
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if BASH_SUBSTR
+./shell/ash.c:#if BASH_PATTERN_SUBST
+./shell/ash.c:#if !ENABLE_ASH_INTERNAL_GLOB
+./shell/ash.c:#if 0 // glibc 2.24.90 bug? Patterns like "*/file", when match, don't set GLOB_MAGCHAR
+./shell/ash.c:#if ENABLE_LOCALE_SUPPORT
+./shell/ash.c:#if ENABLE_FEATURE_SH_STANDALONE
+./shell/ash.c:#if ENABLE_FEATURE_SH_STANDALONE
+./shell/ash.c:#if BASH_FUNCTION
+./shell/ash.c:#if BASH_FUNCTION
+./shell/ash.c:#if BASH_FUNCTION
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_ASH_CMDCMD
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if NAND + 1 != NOR
+./shell/ash.c:#if NOR + 1 != NSEMI
+./shell/ash.c:#if !defined(__alpha__) || (defined(__GNUC__) && __GNUC__ >= 3)
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if 0
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if !ENABLE_FEATURE_SH_EXTRA_QUIET
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if ENABLE_FEATURE_EDITING_VI
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_HELP
+./shell/ash.c:#if MAX_HISTORY
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if ENABLE_ASH_ECHO
+./shell/ash.c:#if ENABLE_ASH_PRINTF
+./shell/ash.c:#if ENABLE_ASH_TEST || BASH_TEST2
+./shell/ash.c:#if ENABLE_ASH_TEST
+./shell/ash.c:#if BASH_TEST2
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if ENABLE_ASH_CMDCMD
+./shell/ash.c:#if ENABLE_ASH_ECHO
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_HELP
+./shell/ash.c:#if MAX_HISTORY
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if ENABLE_ASH_PRINTF
+./shell/ash.c:#if BASH_SOURCE
+./shell/ash.c:#if ENABLE_ASH_TEST
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_ASH_CMDCMD
+./shell/ash.c:#if ENABLE_ASH_CMDCMD
+./shell/ash.c:#if ENABLE_FEATURE_SH_NOFORK
+./shell/ash.c:#if !ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_FEATURE_EDITING
+./shell/ash.c:#if 0 /* disabled: nonblock_immune_read() handles this problem */
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_ASH_MAIL
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_RANDOM_SUPPORT
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if BASH_TEST2
+./shell/ash.c:#if BASH_FUNCTION
+./shell/ash.c:#if BASH_TEST2
+./shell/ash.c:#if BASH_TEST2
+./shell/ash.c:#if BASH_FUNCTION
+./shell/ash.c:#if BASH_DOLLAR_SQUOTE
+./shell/ash.c:#if BASH_DOLLAR_SQUOTE
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if BASH_DOLLAR_SQUOTE
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if BASH_SUBSTR
+./shell/ash.c:#if BASH_PATTERN_SUBST
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if DEBUG
+./shell/ash.c:/* #if ENABLE_FEATURE_SH_STANDALONE... moved after builtin check */
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if ENABLE_FEATURE_SH_STANDALONE
+./shell/ash.c:#if ENABLE_ASH_HELP
+./shell/ash.c:#if MAX_HISTORY
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if ENABLE_FEATURE_EDITING_SAVE_ON_EXIT
+./shell/ash.c:#if BASH_SHLVL_VAR
+./shell/ash.c:#if BASH_HOSTNAME_VAR
+./shell/ash.c:#if DEBUG == 2
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if PROFILE
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if PROFILE
+./shell/ash.c:#if ENABLE_FEATURE_EDITING
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if MAX_HISTORY > 0 && ENABLE_FEATURE_EDITING_SAVEHISTORY
+./shell/ash.c:#if PROFILE
+./shell/random.c:#if !defined RANDTEST
+./coreutils/cksum.c:#if ENABLE_DESKTOP
+./coreutils/date.c:#if ENABLE_FEATURE_DATE_NANO
+./coreutils/date.c:#if ENABLE_LONG_OPTS
+./coreutils/date.c:#if ENABLE_FEATURE_DATE_COMPAT
+./coreutils/date.c:#if ENABLE_FEATURE_DATE_NANO
+./coreutils/date.c:#if ENABLE_FEATURE_DATE_NANO
+./coreutils/date.c:#if ENABLE_FEATURE_DATE_NANO
+./coreutils/echo.c:#if !ENABLE_FEATURE_FANCY_ECHO
+./coreutils/echo.c:#if !ENABLE_FEATURE_FANCY_ECHO
+./coreutils/sleep.c:#if ENABLE_FEATURE_FANCY_SLEEP || ENABLE_FEATURE_FLOAT_SLEEP
+./coreutils/sleep.c:#if ENABLE_FEATURE_FLOAT_SLEEP
+./coreutils/sleep.c:#if ENABLE_FEATURE_FLOAT_SLEEP
+./coreutils/ls.c:#if ENABLE_FTPD
+./coreutils/ls.c:#if ENABLE_FEATURE_LS_TIMESTAMPS || ENABLE_FEATURE_LS_SORTFILES
+./coreutils/ls.c:#if ENABLE_FEATURE_LS_COLOR
+./coreutils/ls.c:#if ENABLE_FEATURE_LS_WIDTH
+./coreutils/ls.c:#if ENABLE_FEATURE_LS_TIMESTAMPS
+./coreutils/ls.c:#if ENABLE_FEATURE_LS_COLOR
+./coreutils/ls.c:#if ENABLE_FEATURE_LS_FILETYPES
+./coreutils/ls.c:#if ENABLE_FEATURE_LS_FILETYPES || ENABLE_FEATURE_LS_COLOR
+./coreutils/ls.c:#if ENABLE_FEATURE_LS_FILETYPES
+./coreutils/ls.c:#if ENABLE_FEATURE_LS_USERNAME
+./coreutils/ls.c:#if ENABLE_SELINUX
+./coreutils/ls.c:#if ENABLE_FEATURE_LS_TIMESTAMPS
+./coreutils/ls.c:#if ENABLE_FEATURE_LS_COLOR
+./coreutils/ls.c:#if ENABLE_FEATURE_LS_FILETYPES || ENABLE_FEATURE_LS_COLOR
+./coreutils/ls.c:#if ENABLE_FEATURE_LS_FILETYPES
+./coreutils/ls.c:#if ENABLE_SELINUX
+./coreutils/ls.c:#if ENABLE_SELINUX
+./coreutils/ls.c:#if ENABLE_FEATURE_LS_TIMESTAMPS || ENABLE_FEATURE_LS_SORTFILES
+./coreutils/ls.c:#if ENABLE_FEATURE_LS_RECURSIVE
+./coreutils/ls.c:#if ENABLE_FEATURE_LS_SORTFILES
+./coreutils/ls.c:#if defined(HAVE_STRVERSCMP) && HAVE_STRVERSCMP == 1
+./coreutils/ls.c:#if ENABLE_DESKTOP
+./coreutils/ls.c:#if ENABLE_DESKTOP
+./coreutils/ls.c:#if ENABLE_FEATURE_LS_COLOR
+./coreutils/ls.c:#if ENABLE_LONG_OPTS
+./coreutils/ls.c:#if ENABLE_FEATURE_LS_WIDTH
+./coreutils/ls.c:#if 0 /* option bits debug */
+./coreutils/ls.c:#if ENABLE_SELINUX
+./coreutils/ls.c:#if ENABLE_FEATURE_LS_COLOR
+./coreutils/chown.c:#if ENABLE_FEATURE_CHOWN_LONG_OPTIONS
+./coreutils/chown.c:#if ENABLE_FEATURE_CHOWN_LONG_OPTIONS
+./coreutils/libcoreutils/cp_mv_stat.c:#if ENABLE_FEATURE_VERBOSE_CP_MESSAGE
+./coreutils/libcoreutils/getopt_mk_fifo_nod.c:#if ENABLE_SELINUX
+./coreutils/libcoreutils/getopt_mk_fifo_nod.c:#if ENABLE_SELINUX
+./coreutils/sync.c:#if !ENABLE_FEATURE_SYNC_FANCY
+./coreutils/uudecode.c:#if ENABLE_UUDECODE
+./coreutils/uudecode.c:#if ENABLE_UUDECODE
+./coreutils/uudecode.c:#if ENABLE_BASE64
+./coreutils/env.c:#if ENABLE_FEATURE_ENV_LONG_OPTIONS
+./coreutils/env.c:#if ENABLE_FEATURE_ENV_LONG_OPTIONS
+./coreutils/du.c:#if ENABLE_FEATURE_HUMAN_READABLE
+./coreutils/du.c:#if ENABLE_FEATURE_HUMAN_READABLE
+./coreutils/du.c:#if ENABLE_FEATURE_HUMAN_READABLE
+./coreutils/du.c:#if ENABLE_FEATURE_HUMAN_READABLE
+./coreutils/du.c:#if !ENABLE_FEATURE_DU_DEFAULT_BLOCKSIZE_1K
+./coreutils/split.c:#if ENABLE_FEATURE_SPLIT_FANCY
+./coreutils/uname.c:#if ENABLE_LONG_OPTS
+./coreutils/uname.c:#if defined(__sparc__) && defined(__linux__)
+./coreutils/uname.c:#if defined(__sparc__) && defined(__linux__)
+./coreutils/uname.c:#if ENABLE_FEDORA_COMPAT
+./coreutils/id.c:#if !ENABLE_USE_BB_PWD_GRP
+./coreutils/id.c:#if defined(__UCLIBC__) && UCLIBC_VERSION < KERNEL_VERSION(0, 9, 30)
+./coreutils/id.c:#if ENABLE_SELINUX
+./coreutils/id.c:#if ENABLE_SELINUX
+./coreutils/id.c:#if ENABLE_SELINUX
+./coreutils/id.c:#if ENABLE_SELINUX
+./coreutils/touch.c:#if ENABLE_FEATURE_TOUCH_SUSV3
+./coreutils/touch.c:#if ENABLE_FEATURE_TOUCH_SUSV3 && ENABLE_LONG_OPTS
+./coreutils/touch.c:#if ENABLE_FEATURE_TOUCH_NODEREF
+./coreutils/mktemp.c:#if 0
+./coreutils/od_bloaty.c://usage:#if ENABLE_DESKTOP
+./coreutils/od_bloaty.c:#if ENABLE_LFS
+./coreutils/od_bloaty.c:#if ENABLE_LONG_OPTS
+./coreutils/od_bloaty.c:#if !ENABLE_LONG_OPTS
+./coreutils/od_bloaty.c:#if USHRT_MAX != UCHAR_MAX
+./coreutils/od_bloaty.c:#if UINT_MAX != USHRT_MAX
+./coreutils/od_bloaty.c:#if ULONG_MAX != UINT_MAX
+./coreutils/od_bloaty.c:#if ULLONG_MAX != ULONG_MAX
+./coreutils/od_bloaty.c:#if UINT_MAX == ULONG_MAX
+./coreutils/od_bloaty.c:#if ULONG_MAX == ULLONG_MAX
+./coreutils/od_bloaty.c:#if ENABLE_LONG_OPTS
+./coreutils/od_bloaty.c:#if ENABLE_LONG_OPTS
+./coreutils/od_bloaty.c:#if ENABLE_LONG_OPTS
+./coreutils/od_bloaty.c:#if ENABLE_LONG_OPTS
+./coreutils/od_bloaty.c:#if ENABLE_LONG_OPTS
+./coreutils/nl.c:#if ENABLE_LONG_OPTS
+./coreutils/sort.c:#if ENABLE_FEATURE_SORT_BIG
+./coreutils/sort.c:#if ENABLE_FEATURE_SORT_BIG
+./coreutils/sort.c:#if ENABLE_LOCALE_SUPPORT
+./coreutils/sort.c:#if ENABLE_FEATURE_SORT_BIG
+./coreutils/sort.c:#if ENABLE_FEATURE_SORT_BIG
+./coreutils/sort.c:#if ENABLE_FEATURE_SORT_BIG
+./coreutils/sort.c:#if ENABLE_FEATURE_SORT_BIG
+./coreutils/sort.c:#if ENABLE_FEATURE_SORT_BIG
+./coreutils/dd.c:#if ENABLE_FEATURE_DD_THIRD_STATUS_LINE
+./coreutils/dd.c:#if ENABLE_FEATURE_DD_THIRD_STATUS_LINE
+./coreutils/dd.c:#if ENABLE_FEATURE_DD_THIRD_STATUS_LINE
+./coreutils/dd.c:#if ENABLE_FEATURE_DD_THIRD_STATUS_LINE
+./coreutils/dd.c:#if ENABLE_LFS
+./coreutils/dd.c:#if ENABLE_FEATURE_DD_IBS_OBS
+./coreutils/dd.c:#if ENABLE_FEATURE_DD_IBS_OBS
+./coreutils/dd.c:#if ENABLE_FEATURE_DD_IBS_OBS
+./coreutils/dd.c:#if ENABLE_FEATURE_DD_STATUS
+./coreutils/dd.c:#if ENABLE_FEATURE_DD_IBS_OBS
+./coreutils/dd.c:#if ENABLE_FEATURE_DD_IBS_OBS
+./coreutils/dd.c:#if ENABLE_DESKTOP
+./coreutils/dd.c:#if ENABLE_FEATURE_DD_IBS_OBS
+./coreutils/dd.c:#if ENABLE_FEATURE_DD_STATUS
+./coreutils/dd.c:#if ENABLE_FEATURE_DD_IBS_OBS
+./coreutils/dd.c:#if ENABLE_FEATURE_DD_SIGNAL_HANDLING
+./coreutils/dd.c:#if ENABLE_FEATURE_DD_THIRD_STATUS_LINE
+./coreutils/expand.c:#if ENABLE_EXPAND
+./coreutils/expand.c:#if ENABLE_UNEXPAND
+./coreutils/expand.c:#if ENABLE_FEATURE_EXPAND_LONG_OPTIONS
+./coreutils/expand.c:#if ENABLE_FEATURE_UNEXPAND_LONG_OPTIONS
+./coreutils/timeout.c:#if !BB_MMU
+./coreutils/timeout.c:#if !BB_MMU
+./coreutils/timeout.c:#if !BB_MMU
+./coreutils/timeout.c:#if !BB_MMU
+./coreutils/truncate.c:#if ENABLE_LFS
+./coreutils/factor.c:#if 0
+./coreutils/factor.c:#if ULLONG_MAX == (UINT_MAX * UINT_MAX + 2 * UINT_MAX)
+./coreutils/cat.c:#if ENABLE_FEATURE_CATV
+./coreutils/cat.c:#if 0 /* These consts match, we can just pass "opts" to visible() */
+./coreutils/cat.c:#if ENABLE_FEATURE_CATV
+./coreutils/test.c:#if TEST_DEBUG
+./coreutils/test.c:#if ENABLE_FEATURE_TEST_64
+./coreutils/test.c:#if ENABLE_FEATURE_TEST_64
+./coreutils/test.c:#if ENABLE_FEATURE_TEST_64
+./coreutils/test.c:#if TEST_DEBUG
+./coreutils/tee.c:#if ENABLE_FEATURE_TEE_USE_BLOCK_IO
+./coreutils/tee.c:#if ENABLE_FEATURE_TEE_USE_BLOCK_IO
+./coreutils/tac.c:#if ENABLE_DESKTOP
+./coreutils/mv.c:#if ENABLE_FEATURE_MV_LONG_OPTIONS
+./coreutils/mv.c:#if ENABLE_FEATURE_MV_LONG_OPTIONS
+./coreutils/mv.c:#if ENABLE_SELINUX
+./coreutils/stat.c:#if ENABLE_FEATURE_STAT_FORMAT
+./coreutils/stat.c:#if ENABLE_FEATURE_STAT_FILESYSTEM
+./coreutils/stat.c:#if ENABLE_FEATURE_STAT_FORMAT
+./coreutils/stat.c:#if ENABLE_FEATURE_STAT_FILESYSTEM
+./coreutils/stat.c:#if ENABLE_FEATURE_STAT_FILESYSTEM
+./coreutils/stat.c:#if !ENABLE_FEATURE_STAT_FORMAT
+./coreutils/stat.c:#if !ENABLE_FEATURE_STAT_FORMAT
+./coreutils/stat.c:#if ENABLE_SELINUX
+./coreutils/stat.c:#if ENABLE_FEATURE_STAT_FORMAT
+./coreutils/stat.c:#if !ENABLE_FEATURE_STAT_FORMAT
+./coreutils/stat.c:#if ENABLE_SELINUX
+./coreutils/stat.c:#if ENABLE_FEATURE_STAT_FORMAT
+./coreutils/stat.c:#if ENABLE_FEATURE_STAT_FILESYSTEM
+./coreutils/stat.c:#if ENABLE_SELINUX
+./coreutils/cp.c:#if ENABLE_FEATURE_CP_LONG_OPTIONS
+./coreutils/cp.c:#if ENABLE_FEATURE_CP_LONG_OPTIONS
+./coreutils/cp.c:#if ENABLE_SELINUX
+./coreutils/cp.c:#if ENABLE_FEATURE_CP_LONG_OPTIONS
+./coreutils/cp.c:#if ENABLE_FEATURE_CP_LONG_OPTIONS
+./coreutils/df.c:#if !ENABLE_FEATURE_HUMAN_READABLE
+./coreutils/df.c:#if ENABLE_FEATURE_HUMAN_READABLE && ENABLE_FEATURE_DF_FANCY
+./coreutils/df.c:#if ENABLE_FEATURE_HUMAN_READABLE
+./coreutils/df.c:#if ENABLE_UNICODE_SUPPORT
+./coreutils/df.c:#if ENABLE_FEATURE_HUMAN_READABLE
+./coreutils/od.c://usage:#if !ENABLE_DESKTOP
+./coreutils/od.c:#if ENABLE_DESKTOP
+./coreutils/tail.c:#if ENABLE_INCLUDE_SUSv2 || ENABLE_FEATURE_FANCY_TAIL
+./coreutils/tail.c:#if ENABLE_FEATURE_FANCY_TAIL
+./coreutils/tail.c:#if 1 /* This is technically incorrect for *LONG* strings, but very useful */
+./coreutils/install.c:#if ENABLE_FEATURE_INSTALL_LONG_OPTIONS
+./coreutils/install.c:#if ENABLE_SELINUX
+./coreutils/install.c:#if ENABLE_SELINUX
+./coreutils/install.c:#if ENABLE_SELINUX
+./coreutils/install.c:#if ENABLE_SELINUX
+./coreutils/install.c:#if ENABLE_FEATURE_INSTALL_LONG_OPTIONS
+./coreutils/install.c:#if ENABLE_SELINUX
+./coreutils/install.c:#if ENABLE_SELINUX
+./coreutils/head.c:#if !ENABLE_FEATURE_FANCY_HEAD
+./coreutils/head.c:#if !ENABLE_FEATURE_FANCY_HEAD
+./coreutils/head.c:#if ENABLE_FEATURE_FANCY_HEAD
+./coreutils/head.c:#if !ENABLE_FEATURE_FANCY_HEAD
+./coreutils/head.c:#if ENABLE_FEATURE_FANCY_HEAD
+./coreutils/head.c:#if ENABLE_FEATURE_FANCY_HEAD
+./coreutils/head.c:#if ENABLE_FEATURE_FANCY_HEAD
+./coreutils/head.c:#if ENABLE_INCLUDE_SUSv2 || ENABLE_FEATURE_FANCY_HEAD
+./coreutils/head.c:#if ENABLE_FEATURE_FANCY_HEAD
+./coreutils/head.c:#if ENABLE_INCLUDE_SUSv2 || ENABLE_FEATURE_FANCY_HEAD
+./coreutils/head.c:#if ENABLE_FEATURE_FANCY_HEAD
+./coreutils/md5_sha1_sum.c:#if !ENABLE_SHA3SUM
+./coreutils/md5_sha1_sum.c:#if ENABLE_SHA3SUM
+./coreutils/md5_sha1_sum.c:#if ENABLE_SHA3SUM
+./coreutils/md5_sha1_sum.c:#if ENABLE_SHA3SUM
+./coreutils/md5_sha1_sum.c:#if ENABLE_SHA3SUM
+./coreutils/stty.c:#if defined(VEOL2) && !defined(CEOL2)
+./coreutils/stty.c:#if defined(VSWTC) && !defined(VSWTCH)
+./coreutils/stty.c:#if defined(VSUSP) && !defined(VSWTCH)
+./coreutils/stty.c:#if defined(VSWTCH) && !defined(CSWTCH)
+./coreutils/stty.c:#if defined(__sparc__) && defined(__svr4__)
+./coreutils/stty.c:#if defined(VWERSE) && !defined(VWERASE)       /* AIX-3.2.5 */
+./coreutils/stty.c:#if defined(VDSUSP) && !defined(CDSUSP)
+./coreutils/stty.c:#if !defined(VREPRINT) && defined(VRPRNT)       /* Irix 4.0.5 */
+./coreutils/stty.c:#if defined(VREPRINT) && !defined(CRPRNT)
+./coreutils/stty.c:#if defined(VWERASE) && !defined(CWERASE)
+./coreutils/stty.c:#if defined(VLNEXT) && !defined(CLNEXT)
+./coreutils/stty.c:#if defined(VDISCARD) && !defined(VFLUSHO)
+./coreutils/stty.c:#if defined(VFLUSH) && !defined(VFLUSHO)        /* Ultrix 4.2 */
+./coreutils/stty.c:#if defined(CTLECH) && !defined(ECHOCTL)        /* Ultrix 4.3 */
+./coreutils/stty.c:#if defined(TCTLECH) && !defined(ECHOCTL)       /* Ultrix 4.2 */
+./coreutils/stty.c:#if defined(CRTKIL) && !defined(ECHOKE)         /* Ultrix 4.2 and 4.3 */
+./coreutils/stty.c:#if defined(VFLUSHO) && !defined(CFLUSHO)
+./coreutils/stty.c:#if defined(VSTATUS) && !defined(CSTATUS)
+./coreutils/stty.c:#if   (CSIZE | NLDLY | CRDLY | TABDLY | BSDLY | VTDLY | FFDLY) < 0x100
+./coreutils/stty.c:#if IXANY
+./coreutils/stty.c:#if TABDLY || OXTABS
+./coreutils/stty.c:#if XCASE && IUCLC && OLCUC
+./coreutils/stty.c:#if IXANY
+./coreutils/stty.c:#if TABDLY || OXTABS
+./coreutils/stty.c:#if XCASE && IUCLC && OLCUC
+./coreutils/stty.c:#if CRTSCTS
+./coreutils/stty.c:#if IUCLC
+./coreutils/stty.c:#if IXANY
+./coreutils/stty.c:#if IMAXBEL
+./coreutils/stty.c:#if IUTF8
+./coreutils/stty.c:#if OLCUC
+./coreutils/stty.c:#if OCRNL
+./coreutils/stty.c:#if ONLCR
+./coreutils/stty.c:#if ONOCR
+./coreutils/stty.c:#if ONLRET
+./coreutils/stty.c:#if OFILL
+./coreutils/stty.c:#if OFDEL
+./coreutils/stty.c:#if NLDLY
+./coreutils/stty.c:#if CRDLY
+./coreutils/stty.c:#if TABDLY
+./coreutils/stty.c:#if BSDLY
+./coreutils/stty.c:#if VTDLY
+./coreutils/stty.c:#if FFDLY
+./coreutils/stty.c:#if IEXTEN
+./coreutils/stty.c:#if XCASE
+./coreutils/stty.c:#if TOSTOP
+./coreutils/stty.c:#if ECHOPRT
+./coreutils/stty.c:#if ECHOCTL
+./coreutils/stty.c:#if ECHOKE
+./coreutils/stty.c:#if IXANY
+./coreutils/stty.c:#if TABDLY || OXTABS
+./coreutils/stty.c:#if XCASE && IUCLC && OLCUC
+./coreutils/stty.c:#if CRTSCTS
+./coreutils/stty.c:#if IUCLC
+./coreutils/stty.c:#if IXANY
+./coreutils/stty.c:#if IMAXBEL
+./coreutils/stty.c:#if IUTF8
+./coreutils/stty.c:#if OLCUC
+./coreutils/stty.c:#if OCRNL
+./coreutils/stty.c:#if ONLCR
+./coreutils/stty.c:#if ONOCR
+./coreutils/stty.c:#if ONLRET
+./coreutils/stty.c:#if OFILL
+./coreutils/stty.c:#if OFDEL
+./coreutils/stty.c:#if NLDLY
+./coreutils/stty.c:#if CRDLY
+./coreutils/stty.c:#if TABDLY
+./coreutils/stty.c:#if BSDLY
+./coreutils/stty.c:#if VTDLY
+./coreutils/stty.c:#if FFDLY
+./coreutils/stty.c:#if IEXTEN
+./coreutils/stty.c:#if XCASE
+./coreutils/stty.c:#if TOSTOP
+./coreutils/stty.c:#if ECHOPRT
+./coreutils/stty.c:#if ECHOCTL
+./coreutils/stty.c:#if ECHOKE
+./coreutils/stty.c:#if VEOL2
+./coreutils/stty.c:#if VSWTCH
+./coreutils/stty.c:#if VDSUSP
+./coreutils/stty.c:#if VREPRINT
+./coreutils/stty.c:#if VWERASE
+./coreutils/stty.c:#if VLNEXT
+./coreutils/stty.c:#if VFLUSHO
+./coreutils/stty.c:#if VSTATUS
+./coreutils/stty.c:#if VEOL2
+./coreutils/stty.c:#if VSWTCH
+./coreutils/stty.c:#if VDSUSP
+./coreutils/stty.c:#if VREPRINT
+./coreutils/stty.c:#if VWERASE
+./coreutils/stty.c:#if VLNEXT
+./coreutils/stty.c:#if VFLUSHO
+./coreutils/stty.c:#if VSTATUS
+./coreutils/stty.c:#if VEOL2
+./coreutils/stty.c:#if VSWTCH
+./coreutils/stty.c:#if VDSUSP
+./coreutils/stty.c:#if VREPRINT
+./coreutils/stty.c:#if VWERASE
+./coreutils/stty.c:#if VLNEXT
+./coreutils/stty.c:#if VFLUSHO
+./coreutils/stty.c:#if VSTATUS
+./coreutils/stty.c:#if VSWTCH == VSUSP
+./coreutils/stty.c:#if VEOF == VMIN
+./coreutils/stty.c:#if VEOF == VMIN
+./coreutils/stty.c:#if VMIN == VEOF
+./coreutils/stty.c:#if VMIN == VEOF
+./coreutils/stty.c:#if VTIME == VEOL
+./coreutils/stty.c:#if IXANY
+./coreutils/stty.c:#if TABDLY
+./coreutils/stty.c:#if OXTABS
+./coreutils/stty.c:#if XCASE && IUCLC && OLCUC
+./coreutils/stty.c:#if 0 /* was "if CIBAUD" */
+./coreutils/expr.c:#if ENABLE_EXPR_MATH_SUPPORT_64
+./coreutils/wc.c:#if !ENABLE_LOCALE_SUPPORT
+./coreutils/wc.c:#if ENABLE_FEATURE_WC_LARGE
+./coreutils/mkdir.c:#if ENABLE_FEATURE_MKDIR_LONG_OPTIONS
+./coreutils/mkdir.c:#if ENABLE_SELINUX
+./coreutils/mkdir.c:#if ENABLE_FEATURE_VERBOSE
+./coreutils/mkdir.c:#if ENABLE_SELINUX
+./coreutils/mkdir.c:#if ENABLE_FEATURE_MKDIR_LONG_OPTIONS
+./coreutils/mkdir.c:#if ENABLE_SELINUX
+./coreutils/seq.c:#if ENABLE_LOCALE_SUPPORT
+./coreutils/seq.c:#if ENABLE_LOCALE_SUPPORT
+./coreutils/rmdir.c:#if ENABLE_FEATURE_RMDIR_LONG_OPTIONS
+./coreutils/rmdir.c:#if ENABLE_FEATURE_RMDIR_LONG_OPTIONS
+./applets/usage.c:#if ENABLE_NOMMU
+./applets/applet_tables.c:#if ENABLE_FEATURE_PREFER_APPLETS \
+./applets/applet_tables.c:#if ENABLE_FEATURE_SUID
+./applets/applet_tables.c:#if ENABLE_FEATURE_INSTALLER
+./applets/usage_pod.c:#if ENABLE_NOMMU
+./applets/applets.c:#if ENABLE_BUILD_LIBBUSYBOX
+./libbb/rtc.c:#if ENABLE_FEATURE_HWCLOCK_ADJTIME_FHS
+./libbb/xconnect.c:#if ENABLE_FEATURE_IPV6
+./libbb/xconnect.c:#if ENABLE_FEATURE_IPV6
+./libbb/xconnect.c:#if ENABLE_FEATURE_IPV6
+./libbb/xconnect.c:#if ENABLE_FEATURE_PREFER_IPV4_ADDRESS
+./libbb/xconnect.c:#if !ENABLE_FEATURE_IPV6
+./libbb/xconnect.c:#if ENABLE_FEATURE_IPV6
+./libbb/xconnect.c:#if ENABLE_FEATURE_IPV6
+./libbb/xconnect.c:#if ENABLE_FEATURE_IPV6
+./libbb/xconnect.c:#if ENABLE_FEATURE_IPV6
+./libbb/xconnect.c:#if ENABLE_FEATURE_IPV6
+./libbb/getopt32.c:#if ENABLE_LONG_OPTS || ENABLE_FEATURE_GETOPT_LONG
+./libbb/getopt32.c:#if ENABLE_LONG_OPTS || ENABLE_FEATURE_GETOPT_LONG
+./libbb/getopt32.c:#if ENABLE_LONG_OPTS || ENABLE_FEATURE_GETOPT_LONG
+./libbb/getopt32.c:#if ENABLE_LONG_OPTS || ENABLE_FEATURE_GETOPT_LONG
+./libbb/getopt32.c:#if ENABLE_LONG_OPTS || ENABLE_FEATURE_GETOPT_LONG
+./libbb/process_escape_sequence.c:#if !WANT_HEX_ESCAPES
+./libbb/xfuncs.c:#if UINT_MAX > 4294967295 /* prevents warning about "const too large" */
+./libbb/run_shell.c:#if ENABLE_SELINUX
+./libbb/run_shell.c:#if ENABLE_SELINUX
+./libbb/run_shell.c:#if ENABLE_SELINUX
+./libbb/compare_string_array.c:#if 0	/* Two passes over key - probably slower */
+./libbb/compare_string_array.c:#if ENABLE_UNIT_TEST
+./libbb/copy_file.c:#if !ENABLE_FEATURE_NON_POSIX_CP
+./libbb/copy_file.c:#if ENABLE_FEATURE_VERBOSE_CP_MESSAGE
+./libbb/copy_file.c:#if ENABLE_FEATURE_CP_LONG_OPTIONS
+./libbb/copy_file.c:#if ENABLE_SELINUX
+./libbb/copy_file.c:#if ENABLE_FEATURE_CP_LONG_OPTIONS
+./libbb/copy_file.c:#if ENABLE_SELINUX
+./libbb/mtab.c:#if ENABLE_FEATURE_MTAB_SUPPORT
+./libbb/common_bufsiz.c:#if !ENABLE_FEATURE_USE_BSS_TAIL
+./libbb/hash_md5prime.c:#if CONFIG_MD5_SMALL < 1
+./libbb/hash_md5prime.c:#if BB_LITTLE_ENDIAN
+./libbb/hash_md5prime.c:#if MD5_SMALL > 1
+./libbb/hash_md5prime.c:#if MD5_SMALL > 0
+./libbb/hash_md5prime.c:#if MD5_SMALL > 2
+./libbb/dump.c:#if 0
+./libbb/warn_ignoring_args.c:#if ENABLE_DESKTOP
+./libbb/bb_strtod.c:#if 0 // UNUSED
+./libbb/bb_strtod.c:#if 0
+./libbb/mode_string.c:#if ( S_ISUID != 04000 ) || ( S_ISGID != 02000 ) || ( S_ISVTX != 01000 ) \
+./libbb/mode_string.c:#if ( S_IFSOCK!= 0140000 ) || ( S_IFLNK != 0120000 ) \
+./libbb/mode_string.c:#if (S_IRWXU | S_IRWXG | S_IRWXO | S_ISUID | S_ISGID | S_ISVTX) == 07777
+./libbb/u_signal_names.c:#if ENABLE_FEATURE_RTMINMAX
+./libbb/u_signal_names.c:#if ENABLE_DESKTOP
+./libbb/u_signal_names.c:#if ENABLE_FEATURE_RTMINMAX
+./libbb/u_signal_names.c:#if ENABLE_FEATURE_RTMINMAX
+./libbb/human_readable.c:#if 1
+./libbb/missing_syscalls.c:#if defined(ANDROID) || defined(__ANDROID__)
+./libbb/bb_bswap_64.c:#if !(ULONG_MAX > 0xffffffff)
+./libbb/inet_common.c:#if 0
+./libbb/inet_common.c:#if ENABLE_FEATURE_ETC_NETWORKS
+./libbb/inet_common.c:#if ENABLE_FEATURE_ETC_NETWORKS
+./libbb/inet_common.c:#if ENABLE_FEATURE_ETC_NETWORKS
+./libbb/inet_common.c:#if ENABLE_FEATURE_IPV6
+./libbb/progress.c:#if ENABLE_UNICODE_SUPPORT
+./libbb/makedev.c:#if defined(__FreeBSD__) || defined(__OpenBSD__) || defined(__NetBSD__) \
+./libbb/copyfd.c:#if ENABLE_FEATURE_USE_SENDFILE
+./libbb/copyfd.c:#if CONFIG_FEATURE_COPYBUF_KB > 4
+./libbb/copyfd.c:#if CONFIG_FEATURE_COPYBUF_KB > 4
+./libbb/copyfd.c:/* some environments don't have munmap(), hide it in #if */
+./libbb/copyfd.c:#if CONFIG_FEATURE_COPYBUF_KB > 4
+./libbb/copyfd.c:#if 0
+./libbb/read_key.c:#if 0
+./libbb/read_key.c:#if 0
+./libbb/xatonum.c:#if ULONG_MAX != ULLONG_MAX
+./libbb/xatonum.c:#if UINT_MAX != ULONG_MAX
+./libbb/printable_string.c:#if ENABLE_UNICODE_SUPPORT
+./libbb/parse_config.c:#if defined ENABLE_PARSE && ENABLE_PARSE
+./libbb/parse_config.c:#if 0 /* unused so far */
+./libbb/speed_table.c:#if defined __FreeBSD__ \
+./libbb/speed_table.c:#if 0
+./libbb/inode_hash.c:#if ENABLE_DU || ENABLE_FEATURE_CLEAN_UP
+./libbb/hash_md5_sha.c:#if CONFIG_MD5_SMALL < 0
+./libbb/hash_md5_sha.c:#if MD5_SMALL > 0
+./libbb/hash_md5_sha.c:#if MD5_SMALL >= 2  /* 2 or 3 */
+./libbb/hash_md5_sha.c:#if NEED_SHA512
+./libbb/hash_md5_sha.c:#if NEED_SHA512  /* [64]+ are used for sha512 only */
+./libbb/hash_md5_sha.c:#if NEED_SHA512
+./libbb/hash_md5_sha.c:#if NEED_SHA512
+./libbb/hash_md5_sha.c:#if NEED_SHA512
+./libbb/hash_md5_sha.c:#if NEED_SHA512
+./libbb/hash_md5_sha.c:#if CONFIG_SHA3_SMALL < 0
+./libbb/hash_md5_sha.c:#if 0 /* LONG_MAX == 0x7fffffff */
+./libbb/hash_md5_sha.c:#if OPTIMIZE_SHA3_FOR_32
+./libbb/hash_md5_sha.c:#if OPTIMIZE_SHA3_FOR_32
+./libbb/hash_md5_sha.c:#if SHA3_SMALL
+./libbb/executable.c:#if ENABLE_FEATURE_PREFER_APPLETS
+./libbb/loop.c:#if LINUX_VERSION_CODE >= KERNEL_VERSION(2,6,0)
+./libbb/getpty.c:#if ENABLE_FEATURE_DEVPTS
+./libbb/time.c:#if ENABLE_DESKTOP
+./libbb/time.c:#if ENABLE_DESKTOP  /* strptime is BIG: ~1k in uclibc, ~10k in glibc */
+./libbb/time.c:#if ENABLE_MONOTONIC_SYSCALL
+./libbb/logenv.c:#if ENABLE_FEATURE_SYSLOG
+./libbb/sysconf.c:#if !defined(bb_arg_max)
+./libbb/vdprintf.c:#if defined(__GLIBC__) && __GLIBC__ < 2
+./libbb/update_passwd.c:#if ENABLE_SELINUX
+./libbb/update_passwd.c:#if !(ENABLE_FEATURE_ADDUSER_TO_GROUP || ENABLE_FEATURE_DEL_USER_FROM_GROUP)
+./libbb/update_passwd.c:#if ENABLE_FEATURE_SHADOWPASSWDS
+./libbb/update_passwd.c:#if ENABLE_FEATURE_ADDUSER_TO_GROUP || ENABLE_FEATURE_DEL_USER_FROM_GROUP
+./libbb/update_passwd.c:#if ENABLE_FEATURE_ADDUSER_TO_GROUP || ENABLE_FEATURE_DEL_USER_FROM_GROUP
+./libbb/update_passwd.c:#if ENABLE_FEATURE_ADDUSER_TO_GROUP || ENABLE_FEATURE_DEL_USER_FROM_GROUP
+./libbb/utmp.c:#if ENABLE_FEATURE_WTMP
+./libbb/utmp.c:#if ENABLE_FEATURE_WTMP
+./libbb/xfuncs_printf.c:#if ENABLE_VERBOSE_RESOLUTION_ERRORS
+./libbb/xfuncs_printf.c:#if ENABLE_SELINUX
+./libbb/xfuncs_printf.c:#if ENABLE_IOCTL_HEX2STR_ERROR
+./libbb/xfuncs_printf.c:#if BB_MMU
+./libbb/get_line_from_file.c:#if 0
+./libbb/get_line_from_file.c:#if 0
+./libbb/correct_password.c:#if !ENABLE_FEATURE_SHADOWPASSWDS
+./libbb/correct_password.c:#if ENABLE_FEATURE_SHADOWPASSWDS
+./libbb/lineedit.c:/* Entire file (except TESTing part) sits inside this #if */
+./libbb/lineedit.c:#if ENABLE_FEATURE_EDITING
+./libbb/lineedit.c:#if ENABLE_USERNAME_OR_HOMEDIR
+./libbb/lineedit.c:#if ENABLE_UNICODE_SUPPORT
+./libbb/lineedit.c:#if ENABLE_UNICODE_PRESERVE_BROKEN
+./libbb/lineedit.c:#if ENABLE_USERNAME_OR_HOMEDIR
+./libbb/lineedit.c:#if ENABLE_USERNAME_OR_HOMEDIR
+./libbb/lineedit.c:#if ENABLE_FEATURE_TAB_COMPLETION
+./libbb/lineedit.c:#if ENABLE_FEATURE_EDITING_VI
+./libbb/lineedit.c:#if ENABLE_FEATURE_EDITING_ASK_TERMINAL
+./libbb/lineedit.c:#if ENABLE_FEATURE_EDITING_FANCY_PROMPT
+./libbb/lineedit.c:#if ENABLE_USERNAME_OR_HOMEDIR
+./libbb/lineedit.c:#if ENABLE_UNICODE_SUPPORT
+./libbb/lineedit.c:#if HACK_FOR_WRONG_WIDTH
+./libbb/lineedit.c:#if !ENABLE_FEATURE_EDITING_VI
+./libbb/lineedit.c:#if ENABLE_FEATURE_EDITING_VI
+./libbb/lineedit.c:#if ENABLE_FEATURE_EDITING_VI
+./libbb/lineedit.c:#if ENABLE_FEATURE_TAB_COMPLETION
+./libbb/lineedit.c:#if ENABLE_FEATURE_SH_STANDALONE && NUM_APPLETS != 1
+./libbb/lineedit.c:#if MAX_HISTORY > 0
+./libbb/lineedit.c:#if MAX_HISTORY > 0
+./libbb/lineedit.c:#if ENABLE_FEATURE_EDITING_VI
+./libbb/lineedit.c:#if ENABLE_FEATURE_EDITING_ASK_TERMINAL
+./libbb/lineedit.c:#if !ENABLE_FEATURE_EDITING_FANCY_PROMPT
+./libbb/lineedit.c:#if 0 /*ENABLE_UNICODE_SUPPORT*/
+./libbb/lineedit.c:#if ENABLE_UNICODE_SUPPORT
+./libbb/lineedit.c:#if ENABLE_UNICODE_SUPPORT
+./libbb/lineedit.c:#if ENABLE_FEATURE_EDITING_ASK_TERMINAL
+./libbb/lineedit.c:#if ENABLE_UNICODE_SUPPORT
+./libbb/lineedit.c:#if ENABLE_UNICODE_BIDI_SUPPORT
+./libbb/lineedit.c:#if ENABLE_FEATURE_REVERSE_SEARCH
+./libbb/lineedit.c:#if ENABLE_UNICODE_SUPPORT
+./libbb/lineedit.c:#if ENABLE_FEATURE_TAB_COMPLETION
+./libbb/lineedit.c:#if ENABLE_FEATURE_EDITING_VI
+./libbb/lineedit.c:#if MAX_HISTORY > 0
+./libbb/lineedit.c:#if ENABLE_UNICODE_SUPPORT
+./libbb/lineedit.c:#if ENABLE_USERNAME_OR_HOMEDIR
+./libbb/lineedit.c:#if 0
+./libbb/lineedit.c:#if ENABLE_FEATURE_REVERSE_SEARCH
+./libbb/lineedit.c:#if ENABLE_FEATURE_EDITING_VI
+./libbb/lineedit.c:#if ENABLE_FEATURE_TAB_COMPLETION
+./libbb/lineedit.c:#if MAX_HISTORY > 0
+./libbb/lineedit.c:#if ENABLE_FEATURE_REVERSE_SEARCH
+./libbb/lineedit.c:#if ENABLE_FEATURE_EDITING_VI
+./libbb/lineedit.c:#if MAX_HISTORY > 0
+./libbb/lineedit.c:#if ENABLE_FEATURE_TAB_COMPLETION
+./libbb/lineedit.c:#if ENABLE_FEATURE_EDITING_ASK_TERMINAL
+./libbb/lineedit.c:#if ENABLE_UNICODE_SUPPORT
+./libbb/lineedit.c:#if ENABLE_FEATURE_TAB_COMPLETION
+./libbb/lineedit.c:#if ENABLE_FEATURE_EDITING_FANCY_PROMPT
+./libbb/udp_io.c:#if ENABLE_FEATURE_IPV6 && defined(IPV6_PKTINFO)
+./libbb/strrstr.c:#if ENABLE_UNIT_TEST
+./libbb/bb_askpass.c:#if 0
+./libbb/xreadlink.c:#if defined(__GLIBC__) && \
+./libbb/pw_encrypt_des.c:#if !USE_PRECOMPUTED_u_sbox
+./libbb/pw_encrypt_des.c:#if USE_ip_mask
+./libbb/pw_encrypt_des.c:#if !USE_PRECOMPUTED_u_sbox
+./libbb/pw_encrypt_des.c:#if USE_ip_mask
+./libbb/pw_encrypt_des.c:#if USE_REPETITIVE_SPEEDUP
+./libbb/pw_encrypt_des.c:#if USE_de_keys
+./libbb/pw_encrypt_des.c:#if USE_ip_mask
+./libbb/pw_encrypt_des.c:#if USE_REPETITIVE_SPEEDUP
+./libbb/pw_encrypt_des.c:#if USE_ip_mask
+./libbb/pw_encrypt_des.c:#if USE_ip_mask
+./libbb/pw_encrypt_des.c:#if USE_ip_mask
+./libbb/pw_encrypt_des.c:#if USE_REPETITIVE_SPEEDUP
+./libbb/pw_encrypt_des.c:#if USE_REPETITIVE_SPEEDUP
+./libbb/pw_encrypt_des.c:#if USE_de_keys
+./libbb/pw_encrypt_des.c:#if USE_de_keys
+./libbb/pw_encrypt_des.c:#if USE_ip_mask
+./libbb/pw_encrypt_des.c:#if 0
+./libbb/pw_encrypt_des.c:#if 0
+./libbb/securetty.c:#if ENABLE_FEATURE_SECURETTY && !ENABLE_PAM
+./libbb/bb_strtonum.c:#if ULONG_MAX != ULLONG_MAX
+./libbb/bb_strtonum.c:#if UINT_MAX != ULONG_MAX
+./libbb/messages.c:#if ENABLE_FEATURE_WTMP
+./libbb/login.c:#if defined(__linux__)
+./libbb/unicode.c:#if ENABLE_UNICODE_USING_LOCALE
+./libbb/unicode.c:#if ENABLE_UNICODE_USING_LOCALE
+./libbb/unicode.c:#if ENABLE_UNICODE_USING_LOCALE
+./libbb/unicode.c:#if ENABLE_UNICODE_USING_LOCALE
+./libbb/obscure.c:#if ENABLE_UNIT_TEST
+./libbb/pw_encrypt.c:#if !ENABLE_USE_BB_CRYPT || ENABLE_USE_BB_CRYPT_SHA
+./libbb/pw_encrypt.c:#if ENABLE_USE_BB_CRYPT
+./libbb/pw_encrypt.c:#if ENABLE_USE_BB_CRYPT_SHA
+./libbb/pw_encrypt.c:#if ENABLE_USE_BB_CRYPT_SHA
+./libbb/appletlib.c:#if !(defined(__FreeBSD__) || defined(__OpenBSD__) || defined(__NetBSD__) \
+./libbb/appletlib.c:#if UNPACKED_USAGE_LENGTH < 4*1024 \
+./libbb/appletlib.c:#if ENABLE_SHOW_USAGE && !ENABLE_FEATURE_COMPRESS_USAGE
+./libbb/appletlib.c:#if ENABLE_FEATURE_COMPRESS_USAGE
+./libbb/appletlib.c:#if 0 /*BB_UNALIGNED_MEMACCESS_OK && BB_LITTLE_ENDIAN*/
+./libbb/appletlib.c:#if KNOWN_APPNAME_OFFSETS <= 0
+./libbb/appletlib.c:#if 0 /*BB_UNALIGNED_MEMACCESS_OK && BB_LITTLE_ENDIAN*/
+./libbb/appletlib.c:#if ENABLE_FEATURE_INDIVIDUAL
+./libbb/appletlib.c:#if !BB_MMU
+./libbb/appletlib.c:#if !defined(SINGLE_APPLET_MAIN)
+./libbb/appletlib.c:#if ENABLE_BUILD_LIBBUSYBOX
+./libbb/appletlib.c:#if 0
+./libbb/appletlib.c:#if 0 /*def M_TOP_PAD*/
+./libbb/appletlib.c:#if !BB_MMU
+./libbb/appletlib.c:#if defined(SINGLE_APPLET_MAIN)
+./libbb/verror_msg.c:#if ENABLE_FEATURE_SYSLOG
+./libbb/verror_msg.c:#if ENABLE_FEATURE_SYSLOG
+./libbb/verror_msg.c:#if ENABLE_FEATURE_SYSLOG
+./libbb/procps.c:#if 0 /* more generic, but we don't need that yet */
+./libbb/procps.c:#if ENABLE_FEATURE_SHOW_THREADS
+./libbb/procps.c:#if ENABLE_FEATURE_TOPMEM || ENABLE_PMAP
+./libbb/procps.c:#if ENABLE_FEATURE_FAST_TOP || ENABLE_FEATURE_TOPMEM || ENABLE_PMAP
+./libbb/procps.c:#if ENABLE_FEATURE_TOPMEM || ENABLE_PMAP
+./libbb/procps.c:#if !ENABLE_PMAP
+./libbb/procps.c:#if ENABLE_FEATURE_SHOW_THREADS
+./libbb/procps.c:#if ENABLE_FEATURE_SHOW_THREADS
+./libbb/procps.c:#if ENABLE_SELINUX
+./libbb/procps.c:#if ENABLE_FEATURE_SHOW_THREADS
+./libbb/procps.c:#if !ENABLE_FEATURE_FAST_TOP
+./libbb/procps.c:#if !ENABLE_FEATURE_FAST_TOP
+./libbb/procps.c:#if ENABLE_FEATURE_PS_ADDITIONAL_COLUMNS
+./libbb/procps.c:#if ENABLE_FEATURE_TOPMEM
+./libbb/procps.c:#if ENABLE_FEATURE_PS_ADDITIONAL_COLUMNS
+./libbb/procps.c:#if 0 /* PSSCAN_CMD is not used */
+./libbb/vfork_daemon_rexec.c:#if ENABLE_FEATURE_PREFER_APPLETS \
+./libbb/vfork_daemon_rexec.c:#if ENABLE_FEATURE_PREFER_APPLETS && (NUM_APPLETS > 1)
+./libbb/vfork_daemon_rexec.c:#if !BB_MMU
+./selinux/chcon.c:#if ENABLE_FEATURE_CHCON_LONG_OPTIONS
+./selinux/chcon.c:#if ENABLE_FEATURE_CHCON_LONG_OPTIONS
+./selinux/chcon.c:#if ENABLE_FEATURE_CHCON_LONG_OPTIONS
+./selinux/chcon.c:#if ENABLE_FEATURE_CHCON_LONG_OPTIONS
+./selinux/setfiles.c:#if ENABLE_FEATURE_SETFILES_CHECK_OPTION
+./selinux/setfiles.c:#if ENABLE_FEATURE_SETFILES_CHECK_OPTION
+./selinux/setfiles.c:#if ENABLE_FEATURE_SETFILES_CHECK_OPTION
+./selinux/runcon.c:#if ENABLE_FEATURE_RUNCON_LONG_OPTIONS
+./selinux/runcon.c:#if ENABLE_FEATURE_RUNCON_LONG_OPTIONS
+./miscutils/fbsplash.c:#if DEBUG
+./miscutils/fbsplash.c:#if DEBUG
+./miscutils/fbsplash.c:#if DEBUG
+./miscutils/fbsplash.c:#if DEBUG
+./miscutils/fbsplash.c:#if DEBUG
+./miscutils/flashcp.c:#if !MTD_DEBUG
+./miscutils/flashcp.c:#if 0
+./miscutils/flashcp.c:#if !MTD_DEBUG
+./miscutils/hdparm.c:#if !defined(BLKGETSIZE64)
+./miscutils/hdparm.c:#if ENABLE_FEATURE_HDPARM_HDIO_GETSET_DMA
+./miscutils/hdparm.c:#if ENABLE_FEATURE_HDPARM_HDIO_SCAN_HWIF
+./miscutils/hdparm.c:#if ENABLE_IOCTL_HEX2STR_ERROR
+./miscutils/hdparm.c:#if ENABLE_FEATURE_HDPARM_GET_IDENTITY
+./miscutils/hdparm.c:#if BB_BIG_ENDIAN
+./miscutils/hdparm.c:#if BB_BIG_ENDIAN
+./miscutils/hdparm.c:#if ENABLE_FEATURE_HDPARM_GET_IDENTITY
+./miscutils/hdparm.c:#if ENABLE_FEATURE_HDPARM_HDIO_TRISTATE_HWIF
+./miscutils/hdparm.c:#if ENABLE_FEATURE_HDPARM_HDIO_UNREGISTER_HWIF
+./miscutils/hdparm.c:#if ENABLE_FEATURE_HDPARM_HDIO_SCAN_HWIF
+./miscutils/hdparm.c:#if ENABLE_FEATURE_HDPARM_HDIO_GETSET_DMA
+./miscutils/hdparm.c:#if ENABLE_FEATURE_HDPARM_HDIO_GETSET_DMA
+./miscutils/hdparm.c:#if ENABLE_FEATURE_HDPARM_HDIO_DRIVE_RESET
+./miscutils/hdparm.c:#if ENABLE_FEATURE_HDPARM_HDIO_TRISTATE_HWIF
+./miscutils/hdparm.c:#if ENABLE_FEATURE_HDPARM_GET_IDENTITY
+./miscutils/hdparm.c:#if ENABLE_FEATURE_HDPARM_HDIO_TRISTATE_HWIF
+./miscutils/hdparm.c:#if ENABLE_FEATURE_HDPARM_GET_IDENTITY
+./miscutils/hdparm.c:#if ENABLE_FEATURE_HDPARM_HDIO_SCAN_HWIF
+./miscutils/chat.c:#if !ENABLE_FEATURE_CHAT_IMPLICIT_CR
+./miscutils/chat.c:#if ENABLE_FEATURE_CHAT_IMPLICIT_CR
+./miscutils/chat.c:#if ENABLE_FEATURE_CHAT_NOFAIL
+./miscutils/chat.c:#if ENABLE_FEATURE_CHAT_IMPLICIT_CR
+./miscutils/chat.c:#if ENABLE_FEATURE_CHAT_VAR_ABORT_LEN
+./miscutils/chat.c:#if ENABLE_FEATURE_CHAT_TTY_HIFI
+./miscutils/chat.c:#if ENABLE_FEATURE_CHAT_CLR_ABORT
+./miscutils/chat.c:#if ENABLE_FEATURE_CHAT_TTY_HIFI
+./miscutils/chat.c:#if ENABLE_FEATURE_CHAT_SWALLOW_OPTS
+./miscutils/chat.c:#if ENABLE_FEATURE_CHAT_CLR_ABORT
+./miscutils/chat.c:#if ENABLE_FEATURE_CHAT_VAR_ABORT_LEN
+./miscutils/chat.c:#if ENABLE_FEATURE_CHAT_CLR_ABORT
+./miscutils/chat.c:#if ENABLE_FEATURE_CHAT_NOFAIL
+./miscutils/chat.c:#if ENABLE_FEATURE_CHAT_NOFAIL
+./miscutils/chat.c:#if ENABLE_FEATURE_CHAT_NOFAIL
+./miscutils/chat.c:#if ENABLE_FEATURE_CHAT_IMPLICIT_CR
+./miscutils/chat.c:#if ENABLE_FEATURE_CHAT_SEND_ESCAPES
+./miscutils/chat.c:#if ENABLE_FEATURE_CHAT_IMPLICIT_CR
+./miscutils/chat.c:#if ENABLE_FEATURE_CHAT_TTY_HIFI
+./miscutils/i2c_tools.c:#if ENABLE_I2CGET || ENABLE_I2CSET || ENABLE_I2CDUMP
+./miscutils/i2c_tools.c:#if ENABLE_I2CSET
+./miscutils/i2c_tools.c:#if ENABLE_I2CDUMP
+./miscutils/i2c_tools.c:#if ENABLE_I2CDETECT
+./miscutils/i2c_tools.c:#if ENABLE_I2CGET || ENABLE_I2CSET || ENABLE_I2CDUMP
+./miscutils/i2c_tools.c:#if ENABLE_I2CGET || ENABLE_I2CSET
+./miscutils/i2c_tools.c:#if ENABLE_I2CGET || ENABLE_I2CSET || ENABLE_I2CDUMP
+./miscutils/i2c_tools.c:#if ENABLE_I2CGET || ENABLE_I2CDUMP
+./miscutils/i2c_tools.c:#if ENABLE_I2CDUMP
+./miscutils/i2c_tools.c:#if ENABLE_I2CSET
+./miscutils/i2c_tools.c:#if ENABLE_I2CGET
+./miscutils/i2c_tools.c:#if ENABLE_I2CSET
+./miscutils/i2c_tools.c:#if ENABLE_I2CDUMP
+./miscutils/i2c_tools.c:#if ENABLE_I2CDETECT
+./miscutils/devfsd.c:#if DEVFSD_PROTOCOL_REVISION_KERNEL != DEVFSD_PROTOCOL_REVISION_DAEMON
+./miscutils/devfsd.c:#if ENABLE_DEVFSD_VERBOSE || ENABLE_DEBUG
+./miscutils/nandwrite.c:#if ENABLE_LONG_OPTS
+./miscutils/time.c:#if (1000 / TICKS_PER_SEC) * TICKS_PER_SEC == 1000
+./miscutils/man.c:#if SEAMLESS_COMPRESSION
+./miscutils/man.c:#if ENABLE_FEATURE_SEAMLESS_LZMA
+./miscutils/man.c:#if ENABLE_FEATURE_SEAMLESS_XZ
+./miscutils/man.c:#if ENABLE_FEATURE_SEAMLESS_BZ2
+./miscutils/man.c:#if ENABLE_FEATURE_SEAMLESS_GZ
+./miscutils/setserial.c:#if (ALL_SPD | ALL_FLAGS) > 0xffff
+./miscutils/dc.c:#if 0
+./miscutils/dc.c:#if ENABLE_FEATURE_DC_LIBM
+./miscutils/dc.c:#if ENABLE_FEATURE_DC_LIBM
+./miscutils/makedevs.c://usage:#if ENABLE_FEATURE_MAKEDEVS_LEAF
+./miscutils/makedevs.c://usage:#if ENABLE_FEATURE_MAKEDEVS_TABLE
+./miscutils/makedevs.c:#if ENABLE_FEATURE_MAKEDEVS_LEAF
+./miscutils/watchdog.c:#if 0
+./miscutils/conspy.c:#if ENABLE_LONG_OPTS
+./miscutils/bbconfig.c:#if ENABLE_FEATURE_COMPRESS_BBCONFIG
+./miscutils/bbconfig.c:#if ENABLE_FEATURE_COMPRESS_BBCONFIG
+./miscutils/crond.c:#if (defined(__GLIBC__) && !defined(__UCLIBC__)) /* || OTHER_SAFE_LIBC... */
+./miscutils/crond.c:#if ENABLE_FEATURE_CROND_CALL_SENDMAIL
+./miscutils/crond.c:#if SETENV_LEAKS
+./miscutils/crond.c:#if ENABLE_FEATURE_CROND_CALL_SENDMAIL
+./miscutils/crond.c:#if ENABLE_FEATURE_CROND_CALL_SENDMAIL
+./miscutils/crond.c:#if ENABLE_FEATURE_CROND_CALL_SENDMAIL
+./miscutils/crond.c:#if ENABLE_FEATURE_CROND_CALL_SENDMAIL
+./miscutils/crond.c:#if SETENV_LEAKS
+./miscutils/crond.c:#if SETENV_LEAKS
+./miscutils/crond.c:#if ENABLE_FEATURE_CROND_CALL_SENDMAIL
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_REGEXP
+./miscutils/less.c:#if !ENABLE_FEATURE_LESS_REGEXP
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_WINCH
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_FLAGS
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_MARKS
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_REGEXP
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_ASK_TERMINAL
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_REGEXP
+./miscutils/less.c:#if (ENABLE_FEATURE_LESS_DASHCMD && ENABLE_FEATURE_LESS_LINENUMS) \
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_REGEXP
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_REGEXP
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_REGEXP
+./miscutils/less.c:#if 0
+./miscutils/less.c:#if !ENABLE_FEATURE_LESS_REGEXP
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_FLAGS
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_REGEXP
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_FLAGS
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_FLAGS
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_REGEXP
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_TRUNCATE
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_FLAGS
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_FLAGS
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_ASK_TERMINAL
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_WINCH
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_FLAGS
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_REGEXP
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_FLAGS
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_REGEXP
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_DASHCMD
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_TRUNCATE
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_LINENUMS
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_MARKS
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_BRACKETS
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_MARKS
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_FLAGS
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_REGEXP
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_DASHCMD
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_BRACKETS
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_WINCH
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_WINCH
+./miscutils/less.c:#if ENABLE_FEATURE_LESS_WINCH
+./procps/mpstat.c:#if 1
+./procps/mpstat.c:#if DATA_MAX > 0xffffffff
+./procps/ps.c://usage:#if ENABLE_DESKTOP
+./procps/ps.c://usage:#if !ENABLE_SELINUX && !ENABLE_FEATURE_PS_WIDE
+./procps/ps.c:#if ENABLE_FEATURE_PS_TIME || ENABLE_FEATURE_PS_LONG
+./procps/ps.c:#if ENABLE_DESKTOP
+./procps/ps.c:#if ENABLE_FEATURE_PS_TIME
+./procps/ps.c:#if ENABLE_FEATURE_PS_TIME
+./procps/ps.c:#if ENABLE_FEATURE_PS_UNUSUAL_SYSTEMS
+./procps/ps.c:#if 1
+./procps/ps.c:#if ENABLE_FEATURE_PS_ADDITIONAL_COLUMNS
+./procps/ps.c:#if ENABLE_FEATURE_PS_TIME
+./procps/ps.c:#if ENABLE_SELINUX
+./procps/ps.c:#if ENABLE_FEATURE_PS_TIME
+./procps/ps.c:#if ENABLE_FEATURE_PS_ADDITIONAL_COLUMNS
+./procps/ps.c:#if ENABLE_FEATURE_PS_TIME
+./procps/ps.c:#if ENABLE_SELINUX
+./procps/ps.c:#if ENABLE_SELINUX
+./procps/ps.c:#if ENABLE_SELINUX
+./procps/ps.c:#if ENABLE_SELINUX || ENABLE_FEATURE_SHOW_THREADS
+./procps/ps.c:#if ENABLE_SELINUX || ENABLE_FEATURE_SHOW_THREADS
+./procps/ps.c:#if ENABLE_SELINUX
+./procps/ps.c:#if ENABLE_FEATURE_SHOW_THREADS
+./procps/ps.c:#if ENABLE_FEATURE_PS_LONG
+./procps/ps.c:#if ENABLE_SELINUX || ENABLE_FEATURE_SHOW_THREADS || ENABLE_FEATURE_PS_WIDE || ENABLE_FEATURE_PS_LONG
+./procps/ps.c:#if ENABLE_SELINUX
+./procps/ps.c:#if ENABLE_FEATURE_PS_LONG
+./procps/iostat.c:#if 1
+./procps/iostat.c:#if CPUTIME_MAX > 0xffffffff
+./procps/pstree.c:#if ENABLE_FEATURE_SHOW_THREADS
+./procps/pstree.c:#if ENABLE_FEATURE_SHOW_THREADS
+./procps/pstree.c:#if ENABLE_FEATURE_SHOW_THREADS
+./procps/pstree.c:#if ENABLE_FEATURE_SHOW_THREADS
+./procps/pstree.c:#if ENABLE_FEATURE_SHOW_THREADS
+./procps/watch.c:#if 0 // maybe ENABLE_DESKTOP?
+./procps/top.c:#if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE
+./procps/top.c:#if ENABLE_FEATURE_TOP_SMP_PROCESS
+./procps/top.c:#if ENABLE_FEATURE_TOPMEM
+./procps/top.c:#if ENABLE_FEATURE_TOP_SMP_CPU
+./procps/top.c:#if ENABLE_FEATURE_TOP_INTERACTIVE
+./procps/top.c:#if !ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE
+./procps/top.c:#if ENABLE_FEATURE_TOP_SMP_CPU
+./procps/top.c:#if ENABLE_FEATURE_TOP_INTERACTIVE
+./procps/top.c:#if ENABLE_FEATURE_TOP_INTERACTIVE
+./procps/top.c:#if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE
+./procps/top.c:#if !ENABLE_FEATURE_TOP_SMP_CPU
+./procps/top.c:#if !ENABLE_FEATURE_TOP_SMP_CPU
+./procps/top.c:#if ENABLE_FEATURE_TOP_CPU_GLOBAL_PERCENTS && ENABLE_FEATURE_TOP_DECIMALS
+./procps/top.c:#if ENABLE_FEATURE_TOP_CPU_GLOBAL_PERCENTS
+./procps/top.c:#if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE
+./procps/top.c:#if ENABLE_FEATURE_TOP_DECIMALS
+./procps/top.c:#if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE
+./procps/top.c:#if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE
+./procps/top.c:#if ENABLE_FEATURE_TOP_INTERACTIVE
+./procps/top.c:#if ENABLE_FEATURE_TOPMEM
+./procps/top.c:#if ENABLE_FEATURE_TOP_INTERACTIVE
+./procps/top.c://usage:#if ENABLE_FEATURE_SHOW_THREADS || ENABLE_FEATURE_TOP_SMP_CPU
+./procps/top.c:#if ENABLE_FEATURE_TOP_SMP_CPU
+./procps/top.c:#if ENABLE_FEATURE_TOPMEM
+./procps/top.c:#if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE
+./procps/top.c:#if ENABLE_FEATURE_TOP_INTERACTIVE
+./procps/top.c:#if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE
+./procps/top.c:#if ENABLE_FEATURE_TOP_SMP_PROCESS
+./procps/top.c:#if ENABLE_FEATURE_TOPMEM
+./procps/top.c:#if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE
+./procps/top.c:#if ENABLE_FEATURE_TOPMEM
+./procps/top.c:#if !ENABLE_FEATURE_TOP_INTERACTIVE
+./procps/top.c:#if ENABLE_FEATURE_TOP_INTERACTIVE
+./procps/top.c:#if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE
+./procps/uptime.c:#if ENABLE_FEATURE_UPTIME_UTMP_SUPPORT
+./procps/free.c:#if ENABLE_DESKTOP
+./procps/free.c:#if ENABLE_DESKTOP
+./procps/free.c:#if BB_MMU
+./procps/pidof.c://usage:#if (ENABLE_FEATURE_PIDOF_SINGLE || ENABLE_FEATURE_PIDOF_OMIT)
+./procps/pidof.c:#if ENABLE_FEATURE_PIDOF_OMIT
+./procps/pidof.c:#if ENABLE_FEATURE_PIDOF_OMIT
+./procps/pidof.c:#if ENABLE_FEATURE_PIDOF_OMIT
+./procps/pidof.c:#if ENABLE_FEATURE_PIDOF_OMIT
+./procps/pidof.c:#if ENABLE_FEATURE_PIDOF_OMIT
+./procps/kill.c:#if SH_KILL
+./procps/kill.c:#if KILL_APPLET_CNT == 1
+./procps/kill.c:#if ENABLE_KILL || ENABLE_KILLALL
+./procps/kill.c:#if ENABLE_KILL
+./procps/pmap.c:#if ULONG_MAX == 0xffffffff
+./procps/powertop.c:#if ENABLE_FEATURE_POWERTOP_PROCIRQ
+./procps/powertop.c:#if ENABLE_FEATURE_POWERTOP_PROCIRQ
+./procps/powertop.c:#if ENABLE_FEATURE_POWERTOP_INTERACTIVE
+./procps/powertop.c:#if ENABLE_FEATURE_POWERTOP_INTERACTIVE
+./procps/powertop.c:#if ENABLE_FEATURE_POWERTOP_PROCIRQ
+./procps/powertop.c:#if ENABLE_FEATURE_POWERTOP_PROCIRQ
+./procps/powertop.c:#if ENABLE_FEATURE_POWERTOP_INTERACTIVE
+./procps/powertop.c:#if ENABLE_FEATURE_POWERTOP_PROCIRQ && BLOATY_HPET_IRQ_NUM_DETECTION
+./procps/powertop.c:#if ENABLE_FEATURE_POWERTOP_INTERACTIVE
+./procps/powertop.c:#if !ENABLE_FEATURE_POWERTOP_INTERACTIVE
+./procps/powertop.c:#if ENABLE_FEATURE_POWERTOP_PROCIRQ
+./console-tools/reset.c:#if ENABLE_STTY
+./console-tools/reset.c:#if ENABLE_STTY
+./console-tools/dumpkmap.c:#if 0
+./console-tools/setconsole.c:#if ENABLE_FEATURE_SETCONSOLE_LONG_OPTIONS
+./console-tools/loadfont.c:#if ENABLE_FEATURE_LOADFONT_PSF2
+./console-tools/loadfont.c:#if !ENABLE_FEATURE_LOADFONT_PSF2
+./console-tools/loadfont.c:#if !ENABLE_FEATURE_LOADFONT_PSF2
+./console-tools/loadfont.c:#if ENABLE_FEATURE_LOADFONT_PSF2
+./console-tools/loadfont.c:#if ENABLE_FEATURE_LOADFONT_PSF2
+./console-tools/loadfont.c:#if ENABLE_FEATURE_LOADFONT_RAW
+./console-tools/loadfont.c:#if !defined(PIO_FONTX) || defined(__sparc__)
+./console-tools/loadfont.c:#if ENABLE_LOADFONT
+./console-tools/loadfont.c:#if ENABLE_SETFONT
+./console-tools/loadfont.c:#if ENABLE_FEATURE_SETFONT_TEXTUAL_MAP
+./console-tools/loadfont.c:#if ENABLE_FEATURE_SETFONT_TEXTUAL_MAP
+./modutils/modutils.c:#if defined(__NR_finit_module)
+./modutils/modutils.c:#if ENABLE_FEATURE_CMDLINE_MODULE_OPTIONS
+./modutils/modutils.c:#if ENABLE_FEATURE_INSMOD_TRY_MMAP
+./modutils/modutils.c:#if ENABLE_FEATURE_2_4_MODULES
+./modutils/depmod.c://usage:#if !ENABLE_MODPROBE_SMALL
+./modutils/depmod.c:#if ENABLE_FEATURE_MODUTILS_ALIAS
+./modutils/depmod.c:#if ENABLE_FEATURE_MODUTILS_SYMBOLS
+./modutils/rmmod.c://usage:#if !ENABLE_MODPROBE_SMALL
+./modutils/modprobe.c:#if 1
+./modutils/modprobe.c://usage:#if !ENABLE_MODPROBE_SMALL
+./modutils/modprobe.c:#if ENABLE_LONG_OPTS
+./modutils/modprobe.c:#if ENABLE_FEATURE_CMDLINE_MODULE_OPTIONS
+./modutils/modprobe.c:#if ENABLE_FEATURE_CMDLINE_MODULE_OPTIONS
+./modutils/modprobe.c:#if ENABLE_FEATURE_CMDLINE_MODULE_OPTIONS
+./modutils/modutils-24.c:#if ENABLE_FEATURE_INSMOD_LOADINKMEM
+./modutils/modutils-24.c:#if defined(__alpha__)
+./modutils/modutils-24.c:#if defined(__arm__)
+./modutils/modutils-24.c:#if defined(__nds32__) || defined(__NDS32__)
+./modutils/modutils-24.c:#if defined(__NDS32_EB__)
+./modutils/modutils-24.c:#if defined(__NDS32_EL__)
+./modutils/modutils-24.c:#if defined(BFIN)
+./modutils/modutils-24.c:#if defined(__cris__)
+./modutils/modutils-24.c:#if defined(__H8300H__) || defined(__H8300S__)
+./modutils/modutils-24.c:#if defined(__hppa__)
+./modutils/modutils-24.c:#if defined(__LP64__)
+./modutils/modutils-24.c:#if defined(__i386__)
+./modutils/modutils-24.c:#if defined(__ia64__)
+./modutils/modutils-24.c:#if defined(__mc68000__)
+./modutils/modutils-24.c:#if defined(__microblaze__)
+./modutils/modutils-24.c:#if defined(__mips__)
+./modutils/modutils-24.c:#if defined(__nios2__)
+./modutils/modutils-24.c:#if defined(__powerpc64__)
+./modutils/modutils-24.c:#if defined(__s390__)
+./modutils/modutils-24.c:#if defined(__sh__)
+./modutils/modutils-24.c:#if defined(__sh__) && BB_BIG_ENDIAN
+./modutils/modutils-24.c:#if ((!(defined(__SH3__) || defined(__SH4__) || defined(__SH5__)))) && (defined(__sh__))
+./modutils/modutils-24.c:#if defined(__sparc__)
+./modutils/modutils-24.c:#if defined(__v850e__)
+./modutils/modutils-24.c:#if defined(__x86_64__)
+./modutils/modutils-24.c:#if defined(__sparc__) && !defined(__sparc_v9__) && defined(ARCH_sparc64)
+./modutils/modutils-24.c:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING
+./modutils/modutils-24.c:#if !LOADBITS
+./modutils/modutils-24.c:#if ENABLE_FEATURE_CHECK_TAINTED_MODULE
+./modutils/modutils-24.c:#if defined(USE_LIST)
+./modutils/modutils-24.c:#if defined(USE_SINGLE)
+./modutils/modutils-24.c:#if defined(__mips__)
+./modutils/modutils-24.c:#if defined(USE_PLT_ENTRIES)
+./modutils/modutils-24.c:#if defined(USE_GOT_ENTRIES)
+./modutils/modutils-24.c:#if defined(__mips__)
+./modutils/modutils-24.c:#if defined(USE_PLT_ENTRIES)
+./modutils/modutils-24.c:#if defined(USE_PLT_LIST)
+./modutils/modutils-24.c:#if defined(USE_GOT_ENTRIES)
+./modutils/modutils-24.c:#if defined(__arm__) || defined(__i386__) || defined(__mc68000__) \
+./modutils/modutils-24.c:#if defined(__arm__) || defined(__H8300H__) || defined(__H8300S__) \
+./modutils/modutils-24.c:#if defined(USE_GOT_ENTRIES) || defined(USE_PLT_ENTRIES)
+./modutils/modutils-24.c:#if defined(__arm__) || defined(__i386__) || defined(__mc68000__) \
+./modutils/modutils-24.c:#if defined(USE_GOT_ENTRIES)
+./modutils/modutils-24.c:#if defined(USE_PLT_ENTRIES)
+./modutils/modutils-24.c:#if defined(__arm__)
+./modutils/modutils-24.c:#if defined(USE_PLT_ENTRIES)
+./modutils/modutils-24.c:#if defined(USE_PLT_LIST)
+./modutils/modutils-24.c:#if defined(__arm__)
+./modutils/modutils-24.c:#if defined(__powerpc__)
+./modutils/modutils-24.c:#if defined(__v850e__)
+./modutils/modutils-24.c:#if defined(__arm__) || defined(__powerpc__)
+./modutils/modutils-24.c:#if defined(__v850e__)
+./modutils/modutils-24.c:#if defined(__arm__)
+./modutils/modutils-24.c:#if defined(__powerpc__)
+./modutils/modutils-24.c:#if defined(__v850e__)
+./modutils/modutils-24.c:#if defined(USE_GOT_ENTRIES)
+./modutils/modutils-24.c:#if defined(__sh__)
+./modutils/modutils-24.c:#if defined(USE_LIST)
+./modutils/modutils-24.c:#if defined(USE_SINGLE)
+./modutils/modutils-24.c:#if defined(USE_GOT_ENTRIES) || defined(USE_PLT_ENTRIES)
+./modutils/modutils-24.c:#if defined(USE_GOT_ENTRIES) || defined(USE_PLT_ENTRIES)
+./modutils/modutils-24.c:#if defined(USE_GOT_ENTRIES)
+./modutils/modutils-24.c:#if defined(USE_PLT_ENTRIES)
+./modutils/modutils-24.c:#if defined(USE_GOT_ENTRIES)
+./modutils/modutils-24.c:#if defined(USE_PLT_ENTRIES)
+./modutils/modutils-24.c:#if defined(__arm__)
+./modutils/modutils-24.c:#if defined(USE_GOT_ENTRIES)
+./modutils/modutils-24.c:#if defined(USE_PLT_ENTRIES)
+./modutils/modutils-24.c:#if defined(USE_PLT_LIST)
+./modutils/modutils-24.c:#if defined(USE_GOT_ENTRIES)
+./modutils/modutils-24.c:#if defined(USE_PLT_ENTRIES)
+./modutils/modutils-24.c:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING
+./modutils/modutils-24.c:#if ENABLE_FEATURE_CHECK_TAINTED_MODULE
+./modutils/modutils-24.c:#if ENABLE_FEATURE_CHECK_TAINTED_MODULE
+./modutils/modutils-24.c:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING
+./modutils/modutils-24.c:#if ENABLE_FEATURE_INSMOD_KSYMOOPS_SYMBOLS
+./modutils/modutils-24.c:#if SHT_RELM == SHT_RELA
+./modutils/modutils-24.c:#if defined(__alpha__) && defined(AXP_BROKEN_GAS)
+./modutils/modutils-24.c:#if BB_LITTLE_ENDIAN
+./modutils/modutils-24.c:#if LOADBITS
+./modutils/modutils-24.c:#if defined(__mips__)
+./modutils/modutils-24.c:#if SHT_RELM == SHT_REL
+./modutils/modutils-24.c:#if defined(__SH5__)
+./modutils/modutils-24.c:#if ENABLE_FEATURE_INSMOD_LOADINKMEM
+./modutils/modutils-24.c:#if ENABLE_FEATURE_CHECK_TAINTED_MODULE
+./modutils/modutils-24.c:#if ENABLE_FEATURE_INSMOD_KSYMOOPS_SYMBOLS
+./modutils/modutils-24.c:#if !ENABLE_FEATURE_INSMOD_VERSION_CHECKING
+./modutils/modutils-24.c:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING
+./modutils/modutils-24.c:#if ENABLE_FEATURE_INSMOD_LOAD_MAP
+./modutils/modutils-24.c:#if ENABLE_FEATURE_INSMOD_LOAD_MAP_FULL
+./modutils/modutils-24.c:#if ENABLE_FEATURE_INSMOD_LOAD_MAP_FULL
+./modutils/modutils-24.c:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING
+./modutils/modutils-24.c:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING
+./modutils/modutils-24.c:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING
+./modutils/modutils-24.c:#if ENABLE_FEATURE_INSMOD_KSYMOOPS_SYMBOLS
+./modutils/modutils-24.c:#if !LOADBITS
+./modutils/insmod.c://usage:#if !ENABLE_MODPROBE_SMALL
+./modutils/modprobe-small.c:#if 1
+./modutils/modprobe-small.c://usage:#if ENABLE_MODPROBE_SMALL
+./modutils/modprobe-small.c:#if ENABLE_LSMOD
+./modutils/modprobe-small.c:#if MOD_APPLET_CNT > 0
+./modutils/modprobe-small.c:#if 1
+./modutils/modprobe-small.c:#if ENABLE_FEATURE_MODPROBE_SMALL_CHECK_ALREADY_LOADED
+./modutils/modprobe-small.c:#if !ENABLE_FEATURE_CMDLINE_MODULE_OPTIONS
+./modutils/modprobe-small.c:#if ENABLE_FEATURE_CMDLINE_MODULE_OPTIONS
+./modutils/modprobe-small.c://usage:#if ENABLE_MODPROBE_SMALL
+./modutils/modprobe-small.c:#if ENABLE_MODPROBE || ENABLE_INSMOD || ENABLE_RMMOD
+./modutils/modprobe-small.c:#if ENABLE_MODPROBE || ENABLE_INSMOD || ENABLE_RMMOD
+./modutils/lsmod.c://usage:#if !ENABLE_MODPROBE_SMALL
+./modutils/lsmod.c:#if ENABLE_FEATURE_CHECK_TAINTED_MODULE
+./modutils/lsmod.c:#if ENABLE_FEATURE_LSMOD_PRETTY_2_6_OUTPUT
+./libpwdgrp/uidgid_get.c:#if 0
+./libpwdgrp/pwd_grp.c:#if ENABLE_USE_BB_SHADOW
+./libpwdgrp/pwd_grp.c:#if ENABLE_FEATURE_CLEAN_UP
+./libpwdgrp/pwd_grp.c:#if ENABLE_USE_BB_SHADOW
+./libpwdgrp/pwd_grp.c:#if ENABLE_FEATURE_CLEAN_UP
+./libpwdgrp/pwd_grp.c:#if ENABLE_USE_BB_SHADOW
+./libpwdgrp/pwd_grp.c:#if ENABLE_USE_BB_SHADOW
+./archival/cpio.c:#if ENABLE_FEATURE_CPIO_O
+./archival/cpio.c:#if ENABLE_LONG_OPTS
+./archival/cpio.c:#if ENABLE_FEATURE_CPIO_O
+./archival/cpio.c:#if ENABLE_FEATURE_CPIO_P
+./archival/cpio.c:#if !ENABLE_FEATURE_CPIO_O
+./archival/cpio.c:#if !ENABLE_FEATURE_CPIO_O
+./archival/cpio.c:#if !BB_MMU
+./archival/dpkg_deb.c:#if ENABLE_FEATURE_SEAMLESS_GZ
+./archival/dpkg_deb.c:#if ENABLE_FEATURE_SEAMLESS_BZ2
+./archival/dpkg_deb.c:#if ENABLE_FEATURE_SEAMLESS_LZMA
+./archival/dpkg_deb.c:#if ENABLE_FEATURE_SEAMLESS_XZ
+./archival/gzip.c:#if   CONFIG_GZIP_FAST == 0
+./archival/gzip.c:#if !ENABLE_FEATURE_GZIP_LEVELS
+./archival/gzip.c:#if ENABLE_FEATURE_GZIP_LEVELS
+./archival/gzip.c:#if BB_UNALIGNED_MEMACCESS_OK && BB_LITTLE_ENDIAN
+./archival/gzip.c:#if HASH_BITS < 8 || MAX_MATCH != 258
+./archival/gzip.c:#if 0
+./archival/gzip.c:#if ENABLE_FEATURE_GZIP_LONG_OPTIONS
+./archival/gzip.c:#if ENABLE_FEATURE_GZIP_DECOMPRESS
+./archival/gzip.c:#if ENABLE_FEATURE_GZIP_DECOMPRESS
+./archival/gzip.c:#if ENABLE_FEATURE_GZIP_LEVELS
+./archival/gzip.c:#if ENABLE_FEATURE_GZIP_LONG_OPTIONS
+./archival/gzip.c:#if ENABLE_FEATURE_GZIP_DECOMPRESS /* gunzip_main may not be visible... */
+./archival/gzip.c:#if ENABLE_FEATURE_GZIP_LEVELS
+./archival/unzip.c:#if 0
+./archival/unzip.c:#if BB_BIG_ENDIAN
+./archival/unzip.c:#if !ENABLE_FEATURE_UNZIP_CDF
+./archival/unzip.c:#if ENABLE_FEATURE_UNZIP_BZIP2
+./archival/unzip.c:#if ENABLE_FEATURE_UNZIP_LZMA
+./archival/unzip.c:#if ENABLE_FEATURE_UNZIP_XZ
+./archival/unzip.c:#if ENABLE_FEATURE_UNZIP_CDF
+./archival/unzip.c:#if ENABLE_FEATURE_UNZIP_CDF
+./archival/unzip.c:#if ENABLE_FEATURE_UNZIP_CDF
+./archival/rpm.c:#if 0 /* For testing (rpm -i only lists the files in internal cpio): */
+./archival/tar.c:#if 0
+./archival/tar.c:#if ENABLE_FEATURE_TAR_CREATE
+./archival/tar.c:#if ENABLE_FEATURE_TAR_GNU_EXTENSIONS
+./archival/tar.c:#if ENABLE_FEATURE_TAR_GNU_EXTENSIONS
+./archival/tar.c:#if ENABLE_FEATURE_TAR_GNU_EXTENSIONS
+./archival/tar.c:#if ULLONG_MAX > 0xffffffffffffffffLL /* 2^64-1 */
+./archival/tar.c:#if ENABLE_FEATURE_TAR_GNU_EXTENSIONS
+./archival/tar.c:#if ENABLE_FEATURE_TAR_FROM
+./archival/tar.c:#if !ENABLE_FEATURE_TAR_GNU_EXTENSIONS
+./archival/tar.c:#if SEAMLESS_COMPRESSION
+./archival/tar.c:#if !SEAMLESS_COMPRESSION
+./archival/tar.c:#if SEAMLESS_COMPRESSION
+./archival/tar.c:#if SEAMLESS_COMPRESSION
+./archival/tar.c:#if ENABLE_FEATURE_TAR_FROM
+./archival/tar.c:#if ENABLE_FEATURE_TAR_LONG_OPTIONS
+./archival/tar.c:#if ENABLE_FEATURE_TAR_LONG_OPTIONS
+./archival/tar.c:#if ENABLE_FEATURE_TAR_LONG_OPTIONS && ENABLE_FEATURE_TAR_FROM
+./archival/tar.c:#if ENABLE_FEATURE_TAR_LONG_OPTIONS && ENABLE_FEATURE_TAR_FROM
+./archival/tar.c:#if ENABLE_FEATURE_TAR_LONG_OPTIONS
+./archival/tar.c:#if ENABLE_FEATURE_TAR_LONG_OPTIONS
+./archival/tar.c:#if ENABLE_DESKTOP
+./archival/tar.c:#if ENABLE_FEATURE_TAR_LONG_OPTIONS
+./archival/tar.c:#if ENABLE_FEATURE_TAR_LONG_OPTIONS && ENABLE_FEATURE_TAR_FROM
+./archival/tar.c:#if DBG_OPTION_PARSING
+./archival/tar.c:#if ENABLE_FEATURE_TAR_FROM
+./archival/tar.c:#if ENABLE_FEATURE_TAR_CREATE
+./archival/bbunzip.c:#if ENABLE_UNCOMPRESS \
+./archival/bbunzip.c:#if ENABLE_UNCOMPRESS
+./archival/bbunzip.c:#if ENABLE_FEATURE_GZIP_DECOMPRESS
+./archival/bbunzip.c:#if ENABLE_FEATURE_SEAMLESS_Z
+./archival/bbunzip.c:#if ENABLE_FEATURE_GUNZIP_LONG_OPTIONS
+./archival/bbunzip.c:#if ENABLE_FEATURE_GUNZIP_LONG_OPTIONS
+./archival/bbunzip.c:#if ENABLE_FEATURE_BZIP2_DECOMPRESS || ENABLE_BUNZIP2 || ENABLE_BZCAT
+./archival/bbunzip.c:#if ENABLE_UNLZMA || ENABLE_LZCAT || ENABLE_LZMA
+./archival/bbunzip.c:#if ENABLE_UNXZ || ENABLE_XZCAT || ENABLE_XZ
+./archival/ar.c:#if ENABLE_FEATURE_AR_CREATE
+./archival/ar.c:#if ENABLE_FEATURE_AR_CREATE
+./archival/ar.c:#if ENABLE_FEATURE_AR_CREATE
+./archival/dpkg.c:#if ENABLE_FEATURE_SEAMLESS_GZ
+./archival/dpkg.c:#if ENABLE_FEATURE_SEAMLESS_BZ2
+./archival/dpkg.c:#if ENABLE_FEATURE_SEAMLESS_XZ
+./archival/dpkg.c:#if ENABLE_FEATURE_SEAMLESS_GZ
+./archival/dpkg.c:#if ENABLE_FEATURE_SEAMLESS_BZ2
+./archival/dpkg.c:#if ENABLE_FEATURE_SEAMLESS_LZMA
+./archival/dpkg.c:#if ENABLE_FEATURE_SEAMLESS_XZ
+./archival/dpkg.c:#if ENABLE_LONG_OPTS
+./archival/libarchive/data_extract_all.c:#if ENABLE_FEATURE_TAR_LONG_OPTIONS
+./archival/libarchive/data_extract_all.c:#if ENABLE_FEATURE_TAR_SELINUX
+./archival/libarchive/data_extract_all.c:#if ENABLE_FEATURE_TAR_LONG_OPTIONS
+./archival/libarchive/data_extract_all.c:#if ENABLE_FEATURE_TAR_UNAME_GNAME
+./archival/libarchive/data_extract_all.c:#if ENABLE_FEATURE_TAR_SELINUX
+./archival/libarchive/bz/compress.c:#if CONFIG_BZIP2_FAST >= 5
+./archival/libarchive/bz/compress.c:#if CONFIG_BZIP2_FAST >= 5
+./archival/libarchive/bz/compress.c:#if CONFIG_BZIP2_FAST >= 5
+./archival/libarchive/bz/compress.c:#if CONFIG_BZIP2_FAST >= 4
+./archival/libarchive/bz/compress.c:#if 0
+./archival/libarchive/bz/huffman.c:#if CONFIG_BZIP2_FAST >= 1
+./archival/libarchive/bz/bzlib.c:#if BZ_LIGHT_DEBUG
+./archival/libarchive/bz/bzlib.c:			//#if (s->mode != BZ_M_RUNNING && s->avail_in_expect == 0) {
+./archival/libarchive/bz/bzlib.c:			//#if (s->avail_in_expect > 0 || !isempty_RL(s) || s->state_out_pos < s->numZ)
+./archival/libarchive/bz/blocksort.c:#if CONFIG_BZIP2_FAST >= 1
+./archival/libarchive/bz/blocksort.c:#if CONFIG_BZIP2_FAST >= 3
+./archival/libarchive/bz/blocksort.c:#if CONFIG_BZIP2_FAST >= 2
+./archival/libarchive/bz/blocksort.c:#if CONFIG_BZIP2_FAST >= 2
+./archival/libarchive/lzo1x_d.c:#if defined(COPY_DICT)
+./archival/libarchive/lzo1x_d.c:#if defined(HAVE_ANY_OP)
+./archival/libarchive/lzo1x_d.c:#if defined(LZO1Z)
+./archival/libarchive/lzo1x_d.c:#if defined(COPY_DICT)
+./archival/libarchive/lzo1x_d.c:#if defined(LZO_UNALIGNED_OK_4) || defined(LZO_ALIGNED_OK_4)
+./archival/libarchive/lzo1x_d.c:#if !defined(LZO_UNALIGNED_OK_4)
+./archival/libarchive/lzo1x_d.c:#if defined(COPY_DICT)
+./archival/libarchive/lzo1x_d.c:#if defined(LZO1Z)
+./archival/libarchive/lzo1x_d.c:#if defined(LZO1Z)
+./archival/libarchive/lzo1x_d.c:#if defined(COPY_DICT)
+./archival/libarchive/lzo1x_d.c:#if defined(LZO1X)
+./archival/libarchive/lzo1x_d.c:#if defined(LZO1X)
+./archival/libarchive/lzo1x_d.c:#if defined(COPY_DICT)
+./archival/libarchive/lzo1x_d.c:#if defined(LZO1Z)
+./archival/libarchive/lzo1x_d.c:#if defined(LZO1Z)
+./archival/libarchive/lzo1x_d.c:#if defined(COPY_DICT)
+./archival/libarchive/lzo1x_d.c:#if defined(COPY_DICT)
+./archival/libarchive/lzo1x_d.c:#if defined(LZO1Z)
+./archival/libarchive/lzo1x_d.c:#if defined(LZO1Z)
+./archival/libarchive/lzo1x_d.c:#if defined(LZO1Z)
+./archival/libarchive/lzo1x_d.c:#if defined(LZO1Z)
+./archival/libarchive/lzo1x_d.c:#if defined(COPY_DICT)
+./archival/libarchive/lzo1x_d.c:#if defined(LZO1Z)
+./archival/libarchive/lzo1x_d.c:#if defined(LZO1Z)
+./archival/libarchive/lzo1x_d.c:#if defined(COPY_DICT)
+./archival/libarchive/lzo1x_d.c:#if defined(LZO_UNALIGNED_OK_4) || defined(LZO_ALIGNED_OK_4)
+./archival/libarchive/lzo1x_d.c:#if defined(LZO1Z)
+./archival/libarchive/lzo1x_d.c:#if 0
+./archival/libarchive/lzo1x_d.c://#if defined(HAVE_TEST_IP) || defined(HAVE_TEST_OP)
+./archival/libarchive/lzo1x_d.c://#if defined(HAVE_NEED_IP)
+./archival/libarchive/lzo1x_d.c://#if defined(HAVE_NEED_OP)
+./archival/libarchive/lzo1x_d.c://#if defined(LZO_TEST_OVERRUN_LOOKBEHIND)
+./archival/libarchive/header_verbose_list.c:#if ENABLE_FEATURE_TAR_UNAME_GNAME
+./archival/libarchive/init_handle.c:#if ENABLE_CPIO || ENABLE_RPM2CPIO || ENABLE_RPM
+./archival/libarchive/decompress_gunzip.c:#if STATE_IN_BSS /* Use global data segment */
+./archival/libarchive/decompress_gunzip.c:#if STATE_IN_MALLOC /* Use malloc space */
+./archival/libarchive/decompress_gunzip.c:#if BB_LITTLE_ENDIAN
+./archival/libarchive/decompress_gunzip.c:#if BB_LITTLE_ENDIAN
+./archival/libarchive/decompress_gunzip.c:#if !ENABLE_FEATURE_SEAMLESS_Z
+./archival/libarchive/lzo1x_9x.c:#if defined(LZO_UNALIGNED_OK_2)
+./archival/libarchive/lzo1x_9x.c:#if defined(SWD_BEST_OFF)
+./archival/libarchive/lzo1x_9x.c:#if defined(SWD_BEST_OFF)
+./archival/libarchive/lzo1x_9x.c:#if defined(SWD_BEST_OFF)
+./archival/libarchive/lzo1x_9x.c:#if defined(SWD_BEST_OFF)
+./archival/libarchive/lzo1x_9x.c:#if defined(SWD_BEST_OFF)
+./archival/libarchive/lzo1x_9x.c:#if defined(SWD_BEST_OFF)
+./archival/libarchive/lzo1x_9x.c:#if defined(SWD_BEST_OFF)
+./archival/libarchive/lzo1x_9x.c:#if defined(SWD_BEST_OFF)
+./archival/libarchive/lzo1x_9x.c:#if defined(LZO_EOF_CODE)
+./archival/libarchive/get_header_tar.c:#if !TAR_EXTD
+./archival/libarchive/get_header_tar.c:#if !TAR_EXTD
+./archival/libarchive/get_header_tar.c:#if ENABLE_FEATURE_TAR_OLDSUN_COMPATIBILITY
+./archival/libarchive/get_header_tar.c:#if ENABLE_FEATURE_TAR_GNU_EXTENSIONS
+./archival/libarchive/get_header_tar.c:#if ENABLE_FEATURE_TAR_GNU_EXTENSIONS || ENABLE_FEATURE_TAR_SELINUX
+./archival/libarchive/get_header_tar.c:#if ENABLE_DESKTOP || ENABLE_FEATURE_TAR_AUTODETECT
+./archival/libarchive/get_header_tar.c:#if ENABLE_FEATURE_TAR_AUTODETECT
+./archival/libarchive/get_header_tar.c:#if ENABLE_FEATURE_TAR_OLDSUN_COMPATIBILITY
+./archival/libarchive/get_header_tar.c:#if ENABLE_FEATURE_TAR_OLDSUN_COMPATIBILITY
+./archival/libarchive/get_header_tar.c:#if ENABLE_FEATURE_TAR_OLDSUN_COMPATIBILITY
+./archival/libarchive/get_header_tar.c:#if ENABLE_FEATURE_TAR_UNAME_GNAME
+./archival/libarchive/get_header_tar.c:#if ENABLE_FEATURE_TAR_OLDGNU_COMPATIBILITY
+./archival/libarchive/get_header_tar.c:#if ENABLE_FEATURE_TAR_GNU_EXTENSIONS
+./archival/libarchive/get_header_tar.c:#if ENABLE_FEATURE_TAR_GNU_EXTENSIONS
+./archival/libarchive/get_header_tar.c:#if ENABLE_FEATURE_TAR_UNAME_GNAME
+./archival/libarchive/decompress_unlzma.c:#if ENABLE_FEATURE_LZMA_FAST
+./archival/libarchive/decompress_unlzma.c:#if ENABLE_FEATURE_LZMA_FAST
+./archival/libarchive/decompress_unlzma.c:#if ENABLE_FEATURE_LZMA_FAST
+./archival/libarchive/get_header_ar.c:#if ENABLE_FEATURE_AR_LONG_FILENAMES
+./archival/libarchive/get_header_ar.c:#if ENABLE_FEATURE_AR_LONG_FILENAMES
+./archival/libarchive/get_header_ar.c:#if ENABLE_FEATURE_AR_LONG_FILENAMES
+./archival/libarchive/get_header_ar.c:#if ENABLE_DPKG || ENABLE_DPKG_DEB
+./archival/libarchive/open_transformer.c:#if BB_MMU
+./archival/libarchive/open_transformer.c:#if BB_MMU
+./archival/libarchive/open_transformer.c:#if SEAMLESS_COMPRESSION
+./archival/libarchive/lzo1x_c.c:#if 1
+./archival/libarchive/lzo1x_c.c:#if 1 && defined(LZO_UNALIGNED_OK_2)
+./archival/libarchive/lzo1x_c.c:#if 0
+./archival/libarchive/lzo1x_c.c:#if 0
+./archival/libarchive/lzo1x_c.c:#if 0
+./archival/libarchive/lzo1x_c.c:#if defined(LZO1X)
+./archival/libarchive/lzo1x_c.c:#if defined(LZO1X)
+./archival/libarchive/lzo1x_c.c:#if defined(LZO1Y)
+./archival/libarchive/lzo1x_c.c:#if 0
+./archival/libarchive/decompress_bunzip2.c:#if 0
+./archival/libarchive/decompress_bunzip2.c:#if 0
+./archival/libarchive/data_extract_to_command.c:#if ENABLE_FEATURE_TAR_UNAME_GNAME
+./archival/libarchive/data_extract_to_command.c:#if ENABLE_FEATURE_TAR_UNAME_GNAME
+./archival/libarchive/data_extract_to_command.c:#if 0 /* do we need this? ENABLE_FEATURE_TAR_SELINUX */
+./archival/libarchive/data_extract_to_command.c:#if ENABLE_FEATURE_TAR_UNAME_GNAME
+./archival/libarchive/data_extract_to_command.c:#if 0 /* ENABLE_FEATURE_TAR_SELINUX */
+./archival/lzop.c:#if defined(LZO1X)
+./archival/lzop.c:#if defined(LZO1X)
+./archival/lzop.c:#if ENABLE_LZOP_COMPR_HIGH
+./archival/lzop.c:#if ENABLE_LZOP_COMPR_HIGH
+./archival/bzip2.c:#if ENABLE_FEATURE_BZIP2_DECOMPRESS /* bunzip2_main may not be visible... */
+./debianutils/run_parts.c:#if ENABLE_FEATURE_RUN_PARTS_LONG_OPTIONS
+./debianutils/run_parts.c:#if ENABLE_FEATURE_RUN_PARTS_FANCY
+./debianutils/run_parts.c:#if ENABLE_FEATURE_RUN_PARTS_LONG_OPTIONS
+./debianutils/start_stop_daemon.c:#if ENABLE_FEATURE_START_STOP_DAEMON_LONG_OPTIONS
+./debianutils/start_stop_daemon.c:#if ENABLE_FEATURE_START_STOP_DAEMON_FANCY
+./debianutils/start_stop_daemon.c:#if ENABLE_FEATURE_START_STOP_DAEMON_FANCY
+./debianutils/start_stop_daemon.c:#if ENABLE_FEATURE_START_STOP_DAEMON_FANCY
+./debianutils/start_stop_daemon.c:#if ENABLE_FEATURE_START_STOP_DAEMON_LONG_OPTIONS
+./debianutils/start_stop_daemon.c:#if BB_MMU
+./debianutils/start_stop_daemon.c:#if ENABLE_FEATURE_START_STOP_DAEMON_FANCY

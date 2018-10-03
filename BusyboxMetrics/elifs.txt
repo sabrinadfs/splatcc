@@ -1,0 +1,73 @@
+./networking/tls_pstm.c:#elif defined(USE_MATRIX_DIV128) && defined(PSTM_64BIT)
+./networking/wget.c:#elif ENABLE_FEATURE_WGET_HTTPS
+./networking/ssl_helper-wolfssl/ssl_helper.c://#elif defined(HAVE_NULL_CIPHER)
+./networking/tftp.c:#elif !ENABLE_FEATURE_TFTP_GET && ENABLE_FEATURE_TFTP_PUT
+./networking/tls_pstm_mul_comba.c:#elif defined(PSTM_X86_64)
+./networking/tls_pstm_mul_comba.c:#elif defined(PSTM_ARM)
+./networking/tls_pstm_mul_comba.c:#elif defined(PSTM_MIPS)
+./networking/ftpgetput.c:#elif ENABLE_FTPGET && !ENABLE_FTPPUT
+./networking/tls_pstm_sqr_comba.c:#elif defined(PSTM_X86_64)
+./networking/tls_pstm_sqr_comba.c:#elif defined(PSTM_ARM)
+./networking/tls_pstm_sqr_comba.c:#elif defined(PSTM_MIPS)
+./networking/httpd.c:#elif ENABLE_FEATURE_HTTPD_PROXY
+./networking/tls_pstm_montgomery_reduce.c:#elif defined(PSTM_X86_64)
+./networking/tls_pstm_montgomery_reduce.c:#elif defined(PSTM_ARM)
+./networking/tls_pstm_montgomery_reduce.c:#elif defined(PSTM_MIPS)
+./init/bootchartd.c:#elif !ENABLE_FEATURE_SEAMLESS_GZ && !ENABLE_WERROR
+./util-linux/fdisk_osf.c:#elif defined(__alpha__)
+./util-linux/fdisk_osf.c:#elif defined(__alpha__)
+./util-linux/last.c:#elif defined __UT_LINESIZE \
+./util-linux/fdisk.c:#elif ULONG_MAX == 4294967295
+./shell/hush.c:#elif BB_MMU && ENABLE_HUSH_LOCAL
+./shell/hush.c:#elif BB_MMU && !ENABLE_HUSH_LOCAL
+./shell/hush.c:#elif !BB_MMU && !ENABLE_HUSH_LOCAL
+./shell/hush.c:#elif ENABLE_HUSH_INTERACTIVE
+./coreutils/sleep.c:#elif ENABLE_FEATURE_FANCY_SLEEP
+./coreutils/factor.c:#elif ULLONG_MAX == (ULONG_MAX * ULONG_MAX + 2 * ULONG_MAX)
+./coreutils/df.c:#elif ENABLE_FEATURE_HUMAN_READABLE
+./coreutils/stty.c:#elif (CSIZE | NLDLY | CRDLY | TABDLY | BSDLY | VTDLY | FFDLY) < 0x10000
+./libbb/hash_md5prime.c:#elif CONFIG_MD5_SMALL > 3
+./libbb/hash_md5prime.c:#elif MD5_SMALL > 1
+./libbb/hash_md5prime.c:#elif MD5_SMALL > 0
+./libbb/speed_table.c:#elif defined(EXTA)
+./libbb/speed_table.c:#elif defined(EXTB)
+./libbb/hash_md5_sha.c:#elif CONFIG_MD5_SMALL > 3
+./libbb/hash_md5_sha.c:#elif CONFIG_SHA3_SMALL > 1
+./libbb/pw_encrypt_des.c:#elif 0 /* -65 bytes (using the fact that l_in == r_in == 0) */
+./libbb/appletlib.c:#elif !ENABLE_BUSYBOX && NUM_APPLETS == 0
+./miscutils/dc.c:#elif 0
+./miscutils/makedevs.c:#elif ENABLE_FEATURE_MAKEDEVS_TABLE
+./procps/ps.c:#elif 1
+./modutils/modutils-24.c:#elif defined(__powerpc__)
+./modutils/modutils-24.c:#elif defined(__cris__)
+./modutils/modutils-24.c:#elif defined(__H8300H__) || defined(__H8300S__)
+./modutils/modutils-24.c:#elif defined(__i386__)
+./modutils/modutils-24.c:#elif defined(__microblaze__)
+./modutils/modutils-24.c:#elif defined(__mc68000__)
+./modutils/modutils-24.c:#elif defined(__mips__)
+./modutils/modutils-24.c:#elif defined(__nios2__)
+./modutils/modutils-24.c:#elif defined(__powerpc64__)
+./modutils/modutils-24.c:#elif defined(__powerpc__)
+./modutils/modutils-24.c:#elif defined(__s390__)
+./modutils/modutils-24.c:#elif defined(__sh__)
+./modutils/modutils-24.c:#elif defined(__v850e__)
+./modutils/modutils-24.c:#elif defined(__x86_64__)
+./modutils/modutils-24.c:#elif defined(__v850e__)
+./modutils/modutils-24.c:#elif defined(__i386__) || defined(__arm__) || defined(__mc68000__)
+./modutils/modutils-24.c:#elif defined(__i386__)
+./modutils/modutils-24.c:#elif defined(__powerpc__)
+./modutils/modutils-24.c:#elif defined(__mc68000__)
+./modutils/modutils-24.c:#elif defined(__sh__)
+./modutils/modutils-24.c:#elif defined(__v850e__)
+./archival/gzip.c:#elif CONFIG_GZIP_FAST == 1
+./archival/gzip.c:#elif CONFIG_GZIP_FAST == 2
+./archival/libarchive/lzo1x_d.c:#elif defined(LZO1Y)
+./archival/libarchive/lzo1x_d.c:#elif defined(LZO1Z)
+./archival/libarchive/lzo1x_d.c:#elif defined(LZO1Y)
+./archival/libarchive/lzo1x_d.c:#elif defined(LZO1Z)
+./archival/libarchive/lzo1x_d.c:#elif defined(LZO_UNALIGNED_OK_2) && defined(LZO_ABI_LITTLE_ENDIAN)
+./archival/libarchive/lzo1x_d.c:#elif defined(LZO_UNALIGNED_OK_2) && defined(LZO_ABI_LITTLE_ENDIAN)
+./archival/libarchive/lzo1x_c.c:#elif defined(LZO1Y)
+./archival/libarchive/lzo1x_c.c:#elif defined(LZO1Y)
+./archival/lzop.c:#elif defined(LZO1Y)
+./archival/lzop.c:#elif defined(LZO1Y)

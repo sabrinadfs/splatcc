@@ -1,0 +1,604 @@
+./shell/ash.c:#ifdef O_APPEND
+./shell/ash.c:#ifdef O_APPEND
+./shell/ash.c:#ifdef SYSV
+./shell/ash.c:#ifdef NEW_xxreadtoken
+./shell/ash.c:#ifdef SYSV
+./shell/ash.c:#ifdef SYSV
+./shell/ash.c:#ifdef GPROF
+
+
+./shell/ash.c:#if defined(__ANDROID_API__) && __ANDROID_API__ <= 24
+./shell/ash.c:#if !ENABLE_ASH_INTERNAL_GLOB && defined(__UCLIBC__)
+./shell/ash.c:#if !ENABLE_ASH_INTERNAL_GLOB
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if ENABLE_ASH_RANDOM_SUPPORT
+./shell/ash.c:#if NUM_APPLETS == 1
+./shell/ash.c:#if !BB_MMU
+./shell/ash.c:#if BASH_PIPEFAIL
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if BASH_PIPEFAIL
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if ENABLE_ASH_RANDOM_SUPPORT
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if DEBUG_INTONOFF
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if DEBUG_INTONOFF
+./shell/ash.c:#if BASH_SUBSTR
+./shell/ash.c:#if BASH_PATTERN_SUBST
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if 0
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_RANDOM_SUPPORT
+./shell/ash.c:#if ENABLE_LOCALE_SUPPORT
+./shell/ash.c:#if ENABLE_ASH_MAIL
+./shell/ash.c:#if ENABLE_ASH_RANDOM_SUPPORT
+./shell/ash.c:#if ENABLE_ASH_MAIL
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_RANDOM_SUPPORT
+./shell/ash.c:#if ENABLE_LOCALE_SUPPORT
+./shell/ash.c:#if ENABLE_FEATURE_EDITING_SAVEHISTORY
+./shell/ash.c:#if ENABLE_ASH_MAIL
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_MAIL
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_FEATURE_EDITING && ENABLE_FEATURE_EDITING_FANCY_PROMPT
+./shell/ash.c:#if ENABLE_ASH_RANDOM_SUPPORT
+./shell/ash.c:#if ENABLE_UNICODE_SUPPORT
+./shell/ash.c:#if ENABLE_ASH_RANDOM_SUPPORT
+./shell/ash.c:#if ENABLE_FEATURE_EDITING
+./shell/ash.c:#if ENABLE_ASH_EXPAND_PRMT
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if !USE_SIT_FUNCTION
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if USE_SIT_FUNCTION
+./shell/ash.c:#if 1
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if !JOBS
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if 0
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS || DEBUG
+./shell/ash.c:#if !JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if 1
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if !JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if defined(F_DUPFD_CLOEXEC)
+./shell/ash.c:#if !defined(F_DUPFD_CLOEXEC)
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if !ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if BASH_PATTERN_SUBST
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if !ENABLE_ASH_OPTIMIZE_FOR_SIZE
+./shell/ash.c:#if !ENABLE_ASH_OPTIMIZE_FOR_SIZE
+./shell/ash.c:#if BASH_SUBSTR
+./shell/ash.c:#if BASH_PATTERN_SUBST
+./shell/ash.c:#if BASH_PATTERN_SUBST
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if 0
+./shell/ash.c:#if ENABLE_UNICODE_SUPPORT
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if BASH_SUBSTR
+./shell/ash.c:#if BASH_PATTERN_SUBST
+./shell/ash.c:#if !ENABLE_ASH_INTERNAL_GLOB
+./shell/ash.c:#if 0 // glibc 2.24.90 bug? Patterns like "*/file", when match, don't set GLOB_MAGCHAR
+./shell/ash.c:#if ENABLE_LOCALE_SUPPORT
+./shell/ash.c:#if ENABLE_FEATURE_SH_STANDALONE
+./shell/ash.c:#if ENABLE_FEATURE_SH_STANDALONE
+./shell/ash.c:#if BASH_FUNCTION
+./shell/ash.c:#if BASH_FUNCTION
+./shell/ash.c:#if BASH_FUNCTION
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_ASH_CMDCMD
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if NAND + 1 != NOR
+./shell/ash.c:#if NOR + 1 != NSEMI
+./shell/ash.c:#if !defined(__alpha__) || (defined(__GNUC__) && __GNUC__ >= 3)
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if 0
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if !ENABLE_FEATURE_SH_EXTRA_QUIET
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if ENABLE_FEATURE_EDITING_VI
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_HELP
+./shell/ash.c:#if MAX_HISTORY
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if ENABLE_ASH_ECHO
+./shell/ash.c:#if ENABLE_ASH_PRINTF
+./shell/ash.c:#if ENABLE_ASH_TEST || BASH_TEST2
+./shell/ash.c:#if ENABLE_ASH_TEST
+./shell/ash.c:#if BASH_TEST2
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if ENABLE_ASH_CMDCMD
+./shell/ash.c:#if ENABLE_ASH_ECHO
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_HELP
+./shell/ash.c:#if MAX_HISTORY
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if ENABLE_ASH_PRINTF
+./shell/ash.c:#if BASH_SOURCE
+./shell/ash.c:#if ENABLE_ASH_TEST
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_ASH_CMDCMD
+./shell/ash.c:#if ENABLE_ASH_CMDCMD
+./shell/ash.c:#if ENABLE_FEATURE_SH_NOFORK
+./shell/ash.c:#if !ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_FEATURE_EDITING
+./shell/ash.c:#if 0 /* disabled: nonblock_immune_read() handles this problem */
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_ASH_MAIL
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if ENABLE_ASH_RANDOM_SUPPORT
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if BASH_TEST2
+./shell/ash.c:#if BASH_FUNCTION
+./shell/ash.c:#if BASH_TEST2
+./shell/ash.c:#if BASH_TEST2
+./shell/ash.c:#if BASH_FUNCTION
+./shell/ash.c:#if BASH_DOLLAR_SQUOTE
+./shell/ash.c:#if BASH_DOLLAR_SQUOTE
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if BASH_DOLLAR_SQUOTE
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if BASH_SUBSTR
+./shell/ash.c:#if BASH_PATTERN_SUBST
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if BASH_REDIR_OUTPUT
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if JOBS
+./shell/ash.c:#if DEBUG
+./shell/ash.c:/* #if ENABLE_FEATURE_SH_STANDALONE... moved after builtin check */
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if ENABLE_FEATURE_SH_STANDALONE
+./shell/ash.c:#if ENABLE_ASH_HELP
+./shell/ash.c:#if MAX_HISTORY
+./shell/ash.c:#if ENABLE_FEATURE_SH_MATH
+./shell/ash.c:#if ENABLE_FEATURE_EDITING_SAVE_ON_EXIT
+./shell/ash.c:#if BASH_SHLVL_VAR
+./shell/ash.c:#if BASH_HOSTNAME_VAR
+./shell/ash.c:#if DEBUG == 2
+./shell/ash.c:#if ENABLE_ASH_GETOPTS
+./shell/ash.c:#if PROFILE
+./shell/ash.c:#if ENABLE_ASH_ALIAS
+./shell/ash.c:#if PROFILE
+./shell/ash.c:#if ENABLE_FEATURE_EDITING
+./shell/ash.c:#if DEBUG
+./shell/ash.c:#if MAX_HISTORY > 0 && ENABLE_FEATURE_EDITING_SAVEHISTORY
+./shell/ash.c:#if PROFILE
+
+
+
+
+./shell/ash.c:#define DEBUG 0
+./shell/ash.c:#define DEBUG_TIME 0
+./shell/ash.c:#define DEBUG_PID 1
+./shell/ash.c:#define DEBUG_SIG 1
+./shell/ash.c:#define DEBUG_INTONOFF 0
+./shell/ash.c:#define PROFILE 0
+./shell/ash.c:#define JOBS ENABLE_ASH_JOB_CONTROL
+./shell/ash.c:/* Separate defines document which part of code implements what */
+./shell/ash.c:#define    BASH_FUNCTION        ENABLE_ASH_BASH_COMPAT
+./shell/ash.c:#define IF_BASH_FUNCTION            IF_ASH_BASH_COMPAT
+./shell/ash.c:#define    BASH_REDIR_OUTPUT    ENABLE_ASH_BASH_COMPAT
+./shell/ash.c:#define IF_BASH_REDIR_OUTPUT        IF_ASH_BASH_COMPAT
+./shell/ash.c:#define    BASH_DOLLAR_SQUOTE   ENABLE_ASH_BASH_COMPAT
+./shell/ash.c:#define IF_BASH_DOLLAR_SQUOTE       IF_ASH_BASH_COMPAT
+./shell/ash.c:#define    BASH_PATTERN_SUBST   ENABLE_ASH_BASH_COMPAT
+./shell/ash.c:#define IF_BASH_PATTERN_SUBST       IF_ASH_BASH_COMPAT
+./shell/ash.c:#define    BASH_SUBSTR          ENABLE_ASH_BASH_COMPAT
+./shell/ash.c:#define IF_BASH_SUBSTR              IF_ASH_BASH_COMPAT
+./shell/ash.c:#define    BASH_TEST2           (ENABLE_ASH_BASH_COMPAT * ENABLE_ASH_TEST)
+./shell/ash.c:#define    BASH_SOURCE          ENABLE_ASH_BASH_COMPAT
+./shell/ash.c:#define    BASH_PIPEFAIL        ENABLE_ASH_BASH_COMPAT
+./shell/ash.c:#define    BASH_HOSTNAME_VAR    ENABLE_ASH_BASH_COMPAT
+./shell/ash.c:#define    BASH_SHLVL_VAR       ENABLE_ASH_BASH_COMPAT
+./shell/ash.c:#if defined(__ANDROID_API__) && __ANDROID_API__ <= 24
+./shell/ash.c:# define ENABLE_ASH_INTERNAL_GLOB 1
+./shell/ash.c:#if !ENABLE_ASH_INTERNAL_GLOB && defined(__UCLIBC__)
+./shell/ash.c:# define CLEAR_RANDOM_T(rnd) ((void)0)
+./shell/ash.c:# define ENABLE_FEATURE_SH_STANDALONE 0
+./shell/ash.c:# define IF_FEATURE_SH_STANDALONE(...)
+./shell/ash.c:# define IF_NOT_FEATURE_SH_STANDALONE(...) __VA_ARGS__
+./shell/ash.c:# define PIPE_BUF 4096           /* amount of buffering in a pipe */
+./shell/ash.c:#define VTABSIZE 39
+./shell/ash.c:#define ATABSIZE 39
+./shell/ash.c:#define CMDTABLESIZE 31         /* should be prime */
+./shell/ash.c:#define optletters(n)  optletters_optnames[n][0]
+./shell/ash.c:#define optnames(n)   (optletters_optnames[n] + 1)
+./shell/ash.c:#define msg_illnum "Illegal number: %s"
+./shell/ash.c:#define rootshell (!shlvl)
+./shell/ash.c:#define EXINT 0         /* SIGINT received */
+./shell/ash.c:#define EXERROR 1       /* a generic error */
+./shell/ash.c:#define EXEXIT 4        /* exit the shell */
+./shell/ash.c:#define eflag optlist[0]
+./shell/ash.c:#define fflag optlist[1]
+./shell/ash.c:#define Iflag optlist[2]
+./shell/ash.c:#define iflag optlist[3]
+./shell/ash.c:#define mflag optlist[4]
+./shell/ash.c:#define nflag optlist[5]
+./shell/ash.c:#define sflag optlist[6]
+./shell/ash.c:#define xflag optlist[7]
+./shell/ash.c:#define vflag optlist[8]
+./shell/ash.c:#define Cflag optlist[9]
+./shell/ash.c:#define aflag optlist[10]
+./shell/ash.c:#define bflag optlist[11]
+./shell/ash.c:#define uflag optlist[12]
+./shell/ash.c:#define viflag optlist[13]
+./shell/ash.c:# define pipefail optlist[14]
+./shell/ash.c:# define pipefail 0
+./shell/ash.c:# define nolog optlist[14 + BASH_PIPEFAIL]
+./shell/ash.c:# define debug optlist[15 + BASH_PIPEFAIL]
+./shell/ash.c:#define S_DFL      1            /* default signal handling (SIG_DFL) */
+./shell/ash.c:#define S_CATCH    2            /* signal is caught */
+./shell/ash.c:#define S_IGN      3            /* signal is ignored (SIG_IGN) */
+./shell/ash.c:#define S_HARD_IGN 4            /* signal is ignored permanently */
+./shell/ash.c:#define G_misc (*ash_ptr_to_globals_misc)
+./shell/ash.c:#define exitstatus        (G_misc.exitstatus )
+./shell/ash.c:#define back_exitstatus   (G_misc.back_exitstatus )
+./shell/ash.c:#define job_warning       (G_misc.job_warning)
+./shell/ash.c:#define rootpid     (G_misc.rootpid    )
+./shell/ash.c:#define shlvl       (G_misc.shlvl      )
+./shell/ash.c:#define minusc      (G_misc.minusc     )
+./shell/ash.c:#define curdir      (G_misc.curdir     )
+./shell/ash.c:#define physdir     (G_misc.physdir    )
+./shell/ash.c:#define arg0        (G_misc.arg0       )
+./shell/ash.c:#define exception_handler (G_misc.exception_handler)
+./shell/ash.c:#define exception_type    (G_misc.exception_type   )
+./shell/ash.c:#define suppress_int      (G_misc.suppress_int     )
+./shell/ash.c:#define pending_int       (G_misc.pending_int      )
+./shell/ash.c:#define got_sigchld       (G_misc.got_sigchld      )
+./shell/ash.c:#define pending_sig       (G_misc.pending_sig      )
+./shell/ash.c:#define isloginsh   (G_misc.isloginsh  )
+./shell/ash.c:#define nullstr     (G_misc.nullstr    )
+./shell/ash.c:#define optlist     (G_misc.optlist    )
+./shell/ash.c:#define sigmode     (G_misc.sigmode    )
+./shell/ash.c:#define gotsig      (G_misc.gotsig     )
+./shell/ash.c:#define may_have_traps    (G_misc.may_have_traps   )
+./shell/ash.c:#define trap        (G_misc.trap       )
+./shell/ash.c:#define trap_ptr    (G_misc.trap_ptr   )
+./shell/ash.c:#define random_gen  (G_misc.random_gen )
+./shell/ash.c:#define backgndpid  (G_misc.backgndpid )
+./shell/ash.c:#define INIT_G_misc() do { \
+./shell/ash.c:# define TRACE(param)    trace_printf param
+./shell/ash.c:# define TRACEV(param)   trace_vprintf param
+./shell/ash.c:# define close(fd) do { \
+./shell/ash.c:# define TRACE(param)
+./shell/ash.c:# define TRACEV(param)
+./shell/ash.c:#define is_name(c)      ((c) == '_' || isalpha((unsigned char)(c)))
+./shell/ash.c:#define is_in_name(c)   ((c) == '_' || isalnum((unsigned char)(c)))
+./shell/ash.c:# define INT_OFF do { \
+./shell/ash.c:# define INT_OFF do { \
+./shell/ash.c:#define raise_exception(e) do { \
+./shell/ash.c:#define raise_interrupt() do { \
+./shell/ash.c:# define INT_ON do { \
+./shell/ash.c:# define INT_ON int_on()
+./shell/ash.c:#define FORCE_INT_ON force_int_on()
+./shell/ash.c:#define SAVE_INT(v) ((v) = suppress_int)
+./shell/ash.c:#define RESTORE_INT(v) do { \
+./shell/ash.c:#define CTL_FIRST CTLESC
+./shell/ash.c:#define CTLESC       ((unsigned char)'\201')    /* escape next character */
+./shell/ash.c:#define CTLVAR       ((unsigned char)'\202')    /* variable defn */
+./shell/ash.c:#define CTLENDVAR    ((unsigned char)'\203')
+./shell/ash.c:#define CTLBACKQ     ((unsigned char)'\204')
+./shell/ash.c:#define CTLARI       ((unsigned char)'\206')    /* arithmetic expression */
+./shell/ash.c:#define CTLENDARI    ((unsigned char)'\207')
+./shell/ash.c:#define CTLQUOTEMARK ((unsigned char)'\210')
+./shell/ash.c:#define CTL_LAST CTLQUOTEMARK
+./shell/ash.c:#define VSTYPE  0x0f            /* type of variable substitution */
+./shell/ash.c:#define VSNUL   0x10            /* colon--treat the empty string as unset */
+./shell/ash.c:#define VSNORMAL        0x1     /* normal variable:  $var or ${var} */
+./shell/ash.c:#define VSMINUS         0x2     /* ${var-text} */
+./shell/ash.c:#define VSPLUS          0x3     /* ${var+text} */
+./shell/ash.c:#define VSQUESTION      0x4     /* ${var?message} */
+./shell/ash.c:#define VSASSIGN        0x5     /* ${var=text} */
+./shell/ash.c:#define VSTRIMRIGHT     0x6     /* ${var%pattern} */
+./shell/ash.c:#define VSTRIMRIGHTMAX  0x7     /* ${var%%pattern} */
+./shell/ash.c:#define VSTRIMLEFT      0x8     /* ${var#pattern} */
+./shell/ash.c:#define VSTRIMLEFTMAX   0x9     /* ${var##pattern} */
+./shell/ash.c:#define VSLENGTH        0xa     /* ${#var} */
+./shell/ash.c:#define VSSUBSTR        0xc     /* ${var:position:length} */
+./shell/ash.c:#define VSREPLACE       0xd     /* ${var/pattern/replacement} */
+./shell/ash.c:#define VSREPLACEALL    0xe     /* ${var//pattern/replacement} */
+./shell/ash.c:#define DOLATSTRLEN 6
+./shell/ash.c:#define NCMD      0
+./shell/ash.c:#define NPIPE     1
+./shell/ash.c:#define NREDIR    2
+./shell/ash.c:#define NBACKGND  3
+./shell/ash.c:#define NSUBSHELL 4
+./shell/ash.c:#define NAND      5
+./shell/ash.c:#define NOR       6
+./shell/ash.c:#define NSEMI     7
+./shell/ash.c:#define NIF       8
+./shell/ash.c:#define NWHILE    9
+./shell/ash.c:#define NUNTIL   10
+./shell/ash.c:#define NFOR     11
+./shell/ash.c:#define NCASE    12
+./shell/ash.c:#define NCLIST   13
+./shell/ash.c:#define NDEFUN   14
+./shell/ash.c:#define NARG     15
+./shell/ash.c:#define NTO      16
+./shell/ash.c:#define NTO2     17
+./shell/ash.c:#define NCLOBBER 18
+./shell/ash.c:#define NFROM    19
+./shell/ash.c:#define NFROMTO  20
+./shell/ash.c:#define NAPPEND  21
+./shell/ash.c:#define NTOFD    22
+./shell/ash.c:#define NFROMFD  23
+./shell/ash.c:#define NHERE    24
+./shell/ash.c:#define NXHERE   25
+./shell/ash.c:#define NNOT     26
+./shell/ash.c:#define N_NUMBER 27
+./shell/ash.c:#define NODE_EOF ((union node *) -1L)
+./shell/ash.c:# define ckrealloc xrealloc
+./shell/ash.c:# define ckmalloc  xmalloc
+./shell/ash.c:# define ckzalloc  xzalloc
+./shell/ash.c:# define ckstrdup  xstrdup
+./shell/ash.c:#define SHELL_ALIGN(nbytes) (((nbytes) + SHELL_SIZE) & ~SHELL_SIZE)
+./shell/ash.c:#define G_memstack (*ash_ptr_to_globals_memstack)
+./shell/ash.c:#define g_stackp     (G_memstack.g_stackp    )
+./shell/ash.c:#define g_stacknxt   (G_memstack.g_stacknxt  )
+./shell/ash.c:#define sstrend      (G_memstack.sstrend     )
+./shell/ash.c:#define g_stacknleft (G_memstack.g_stacknleft)
+./shell/ash.c:#define stackbase    (G_memstack.stackbase   )
+./shell/ash.c:#define INIT_G_memstack() do { \
+./shell/ash.c:#define stackblock()     ((void *)g_stacknxt)
+./shell/ash.c:#define stackblocksize() g_stacknleft
+./shell/ash.c: * string is.  Stackblock (defined in stack.h) returns a pointer to a block
+./shell/ash.c:#define STARTSTACKSTR(p)        ((p) = stackblock())
+./shell/ash.c:#define STPUTC(c, p)            ((p) = _STPUTC((c), (p)))
+./shell/ash.c:#define CHECKSTRSPACE(n, p) do { \
+./shell/ash.c:#define USTPUTC(c, p)           (*(p)++ = (c))
+./shell/ash.c:#define STACKSTRNUL(p) do { \
+./shell/ash.c:#define STUNPUTC(p)             (--(p))
+./shell/ash.c:#define STTOPC(p)               ((p)[-1])
+./shell/ash.c:#define STADJUST(amount, p)     ((p) += (amount))
+./shell/ash.c:#define grabstackstr(p)         stalloc((char *)(p) - (char *)stackblock())
+./shell/ash.c:#define ungrabstackstr(s, p)    stunalloc(s)
+./shell/ash.c:#define stackstrend()           ((void *)sstrend)
+./shell/ash.c:	int flags;                      /* flags are defined above */
+./shell/ash.c:#define VEXPORT         0x01    /* variable is exported */
+./shell/ash.c:#define VREADONLY       0x02    /* variable cannot be modified */
+./shell/ash.c:#define VSTRFIXED       0x04    /* variable struct is statically allocated */
+./shell/ash.c:#define VTEXTFIXED      0x08    /* text is statically allocated */
+./shell/ash.c:#define VSTACK          0x10    /* text is allocated on the stack */
+./shell/ash.c:#define VUNSET          0x20    /* the variable is not set */
+./shell/ash.c:#define VNOFUNC         0x40    /* don't call the callback function */
+./shell/ash.c:#define VNOSET          0x80    /* do not set variable - just readonly test */
+./shell/ash.c:#define VNOSAVE         0x100   /* when text is on the heap before setvareq */
+./shell/ash.c:# define VDYNAMIC       0x200   /* dynamic variable */
+./shell/ash.c:# define VDYNAMIC       0
+./shell/ash.c:# define chkmail()  ((void)0)
+./shell/ash.c:#define G_var (*ash_ptr_to_globals_var)
+./shell/ash.c:#define shellparam    (G_var.shellparam   )
+./shell/ash.c://#define redirlist     (G_var.redirlist    )
+./shell/ash.c:#define preverrout_fd (G_var.preverrout_fd)
+./shell/ash.c:#define vartab        (G_var.vartab       )
+./shell/ash.c:#define varinit       (G_var.varinit      )
+./shell/ash.c:#define INIT_G_var() do { \
+./shell/ash.c:#define vifs      varinit[0]
+./shell/ash.c:# define vmail    (&vifs)[1]
+./shell/ash.c:# define vmpath   (&vmail)[1]
+./shell/ash.c:# define vpath    (&vmpath)[1]
+./shell/ash.c:# define vpath    (&vifs)[1]
+./shell/ash.c:#define vps1      (&vpath)[1]
+./shell/ash.c:#define vps2      (&vps1)[1]
+./shell/ash.c:#define vps4      (&vps2)[1]
+./shell/ash.c:# define voptind  (&vps4)[1]
+./shell/ash.c:#  define vrandom (&voptind)[1]
+./shell/ash.c:#  define vrandom (&vps4)[1]
+./shell/ash.c:#define ifsval()        (vifs.var_text + 4)
+./shell/ash.c:#define ifsset()        ((vifs.flags & VUNSET) == 0)
+./shell/ash.c:# define mailval()      (vmail.var_text + 5)
+./shell/ash.c:# define mpathval()     (vmpath.var_text + 9)
+./shell/ash.c:# define mpathset()     ((vmpath.flags & VUNSET) == 0)
+./shell/ash.c:#define pathval()       (vpath.var_text + 5)
+./shell/ash.c:#define ps1val()        (vps1.var_text + 4)
+./shell/ash.c:#define ps2val()        (vps2.var_text + 4)
+./shell/ash.c:#define ps4val()        (vps4.var_text + 4)
+./shell/ash.c:# define optindval()    (voptind.var_text + 7)
+./shell/ash.c:# define reinit_unicode_for_ash() ((void)0)
+./shell/ash.c:#define CD_PHYSICAL 1
+./shell/ash.c:#define CD_PRINT 2
+./shell/ash.c:#define IBUFSIZ (ENABLE_FEATURE_EDITING ? CONFIG_FEATURE_EDITING_MAX_LEN : 1024)
+./shell/ash.c:#define CWORD     0             /* character is nothing special */
+./shell/ash.c:#define CNL       1             /* newline character */
+./shell/ash.c:#define CBACK     2             /* a backslash character */
+./shell/ash.c:#define CSQUOTE   3             /* single quote */
+./shell/ash.c:#define CDQUOTE   4             /* double quote */
+./shell/ash.c:#define CENDQUOTE 5             /* a terminating quote */
+./shell/ash.c:#define CBQUOTE   6             /* backwards single quote */
+./shell/ash.c:#define CVAR      7             /* a dollar sign */
+./shell/ash.c:#define CENDVAR   8             /* a '}' character */
+./shell/ash.c:#define CLP       9             /* a left paren in arithmetic */
+./shell/ash.c:#define CRP      10             /* a right paren in arithmetic */
+./shell/ash.c:#define CENDFILE 11             /* end of file */
+./shell/ash.c:#define CCTL     12             /* like CWORD, except it must be escaped */
+./shell/ash.c:#define CSPCL    13             /* these terminate a word */
+./shell/ash.c:#define CIGN     14             /* character should be ignored */
+./shell/ash.c:#define PEOF     256
+./shell/ash.c:# define PEOA    257
+./shell/ash.c:#define USE_SIT_FUNCTION ENABLE_ASH_OPTIMIZE_FOR_SIZE
+./shell/ash.c:# define SIT_ITEM(a,b,c,d) (a | (b << 4) | (c << 8) | (d << 12))
+./shell/ash.c:# define SIT_ITEM(a,b,c,d) (a | (b << 4) | (c << 8))
+./shell/ash.c:#define BASESYNTAX 0    /* not in quotes */
+./shell/ash.c:#define DQSYNTAX   1    /* in double quotes */
+./shell/ash.c:#define SQSYNTAX   2    /* in single quotes */
+./shell/ash.c:#define ARISYNTAX  3    /* in arithmetic */
+./shell/ash.c:#define PSSYNTAX   4    /* prompt. never passed to SIT() */
+./shell/ash.c:# define SIT(c, syntax) ((S_I_T[syntax_index_table[c]] >> ((syntax)*4)) & 0xf)
+./shell/ash.c:# define SIT(c, syntax) \
+./shell/ash.c:#define ALIASINUSE 1
+./shell/ash.c:#define ALIASDEAD  2
+./shell/ash.c:#define INIT_G_alias() do { \
+./shell/ash.c:#define FORK_FG    0
+./shell/ash.c:#define FORK_BG    1
+./shell/ash.c:#define FORK_NOJOB 2
+./shell/ash.c:#define SHOW_ONLY_PGID  0x01    /* show only pgid (jobs -p) */
+./shell/ash.c:#define SHOW_PIDS       0x02    /* show individual pids, not just one line per job */
+./shell/ash.c:#define SHOW_CHANGED    0x04    /* only jobs whose state has changed */
+./shell/ash.c:#define SHOW_STDERR     0x08    /* print to stderr (else stdout) */
+./shell/ash.c:#define JOBRUNNING      0       /* at least one proc running */
+./shell/ash.c:#define JOBSTOPPED      1       /* all procs are stopped */
+./shell/ash.c:#define JOBDONE         2       /* all procs are completed */
+./shell/ash.c:#define setjobctl(on) do {} while (0)
+./shell/ash.c:#define CUR_DELETE 2
+./shell/ash.c:#define CUR_RUNNING 1
+./shell/ash.c:#define CUR_STOPPED 0
+./shell/ash.c: * NameError: name 'qwerty' is not defined
+./shell/ash.c:# define get_tty_state() ((void)0)
+./shell/ash.c:# define restore_tty_if_stopped_or_signaled(jp) ((void)0)
+./shell/ash.c:#define getjob(name, getctl) getjob(name)
+./shell/ash.c:#define DOWAIT_NONBLOCK 0
+./shell/ash.c:#define DOWAIT_BLOCK    1
+./shell/ash.c:#define DOWAIT_BLOCK_OR_SIG 2
+./shell/ash.c:#define joff(p) ((struct job *)((char *)(p) + l))
+./shell/ash.c:#define jmove(p) (p) = (void *)((char *)(p) + offset)
+./shell/ash.c:#define forkparent(jp, n, mode, pid) forkparent(jp, mode, pid)
+./shell/ash.c:#define EMPTY -2                /* marks an unused slot in redirtab */
+./shell/ash.c:#define CLOSED -3               /* marks a slot of previously-closed fd */
+./shell/ash.c:#define redirlist (G_var.redirlist)
+./shell/ash.c:#define REDIR_PUSH    01        /* save previous values of file descriptors */
+./shell/ash.c:#define REDIR_SAVEFD2 03        /* set preverrout */
+./shell/ash.c:#if defined(F_DUPFD_CLOEXEC)
+./shell/ash.c:#if !defined(F_DUPFD_CLOEXEC)
+./shell/ash.c:#define EXP_FULL        0x1     /* perform word splitting & file globbing */
+./shell/ash.c:#define EXP_TILDE       0x2     /* do normal tilde expansion */
+./shell/ash.c:#define EXP_VARTILDE    0x4     /* expand tildes in an assignment */
+./shell/ash.c:#define EXP_REDIR       0x8     /* file glob for a redirection (1 match only) */
+./shell/ash.c:#define EXP_CASE        0x10    /* keeps quotes around for CASE pattern */
+./shell/ash.c:#define EXP_QPAT        0x20    /* pattern in quoted parameter expansion */
+./shell/ash.c:#define EXP_VARTILDE2   0x40    /* expand tildes after colons only */
+./shell/ash.c:#define EXP_WORD        0x80    /* expand word in parameter expansion */
+./shell/ash.c:#define EXP_QUOTED      0x100   /* expand word in double quotes */
+./shell/ash.c:#define RMESCAPE_ALLOC  0x1     /* Allocate a new string */
+./shell/ash.c:#define RMESCAPE_GLOB   0x2     /* Add backslashes for glob */
+./shell/ash.c:#define RMESCAPE_GROW   0x8     /* Grow strings instead of stalloc */
+./shell/ash.c:#define RMESCAPE_HEAP   0x10    /* Malloc strings instead of stalloc */
+./shell/ash.c:#define RMESCAPE_SLASH  0x20    /* Stop globbing after slash */
+./shell/ash.c:#define QUOTES_ESC     (EXP_FULL | EXP_CASE | EXP_QPAT | EXP_REDIR)
+./shell/ash.c:#define QUOTES_KEEPNUL EXP_TILDE
+./shell/ash.c:# define ARITH_FMT "%ld"
+./shell/ash.c:#define pmatch(a, b) !fnmatch((a), (b), 0)
+./shell/ash.c:#define EV_EXIT 01              /* exit after evaluating tree */
+./shell/ash.c:#define IS_BUILTIN_SPECIAL(b) ((b)->name[0] & 1)
+./shell/ash.c:#define IS_BUILTIN_REGULAR(b) ((b)->name[0] & 2)
+./shell/ash.c:#define IS_BUILTIN_ASSIGN(b)  ((b)->name[0] & 4)
+./shell/ash.c:#define CMDUNKNOWN      -1      /* no entry in table for command */
+./shell/ash.c:#define CMDNORMAL       0       /* command is an executable program */
+./shell/ash.c:#define CMDFUNCTION     1       /* command is a shell function */
+./shell/ash.c:#define CMDBUILTIN      2       /* command is a shell builtin */
+./shell/ash.c:#define DO_ERR          0x01    /* prints errors */
+./shell/ash.c:#define DO_ABS          0x02    /* checks absolute paths */
+./shell/ash.c:#define DO_NOFUNC       0x04    /* don't return shell functions, for command */
+./shell/ash.c:#define DO_ALTPATH      0x08    /* using alternate path */
+./shell/ash.c:#define DO_ALTBLTIN     0x20    /* %builtin in alt. path */
+./shell/ash.c:#define INIT_G_cmdtable() do { \
+./shell/ash.c:#define KWDOFFSET 13
+./shell/ash.c:#define EV_EXIT    01           /* exit after evaluating tree */
+./shell/ash.c:#define EV_TESTED  02           /* exit status is checked; ignore -e flag */
+./shell/ash.c:#define SKIPBREAK      (1 << 0)
+./shell/ash.c:#define SKIPCONT       (1 << 1)
+./shell/ash.c:#define SKIPFUNC       (1 << 2)
+./shell/ash.c:#if !defined(__alpha__) || (defined(__GNUC__) && __GNUC__ >= 3)
+./shell/ash.c:#define BUILTIN_NOSPEC          "0"
+./shell/ash.c:#define BUILTIN_SPECIAL         "1"
+./shell/ash.c:#define BUILTIN_REGULAR         "2"
+./shell/ash.c:#define BUILTIN_SPEC_REG        "3"
+./shell/ash.c:#define BUILTIN_ASSIGN          "4"
+./shell/ash.c:#define BUILTIN_SPEC_ASSG       "5"
+./shell/ash.c:#define BUILTIN_REG_ASSG        "6"
+./shell/ash.c:#define BUILTIN_SPEC_REG_ASSG   "7"
+./shell/ash.c:#define COMMANDCMD (builtintab + \
+./shell/ash.c:#define EVALCMD (COMMANDCMD + \
+./shell/ash.c:#define EXECCMD (EVALCMD + \
+./shell/ash.c:#define CHKALIAS        0x1
+./shell/ash.c:#define CHKKWD          0x2
+./shell/ash.c:#define CHKNL           0x4
+./shell/ash.c:#define pushstring(s, ap) pushstring(s)
+./shell/ash.c://#define pgetc_debug(...) bb_error_msg(__VA_ARGS__)
+./shell/ash.c:#define pgetc_debug(...) ((void)0)
+./shell/ash.c:# define pgetc_without_PEOA() pgetc()
+./shell/ash.c:#define EOFMARKLEN 79
+./shell/ash.c:#define CHECKEND()      {goto checkend; checkend_return:;}
+./shell/ash.c:#define PARSEREDIR()    {goto parseredir; parseredir_return:;}
+./shell/ash.c:#define PARSESUB()      {goto parsesub; parsesub_return:;}
+./shell/ash.c:#define PARSEBACKQOLD() {oldstyle = 1; goto parsebackq; parsebackq_oldreturn:;}
+./shell/ash.c:#define PARSEBACKQNEW() {oldstyle = 0; goto parsebackq; parsebackq_newreturn:;}
+./shell/ash.c:#define PARSEARITH()    {goto parsearith; parsearith_return:;}
+./shell/ash.c:#define is_special(c) \
+./shell/ash.c:#define NEW_xxreadtoken
+./shell/ash.c:#define xxreadtoken_singles 3
+./shell/ash.c:#define xxreadtoken_doubles 3
+./shell/ash.c:#define RETURN(token)   return lasttoken = token
+./shell/ash.c:				ash_msg_and_raise_error("%s not defined in %s", name, fullname);
+./shell/ash.c://usage:#define ash_trivial_usage
+./shell/ash.c://usage:#define ash_full_usage "\n\n"
