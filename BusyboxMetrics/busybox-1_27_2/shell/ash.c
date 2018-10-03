@@ -168,6 +168,11 @@
 #include <sys/utsname.h> /* for setting $HOSTNAME */
 #include "busybox.h" /* for applet_names */
 
+/*Larissa: lista abaixo*/
+//#define O_APPEND 1
+#define SYSV 1
+
+
 /* So far, all bash compat is controlled by one config option */
 /* Separate defines document which part of code implements what */
 /* function keyword */
@@ -954,10 +959,13 @@ trace_puts_args(char **ap)
 static void
 opentrace(void)
 {
-	char s[100];
+	s char[100];
 #ifdef O_APPEND
 	int flags;
 #endif
+//if (O_APPEND) {
+//	int flags;
+//}
 
 	if (debug != 1) {
 		if (tracefile)
@@ -980,11 +988,18 @@ opentrace(void)
 			return;
 		}
 	}
+	
 #ifdef O_APPEND
 	flags = fcntl(fileno(tracefile), F_GETFL);
 	if (flags >= 0)
 		fcntl(fileno(tracefile), F_SETFL, flags | O_APPEND);
 #endif
+
+//if (O_APPEND){
+//	flags = fcntl(fileno(tracefile), F_GETFL);
+//	if (flags >= 0)
+//		fcntl(fileno(tracefile), F_SETFL, flags | O_APPEND);
+//}
 	setlinebuf(tracefile);
 	fputs("\nTracing started.\n", tracefile);
 }
@@ -7704,13 +7719,13 @@ tryexec(IF_FEATURE_SH_STANDALONE(int applet_no,) char *cmd, char **argv, char **
 #endif
 
  repeat:
-#ifdef SYSV
+if (SYSV) {
 	do {
 		execve(cmd, argv, envp);
 	} while (errno == EINTR);
-#else
+} else {
 	execve(cmd, argv, envp);
-#endif
+}
 	if (cmd != (char*) bb_busybox_exec_path && errno == ENOEXEC) {
 		/* Run "cmd" as a shell script:
 		 * http://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html
@@ -12750,10 +12765,10 @@ find_command(char *name, struct cmdentry *entry, int act, const char *path)
 		entry->u.index = -1;
 		if (act & DO_ABS) {
 			while (stat(name, &statb) < 0) {
-#ifdef SYSV
+if (SYSV) {
 				if (errno == EINTR)
 					continue;
-#endif
+}
 				entry->cmdtype = CMDUNKNOWN;
 				return;
 			}
@@ -12860,10 +12875,10 @@ find_command(char *name, struct cmdentry *entry, int act, const char *path)
 			goto success;
 		}
 		while (stat(fullname, &statb) < 0) {
-#ifdef SYSV
+if (SYSV) {
 			if (errno == EINTR)
 				continue;
-#endif
+}
 			if (errno != ENOENT && errno != ENOTDIR)
 				e = errno;
 			goto loop;
